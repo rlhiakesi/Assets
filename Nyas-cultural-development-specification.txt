@@ -1,0 +1,294 @@
+NYAS CULTURAL DEVELOPMENT SPECIFICATION
+IAKESI Production Canon
+
+PURPOSE
+
+This document defines the canonical visual and cultural attributes of Nyas for use in scripts, asset generation, page rendering, and continuity review. It is based on the Nyssarian sequences shown in IAKESI Chapters 2 and 3 and the canonical Nyssarian Language and Script reference.
+
+When this file conflicts with an incidental detail in a generated panel, this specification controls. Character-specific sheets and explicit script instructions may override general cultural conventions, but they do not override mandatory species traits unless the script identifies a non-Nyssarian character, disguise, mutation, or other deliberate exception.
+
+
+1. TERMINOLOGY
+
+Nyas
+    The world and civilization.
+
+Nyssarian
+    A person, object, custom, language, or design originating in Nyas.
+
+Nyssara
+    The goddess associated with Nyas. Do not confuse Nyssara with the name of the world or the Nyssarian people.
+
+
+2. MANDATORY NYSSARIAN PHYSICAL ATTRIBUTES
+
+2.1 Ears
+
+- All Nyssarians have clearly pointed elven ears.
+- The ears extend outward and slightly upward from the sides of the head.
+- Pointed ears must remain visible whenever hairstyle, camera angle, and headwear reasonably permit.
+- Nyssarian ears must not be replaced by ordinary rounded human ears.
+- The ears should look naturally anatomical rather than like detachable costume pieces.
+
+2.2 Hair
+
+- Nyssarians have a broad range of hair colors.
+- Chapter 3 includes black, dark brown, chestnut, red, silver, pale blond, blue-violet, purple, and muted green hair.
+- No single hair color identifies all Nyssarians.
+- Hair color may help distinguish individuals in large classrooms, laboratories, workshops, and research teams.
+- Hairstyles are generally practical for study or work, though long hair remains common.
+- Long hair may be braided, tied back, partially gathered, or worn loose when it does not interfere with the character's task.
+
+2.3 General appearance
+
+- Nyssarians are otherwise human in overall anatomy and proportion.
+- Children, adults, and elderly people must be visibly distinguishable.
+- Normal variation in complexion, build, facial structure, and eye color is permitted.
+- Alert eyes, intent expressions, and task-focused body language are common visual cues.
+- Nyssarians should not be made uniformly delicate or ethereal merely because they have elven ears. Miners, smiths, engineers, laborers, and industrial workers may have sturdy, muscular, or weathered builds appropriate to their work.
+
+
+3. CLOTHING AND PERSONAL EQUIPMENT
+
+3.1 General clothing language
+
+- Nyssarian clothing is practical, layered, and occupation-oriented.
+- Common garments include shirts, fitted jackets, vests, aprons, work coats, long skirts, trousers, robes, gloves, and protective outer layers.
+- Dark blue, charcoal, brown, black, muted green, burgundy, and worn neutral fabrics dominate technical and industrial settings.
+- Pale shirts and metallic fasteners provide contrast.
+- Clothing may include pockets, straps, tool loops, reinforced seams, and protective leather components.
+- Scholars and teachers may wear refined robes or long coats, but their clothing should still support active work with books, instruments, or demonstrations.
+- Engineers, miners, smiths, technicians, and factory workers should wear role-appropriate protective clothing.
+- Industrial-era clothing may incorporate goggles, gloves, caps, aprons, and protective eyewear where appropriate.
+- Modern Earth logos, printed text, synthetic-looking sportswear, and contemporary fasteners must not appear unless explicitly required.
+
+3.2 Visual continuity
+
+- Recurring uniforms, institutional clothing, and occupational outfits must remain consistent across panels and pages.
+- Crowd variety should come from faces, hair, age, role, accessories, and established garment variations rather than arbitrary costume changes.
+- Equipment carried by a specialist should remain consistent with the person's occupation and technological period.
+
+
+4. NYSSARIAN LANGUAGE AND ENVIRONMENTAL WRITING
+
+4.1 Core script rule
+
+- All Nyssarian writing is fictional.
+- Never use or imitate Latin, Greek, Cyrillic, Arabic, Hebrew, Japanese, Chinese, Korean, Thai, or another real-world writing system.
+- Do not substitute pseudo-Japanese or pseudo-Chinese characters.
+- One consistent Nyssarian script is used throughout Nyas on books, signs, scientific papers, maps, printing presses, diagrams, labels, and public notices.
+- Recognizable Earth-like characters appearing in older IAKESI artwork are noncanonical rendering artifacts. They must not be repeated in future artwork.
+
+4.2 Glyph design
+
+- Nyssarian glyphs are engineered pictographs.
+- They are composed from precise straight stems, wedges, hooks, loops, enclosed squares or circles, dots, and short crossbars.
+- Glyphs should appear carefully drafted, engraved, typeset, or mechanically printed rather than painted with expressive brush strokes.
+- The script should visually evoke scholarship, measurement, engineering, and accumulated knowledge.
+
+4.3 Writing direction and spacing
+
+- Classical Nyssarian is written in vertical columns from top to bottom.
+- Columns are ordered from right to left.
+- Words are separated by a small divider mark rather than blank spaces.
+- Page layouts, signs, labels, and inscriptions must preserve this directional structure.
+
+4.4 Historical development
+
+- Early manuscripts use ornate Classical Nyssarian glyphs.
+- After the invention of printing, the glyphs become simplified and standardized for movable type.
+- Printed glyphs remain recognizably related to their classical forms.
+- Later technical documents use increasingly regular spacing, alignment, and standardized symbols.
+
+4.5 Numbers and technical notation
+
+- Nyas uses dedicated base-12 numeral symbols unrelated to Arabic numerals.
+- Scientific diagrams may combine Nyssarian glyphs with measurement marks, arrows, graph lines, geometric constructions, and schematic symbols.
+- Technical markings must remain fictional and visually consistent with Nyssarian design.
+
+4.6 Reader-facing text exception
+
+- Nyssarian script applies only to text physically present within the depicted environment.
+- It does not apply to narration boxes, dialogue balloons, thought balloons, chapter titles, credits, or other editorial text intended directly for the reader.
+- Reader-facing text remains in the normal publication language and lettering style.
+
+
+5. ARCHITECTURE AND CITY DESIGN
+
+- Nyssarian architecture develops from timber-and-stone communities into dense scholarly, industrial, and technological cities.
+- Early institutions resemble large communal halls, schools, libraries, workshops, and fortified academic complexes.
+- Mature cities use dark stone, brick, iron, copper, glass, and blue mana-crystal illumination.
+- Gothic and civic forms are common: tall windows, steep roofs, towers, spires, domes, bridges, monumental schools, and large research buildings.
+- Industrial districts include foundries, mills, workshops, rail yards, power stations, telegraph infrastructure, cranes, warehouses, and smokestacks.
+- Technical systems are visible and understandable: pipes, coils, gears, cables, dynamos, rails, conduits, and structural frameworks may remain exposed.
+- Cities become increasingly dense, connected, illuminated, and engineered over time.
+- Blue crystal light provides a recurring visual identity across laboratories, streets, hospitals, schools, factories, and infrastructure.
+- Nyas should not look like Zora with darker colors. Its environments must visibly express experimentation, manufacture, documentation, and continuous technical revision.
+
+
+6. MANA CRYSTALS AND TECHNOLOGY
+
+- Nyssarian development centers on observation, experimentation, engineering, and the systematic use of mana-bearing minerals.
+- Mana crystals become a major power source and research material.
+- Crystals may be studied, cut, mounted, wired, enclosed, measured, transported, and incorporated into machines.
+- Their use should appear engineered rather than devotional.
+- Blue crystals are the dominant recurring power-source image in Chapter 3, with other crystal colors appearing during comparative experiments.
+- Crystal systems may power lighting, motors, laboratories, workshops, communications, medical equipment, civic systems, and transportation.
+- Crystal glow should normally have a visible physical source. Do not fill a panel with unexplained magical light when a specific device or crystal is responsible.
+
+Common technological components include:
+
+- Copper wire and wound coils
+- Gears and precision mechanisms
+- Glass vessels and laboratory tubing
+- Measuring instruments and gauges
+- Mana-crystal mounts
+- Dynamos and generators
+- Electric motors
+- Lamps and civic lighting
+- Telegraph equipment and transmission lines
+- Printing presses
+- Rail systems and steam locomotives
+- Maps, technical plans, and schematics
+
+
+7. SCIENCE, EXPERIMENTATION, AND DISCOVERY
+
+- Curiosity is the defining Nyssarian cultural virtue.
+- Questions are welcomed and investigated rather than treated as disobedience.
+- Observation, recordkeeping, testing, replication, revision, and public discussion form the basis of Nyssarian knowledge.
+- Nyssarians commonly work in teams.
+- Discoveries are demonstrated, challenged, repeated, and improved by others.
+- Failed experiments are part of the development process and should not automatically be portrayed as shameful.
+- A claim gains authority through evidence and reproducibility rather than the speaker's social status alone.
+- Scientific scenes should show active work: comparing samples, reading instruments, drawing diagrams, recording observations, building apparatus, debating interpretations, or repeating a test.
+- Laboratories should contain purposeful apparatus rather than arbitrary collections of glowing props.
+
+
+8. EDUCATION AND THE SPREAD OF KNOWLEDGE
+
+- Education is communal, sustained, and central to Nyssarian identity.
+- Students learn in groups through books, discussion, demonstrations, experiments, and practical work.
+- Teachers encourage students to explain reasoning and test propositions.
+- Libraries, schools, academies, laboratories, and workshops are major civic institutions.
+- Early knowledge spreads through handwritten books and direct instruction.
+- The printing press transforms scholarship by making texts reproducible and widely available.
+- Printed material becomes standardized while retaining the canonical Nyssarian script.
+- Literacy and technical education spread beyond elite scholars into trades, industry, communications, and public life.
+- Children are shown participating in experiments and technical learning, not merely receiving passive instruction.
+
+
+9. INDUSTRY AND INFRASTRUCTURE
+
+- Nyssarian progress is cumulative: each successful tool enables further questions and inventions.
+- Mining supplies ore and mana crystals.
+- Metallurgy supplies improved tools, wire, structural components, and machine parts.
+- Water power, steam power, mana crystals, electricity, and motors appear as successive or overlapping stages of development.
+- Workshops grow into coordinated industrial systems.
+- Electrical and mana-crystal lighting extend study, production, and medical work beyond daylight hours.
+- Telegraph networks allow messages to travel faster than people.
+- Railways connect regions, accelerate trade, and help unify Nyas.
+- Later cities contain integrated networks of power, transportation, communication, education, medicine, and manufacturing.
+- Industrial achievement should carry visible costs where appropriate: smoke, crowding, noise, fatigue, resource extraction, and dependence on large systems.
+
+
+10. MEDICINE
+
+- Nyssarian medicine develops through study, observation, instruments, accumulated records, and engineered technology.
+- Medical spaces may combine conventional care, crystal-powered illumination, diagnostic instruments, and experimental apparatus.
+- Practitioners should appear to examine, record, compare, and treat rather than simply invoke an unexplained healing glow.
+- Advances should feel incremental and evidence-based.
+- Hospitals and medical laboratories share the broader Nyssarian emphasis on clean workspaces, documentation, instruments, and trained specialists.
+
+
+11. CIVIC AND SOCIAL CHARACTER
+
+- Nyssarian society is collaborative, ambitious, questioning, and increasingly self-sustaining.
+- Knowledge is treated as a public resource that should be preserved and circulated.
+- Prestige attaches to discovery, teaching, engineering, invention, and practical improvement.
+- Research teams and institutions are socially important.
+- Public life increasingly depends on interlocking systems rather than isolated household magic.
+- Nyssarians take pride in solving problems through investigation and construction.
+- Their civilization does not remain static: tools, buildings, transportation, communication, and institutions visibly change across generations.
+- The culture's strength is its ability to preserve discoveries and build upon them.
+- Early Nyssarian government develops through public argument, councils of elders, voting, negotiated agreements, and acceptance of collective decisions.
+- A formative water dispute is resolved when competing villages present their claims, the elders vote, and the resulting water-sharing agreement is accepted without continued violence.
+- This tradition establishes that civic authority should hear competing claims and produce a decision the community can follow.
+- Exploration, roads, caravans, merchants, markets, craft organizations, and interregional exchange help ideas travel between settlements.
+- Civic leaders arise to settle disputes, maintain order, and protect people and property.
+
+
+12. RELATIONSHIP TO NYSSARA
+
+- Nyssara guides and observes Nyas during its early development.
+- Nyssarians receive an initial divine influence, but their culture does not remain dependent upon repeated direct intervention.
+- Early Nyssarian communities build temples and shrines, preserve religious stories, and may attribute inspiration to dreams or contact with Nyssara.
+- Divine inspiration does not end inquiry. A technique attributed to Nyssara is demonstrated, learned by others, reproduced, and incorporated into shared knowledge.
+- Over time, observation, education, printing, engineering, and infrastructure allow civilization to sustain its own progress.
+- The movement away from dependence is not necessarily a rejection of Nyssara; it is the fulfillment of a culture built around learning and discovery.
+- Religious imagery should not overwhelm scientific and civic imagery in mature Nyssarian settings unless the script specifically centers worship.
+- Do not import recognizable Earth religious symbols.
+
+
+13. CULTURAL DEVELOPMENT ACROSS TIME
+
+- Nyas begins with small river-valley communities using ordinary labor and incremental invention to meet basic needs.
+- Early development includes permanent settlements, agriculture, irrigation, animal domestication, pottery, weaving, stone tools, controlled fire, wheels, carts, rafts, roads, and overland trade.
+- Nyssarians begin exploring beyond their original settlements, encouraging geographic knowledge, exchange, and contact between communities.
+- Writing, recordkeeping, merchants, markets, caravans, craft specialization, civic leadership, temples, shrines, and preserved stories emerge before the mature scientific age.
+- Early Nyssarian communities gather around shared instruction, books, and practical learning.
+- Handwritten knowledge is copied, debated, and distributed.
+- Printing allows ideas to travel faster and remain more consistent.
+- Mining and metallurgy create better tools and expose new materials.
+- Scholars investigate mana crystals as physical phenomena.
+- Experiments with coils, wire, crystals, measurement, and energy lead to electrical and mana-powered machinery.
+- Water power, steam, motors, lighting, telegraphy, and railways transform production and travel.
+- Research moves from individual work into laboratories, schools, industrial teams, hospitals, and public institutions.
+- Cities become denser, brighter, more connected, and more technologically complex.
+- Each century should show visible technical and architectural change.
+- Mature Nyas is a self-sustaining civilization whose primary engine of development is organized curiosity.
+
+13.1 The formative drought
+
+- During the first severe drought, Nyssarians suffer but do not wait indefinitely for rescue.
+- They observe the land, search for water, organize communal labor, and excavate a large well.
+- They eventually reach groundwater through persistence and a constructed solution.
+- The drought establishes a lasting Nyssarian response to crisis: investigate the problem, share observations, organize labor, and build a practical remedy.
+
+
+14. CONTRAST WITH ZORA
+
+- Zora integrates controlled magic directly into graceful everyday life; Nyas increasingly studies mana as a measurable resource that can be engineered into systems.
+- Zoran development is stable and conservative; Nyssarian development is visibly iterative and transformative.
+- Zora emphasizes harmony, beauty, continuity, healing, and unhurried refinement.
+- Nyas emphasizes inquiry, evidence, invention, documentation, industry, and rapid cumulative progress.
+- Zoran environments favor pale stone, gold, gardens, water, and architectural integration.
+- Nyssarian environments favor darker materials, laboratories, libraries, workshops, visible mechanisms, copper, iron, rail, and blue crystal power.
+- The two civilizations must remain visually and culturally distinguishable even when both use mana and blue crystals.
+- Both peoples begin with comparable physical needs and basic technologies. Their divergence comes from their characteristic response to uncertainty: Nyas increasingly favors investigation, debate, and constructed solutions, while Zora increasingly favors continuity, faith, mana, and divine protection.
+
+
+15. PRODUCTION CONTINUITY CHECKLIST
+
+Before approving any panel set in Nyas, verify the following:
+
+[ ] Every Nyssarian has clearly pointed elven ears.
+[ ] Hair colors remain varied rather than following Zoran white/platinum rules.
+[ ] Clothing matches the character's occupation and historical period.
+[ ] Environmental writing uses the canonical Nyssarian script.
+[ ] Classical text runs vertically, top-to-bottom, with columns ordered right-to-left.
+[ ] Nyssarian words use divider marks rather than ordinary spaces.
+[ ] Numerals use the Nyssarian base-12 system rather than Arabic digits.
+[ ] Narration and dialogue remain normally readable by the audience.
+[ ] Laboratories contain purposeful, coherent apparatus.
+[ ] Crystal-powered effects have an identifiable physical source.
+[ ] Architecture reflects the correct stage of Nyssarian development.
+[ ] Printing, industry, communications, and transportation appear only after their development.
+[ ] Unapproved Earth writing, symbols, logos, and modern devices are absent.
+[ ] Older pseudo-East-Asian glyph artifacts have not been reproduced.
+[ ] Nyas remains visibly distinct from Zora.
+
+
+16. CORE VISUAL SUMMARY
+
+Nyas is a questioning, technically ambitious civilization distinguished by elven-eared people with varied hair colors, precise vertical pictographic writing, communal scholarship, extensive recordkeeping, dark academic and industrial architecture, copper-and-iron machinery, blue mana-crystal power systems, printing, laboratories, communications, railways, and a culture that converts curiosity into cumulative progress.

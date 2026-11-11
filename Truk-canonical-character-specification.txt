@@ -1,0 +1,168 @@
+TRUK CANONICAL CHARACTER SPECIFICATION IAKESI Revised Edition
+
+PURPOSE This file is the binding textual reference for Truk in Chapters
+7 and 8. Use it together with Truk-character-reference.png and
+Truk-expressions.png. If incidental artwork conflicts with this
+specification, this specification controls unless the script explicitly
+establishes a temporary change.
+
+IDENTITY Name: Truk Race/Nationality: Earth human; Japanese Sex: Male
+Age during Chapter 7: Approximately 50–60 Height: Approximately 5 feet 8
+inches / 173 cm Build: Solid, mature, well-kept Role: Senior Kamakura
+official with authority to hear the Aokawa petition Home/Location:
+Kamakura Status at end of Chapter 7: Alive Chapter 8 fate: Killed by
+Takeshi
+
+STORY FUNCTION Truk is the principal human antagonist of Chapter 7. He
+represents abusive authority rather than a misunderstood or benevolent
+administrator. Before Haru and Emi arrive, Truk already knows that rural
+villages are suffering severe shortages. He nevertheless insists that
+obligations be collected. Haru and Emi therefore confront him with
+suffering he has already chosen to disregard.
+
+Truk hears their petition and refuses relief. When Haru points out the
+practical consequence of stripping a starving village of its remaining
+resources, Truk treats the challenge to his judgment and authority as
+defiance. He orders Haru and Emi executed without a meaningful trial or
+appeal.
+
+Truk survives Chapter 7. Takeshi kills him in Chapter 8.
+
+PERSONALITY Truk is intelligent, analytical, observant, authoritarian,
+disciplined, calculating, arrogant, dismissive, politically aware, and
+deeply conscious of hierarchy. He values order, procedure, control, and
+institutional stability above the welfare of powerless villagers. He is
+calm in public and does not need theatrical rage to be cruel.
+
+Do not soften Truk into a basically fair official trapped by the system.
+He knowingly understands that villages are suffering and chooses
+enforcement anyway. He does not need to hate peasants personally; he
+regards their suffering as subordinate to order and authority.
+
+FACE AND HEAD Apparent age: Approximately 50–60 Face: Mature, angular,
+stern, with sharp eyes Eyes: Dark brown Hair: Black, worn beneath formal
+court headwear Facial hair: Trim mustache and goatee Default expression:
+Cold, controlled, judgmental Ears: Normal human ears No supernatural
+features
+
+BODY AND SILHOUETTE Height: Approximately 5’8” / 173 cm Build: Solid and
+well-kept, not oversized or warrior-muscular Binding silhouette: -
+formal black court headwear / eboshi-style cap; - dark layered Kamakura
+official clothing; - restrained antique-gold detailing; - broad formal
+sleeves; - upright controlled posture. His authority should come from
+bearing, setting, clothing, and the behavior of subordinates rather than
+physical intimidation.
+
+CLOTHING Primary attire: Formal dark Kamakura-period
+administrative/court clothing Main colors: Black, charcoal, very dark
+indigo Trim/pattern: Restrained antique-gold patterning Inner robe: Dark
+muted brown/indigo Headwear: Formal black court cap Footwear:
+Period-appropriate formal footwear Condition: Immaculate and well
+maintained Overall impression: Senior administrative authority, not
+battlefield warrior
+
+The approved design preserves the original Truk face and black/gold
+silhouette while removing unsupported bureaucratic lore and invented
+Japanese labeling.
+
+OFFICE AND TITLE The story requires Truk to be a powerful Kamakura
+official capable of hearing the petition and abusing his authority.
+Production-facing labels should use “Truk — Senior Official,” “Truk —
+Kamakura Official,” or similarly neutral English wording. Do NOT use the
+earlier invented title “Gokushō Bugyō.” Do NOT use 御家人奉行 as Truk’s
+title. Do NOT claim that “Senior Magistrate of Petitions” is his
+historical office. Do NOT state that he was directly appointed by the
+Shōgun unless a later script explicitly establishes it. Do not build
+story logic around a precise historical bureaucratic title that has not
+been established.
+
+EQUIPMENT AND PROPS Default character appearance: No weapon. Petition
+scroll/document: Permitted when required by the scene. Administrative
+documents: Permitted. Brush and ink: Permitted if valid scene content is
+established. Official seals: Only if the actual Japanese seal text has
+been deliberately established and validated. No modern objects. No
+fantasy or magical equipment.
+
+EXPRESSIONS Canonical expressions include: - neutral; - dismissive; -
+contemptuous; - thinking; - irritated; - angry; - speaking; - cold; -
+curious; - calculating; - satisfied; - weary; - disapproving; -
+skeptical; - commanding. Truk normally remains controlled. Avoid cartoon
+villain laughter, manic rage, exaggerated sadism, or comedy expressions.
+
+POSTURE AND MOVEMENT Truk’s posture is upright, deliberate, and
+economical. He does not need to shout or wave his arms to command
+attention. In the Audience Chamber, he listens from a position of
+institutional power. His gestures should be small and decisive: looking
+down at petitioners, reviewing a document, raising a hand to stop
+discussion, issuing an order, or turning away after judgment.
+
+RELATIONSHIPS Haru and Emi: Aokawa villagers who petition for relief.
+Truk rejects them despite knowing rural conditions are severe and orders
+their execution after Haru challenges his judgment. Midori: Truk does
+not personally interact with Midori in Chapter 7. Takeshi: Secretly
+observes the proceedings. Takeshi later kills Truk in Chapter 8.
+Kamakura Messenger/Aide: Officials or subordinates who provide
+information and carry out administrative duties. Aokawa: Truk has no
+personal connection to the village beyond his administrative authority.
+
+CHAPTER 7 CONTINUITY Before the Aokawa petition, a Kamakura messenger
+communicates that Kamakura’s obligations are to be met in full. An aide
+warns Truk that several mountain villages are already reporting
+shortages. Truk dismisses the concern and orders collection of what is
+owed. Haru and Emi later reach Kamakura after traveling for weeks. They
+wait for permission to present their petition. They enter the Kamakura
+Audience Chamber and address Truk respectfully. Haru and Emi explain
+Aokawa’s crisis and ask for relief. Truk already knows rural communities
+are suffering. Emi asks that the burden be reduced for one year and uses
+the respectful plea “Onegaishimasu.” Truk refuses. Haru argues that if
+Truk takes what little remains, there will be nothing left to tax the
+following year. Truk treats this as insolence and defiance. He orders
+Haru and Emi executed. No meaningful trial or appeal follows. Takeshi
+witnesses the sequence and later attempts to intervene at the execution.
+Truk remains alive at the end of Chapter 7.
+
+CHAPTER 8 HANDOFF Takeshi carries guilt and anger from Haru and Emi’s
+deaths. Takeshi later kills Truk in Chapter 8. Do not kill, imprison,
+remove, or redeem Truk during Chapter 7. Do not give Truk remorse that
+would undermine the Chapter 8 confrontation unless the script explicitly
+requires it.
+
+JAPANESE LANGUAGE AND TEXT Haru and Emi may address Truk as Truk-sama
+where appropriate to Japanese social hierarchy. NO FAKE JAPANESE SCRIPT.
+Any visible Japanese writing associated with Truk—documents, seals,
+signs, calligraphy, labels, decrees, architecture, or props—must be
+genuine valid Japanese. If valid Japanese wording has not been
+deliberately established, omit the writing rather than generating
+Japanese-looking pseudo-glyphs. Do not reuse decorative calligraphy or
+seal text from older concept art merely because it looks plausible. Do
+not add Japanese titles to the character sheet unless they have been
+explicitly validated.
+
+PROHIBITED DRIFT - Do not depict Truk as a bandit, outlaw, ninja, or
+mountain warrior. - Do not depict him as a battlefield samurai. - No fur
+cloak, ragged bandit clothing, survivalist gear, or exposed muscular
+warrior styling. - No invented exact historical office title presented
+as fact. - No “Gokushō Bugyō.” - No 御家人奉行 title. - No unsupported
+claim that he is directly appointed by the Shōgun. - Do not portray him
+as fundamentally fair, altruistic, or secretly sympathetic to Aokawa. -
+Do not make him a cackling theatrical sadist. - No default sword as part
+of his defining silhouette. - No fantasy armor, magical aura, glowing
+eyes, staff, wand, or supernatural power. - No modern clothing or
+equipment. - No fake or pseudo-Japanese writing. - Do not kill Truk in
+Chapter 7. - Do not remove his responsibility for Haru and Emi’s
+execution.
+
+RENDERING PRIORITY When detail must be simplified, preserve in this
+order: 1. Mature stern face with trim mustache and goatee 2. Formal
+black court headwear 3. Dark formal Kamakura official robes 4.
+Restrained antique-gold trim/patterning 5. Upright controlled
+authoritative posture 6. Cold dismissive/judgmental expression 7.
+Period-appropriate administrative environment and props 8. No default
+weapon
+
+VISUAL STYLE IAKESI target style: approximately 70% photorealistic / 30%
+manga. Truk should look imposing because he possesses institutional
+authority, not because he resembles a fantasy warlord. Preserve the
+strong face and dark formal silhouette of the original design while
+removing unsupported bureaucratic lore, questionable Japanese labels,
+fake calligraphy, seals, and default weaponry.

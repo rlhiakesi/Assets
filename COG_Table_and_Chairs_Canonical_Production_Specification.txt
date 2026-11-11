@@ -1,0 +1,125 @@
+COUNCIL OF THE GODS (COG) TABLE & CHAIRS — CANONICAL PRODUCTION
+SPECIFICATION
+
+PURPOSE Defines the canonical COG table, chairs, seating geometry,
+standing positions, and immediate Council Chamber environment. These are
+persistent props and world-space constraints.
+
+TABLE Shape: Circular. Surface: Completely plain polished deep
+warm-brown wood. Approximate diameter: 9 meters. Edge: Simple restrained
+molding with optional narrow warm-gold accent. Base: Sturdy dark wood,
+visually simple.
+
+The tabletop has NO carvings, inlays, runes, writing, magic circles,
+compass roses, starbursts, central emblems, or symbolic patterns.
+Natural wood grain is material texture only.
+
+CHAIRS EXACTLY EIGHT CHAIRS.
+
+Never render seven or nine chairs. Never add a chair for Terra, Zorna,
+or Nyssara.
+
+All eight use the same canonical chair family: - High back. - Deep-blue
+upholstered back and seat. - Warm-gold frame. - Armrests with restrained
+curved ends. - Four stable carved legs. - Ornate but repeatable upper
+crest. - No generic multi-point star/compass motif.
+
+Alpha’s 12:00 chair belongs to the same chair family; it is not a
+separate throne.
+
+Approximate chair dimensions: Overall height: 1.55 m. Width: 0.65–0.80
+m. Depth: 0.70–0.80 m. Seat height: 0.50 m.
+
+CANONICAL WORLD-SPACE POSITIONS Clock positions are fixed in world space
+and do not change with camera angle.
+
+12:00 — Alpha 10:00 — Aurelia 9:00 — Pyrael 7:30 — Verdania 6:00 —
+Mortheus 4:30 — Lunaria 3:00 — Thalassor 1:30 — Vortex
+
+There is exactly one chair at each of these positions.
+
+IMPORTANT: The chairs are NOT evenly spaced at 45-degree intervals. Do
+not distribute them automatically around the circle.
+
+STANDING POSITIONS 11:00 — Intentionally open standing area for Zorna
+and Nyssara, or other visitors appearing before the Council. It must
+accommodate Zorna and Nyssara together. No permanent chair.
+
+1:00 — Intentionally open standing area for Terra, between Alpha at
+12:00 and Vortex at 1:30. Terra has no Council chair. No permanent
+chair.
+
+BLOCKING RULE Council positions are world-space constraints.
+Screen-left/screen-right ordering may change with the camera, but
+world-space positions do not.
+
+COUNCIL CHAMBER ENVIRONMENT Architecture: - Monumental pale stone/marble
+columns. - Grand, open divine architecture. - Luminous clouds may be
+visible beyond the columns. - Environment should feel open and immense.
+
+Floor: - Polished pale stone/marble. - Subtle reflections are
+acceptable. - No symbolic floor patterns, magic circles, compass
+designs, starbursts, runes, or emblems.
+
+LIGHTING Lighting comes from the ambient environment of the Gods.
+
+No candelabras, candles, torches, lamps, chandeliers, lanterns,
+electrical fixtures, or visible magical lamps.
+
+The sun exists above the visible ceiling/roofline and is never in frame.
+
+Avoid direct solar glare, lens flare, blown highlights, harsh
+backlighting, or silhouettes.
+
+Lighting should be bright, warm, diffuse, soft, even, apparently
+sourceless, and suitable for CMYK printing. Faces, costumes, table
+details, and chair details must remain readable.
+
+MATERIALS AND COLORS Table: Deep polished warm-brown wood. Table accent:
+Restrained warm gold. Chair frames: Polished warm/divine gold. Chair
+upholstery: Deep blue. Floor/columns: Pale ivory, cream, or warm-white
+stone/marble. Lighting: Warm diffuse ambient divine illumination.
+
+CANONICAL CONTINUITY RULES 1. Circular table. 2. Plain tabletop with no
+symbols or intentional decorative pattern. 3. Exactly eight chairs. 4.
+Chairs occupy the eight individually specified clock positions. 5. Chair
+spacing is not uniformly 45 degrees. 6. 11:00 remains open for standing
+visitors. 7. 1:00 remains open for Terra. 8. Terra has no permanent
+Council chair. 9. All eight chairs use the same canonical design family.
+10. No additional chairs unless explicitly required by script. 11. Pale
+monumental columns and polished pale floor. 12. Clouds may be visible
+beyond the open architecture. 13. Lighting is ambient
+divine/environmental light. 14. No conventional lighting fixtures. 15.
+Sun never visible in the Council Chamber. 16. No generic multi-point
+star/compass motif on table, floor, chairs, or architecture.
+
+FORBIDDEN ELEMENTS - Seven-chair or nine-chair layouts. - Chair at
+11:00. - Chair at 1:00. - Chair for Terra. - Chair for standing
+visitors. - Uniform 45-degree chair spacing. - Compass roses. -
+Multi-point starbursts. - Magic circles. - Runes or writing on
+table/floor. - Central table emblems. - Symbolic tabletop inlays. -
+Decorative floor symbols. - Candelabras, candles, torches, lamps, or
+chandeliers. - Visible sun or lens flare. - Harsh direct sunlight. -
+Random tabletop props. - Carpets/rugs or extra furniture unless
+explicitly scripted.
+
+SBL PRODUCTION NOTE Represent the Council layout as explicit world-space
+blocking. The renderer must NOT calculate chair locations by dividing
+360 degrees by eight.
+
+Chair positions: Alpha = 12:00 Aurelia = 10:00 Pyrael = 9:00 Verdania =
+7:30 Mortheus = 6:00 Lunaria = 4:30 Thalassor = 3:00 Vortex = 1:30
+
+Standing positions: Zorna/Nyssara visitor position = approximately 11:00
+Terra = approximately 1:00
+
+These semantic world-space constraints remain invariant under camera
+movement.
+
+AUTHORITY RULE Use the canonical production-sheet artwork and this
+textual specification together. If production-sheet artwork accidentally
+depicts an incorrect number of chairs or conflicts with the explicit
+seating geometry, THIS TEXTUAL SPECIFICATION IS AUTHORITATIVE FOR CHAIR
+COUNT AND POSITION.
+
+There are exactly eight Council chairs.

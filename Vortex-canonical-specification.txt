@@ -1,0 +1,111 @@
+VORTEX CANONICAL CHARACTER SPECIFICATION
+
+STATUS
+Binding visual and characterization specification for Vortex in IAKESI.
+Use with Vortex-character-sheet.png. The character sheet governs visible design; this text governs identity, proportions, costume continuity, behavior, powers, and prohibited deviations.
+
+IDENTITY
+Name: Vortex
+Primary role: God of Time
+Function: Keeper of the Endless Flow
+Domain: Time, flow, cycles, continuity, sequence, and temporal order
+Titles: The Turner of Cycles; The Unbroken Current; The Watcher of Moments
+
+Vortex oversees the progression of time and the proper sequence of events. He maintains cycles, protects continuity, and prevents temporal contradiction. He values order, patience, discernment, and the long view. His presence should suggest measured authority rather than spectacle.
+
+PHYSICAL APPEARANCE
+Apparent age: Approximately 34
+Height: 6 feet 2 inches / 188 cm
+Build: Tall, lean, athletic, and agile; neither bulky nor fragile
+Skin: Fair
+Eyes: Blue-gray
+Hair: Silver-gray, short, dense, and deliberately textured; swept into irregular upward and backward points
+Face: Long, angular, and mature, with high cheekbones, a firm jaw, straight nose, dark defined brows, and a naturally serious resting expression
+
+Maintain the same face, hairline, eye color, apparent age, height, and body proportions in every appearance. Do not soften him into a youthful anime boy, broaden him into a muscular warrior, age him into an elderly figure, or make his features resemble Alpha or another god.
+
+VOICE AND MANNER
+Voice: Calm, precise, measured, and patient
+Speech: Economical and deliberate. Vortex chooses exact language and rarely speaks merely to fill silence.
+Temperament: Composed, detached, observant, and disciplined, but not cold or uncaring
+Posture: Upright and controlled, with minimal unnecessary movement
+Gestures: Small, functional, and purposeful; most often a measured hand indication, a restrained turn of the head, or a quiet adjustment of a temporal display
+
+Vortex rarely raises his voice. He is not haughty and should not appear contemptuous. His reserve comes from observation and patience, not superiority. He normally reveals less than he knows.
+
+FACIAL EXPRESSION RANGE
+Neutral: Watchful, composed, and unreadable without appearing hostile
+Thoughtful: Brow slightly lowered; attention directed inward or toward a developing pattern
+Speaking: Controlled mouth movement and steady eye contact; avoid theatrical expressions
+Intense focus: Eyes narrowed and posture sharpened, without rage or panic
+Concerned: Subtle tension in the brow, eyes, and jaw; concern remains restrained
+
+Do not give Vortex exaggerated comedy reactions, broad grins, melodramatic rage, wild surprise, or habitual scowling. Emotional changes should be readable but economical.
+
+CANONICAL COSTUME
+Overall silhouette: Formal, fitted, floor-length divine coat or robe with structured shoulders, a high standing collar, layered front panels, fitted sleeves, and a split skirt that permits movement
+Primary fabric: Very dark midnight navy
+Secondary fabric: Deep desaturated blue
+Trim and embroidery: Fine metallic gold and silver linework
+Footwear: Dark fitted boots integrated cleanly into the formal silhouette
+
+The costume combines functional elegance with temporal symbolism. Every adornment must have an apparent purpose. Keep the garment tailored, dimensional, and physically wearable; it is not loose wizard clothing, ceremonial armor, or a modern suit.
+
+CHEST AND FRONT DETAIL
+The chest carries restrained branching metallic lines and a central emblem representing cycles and continuity. A narrow pendant or vertical ornament descends from the upper chest. Embroidery follows the structure of the garment rather than floating randomly over the fabric.
+
+BELT AND CENTRAL ACCENT
+The waist is secured by a dark fitted belt with fine metallic fittings and draped chain details. Its central buckle resembles a precision chronometer: concentric metallic rings surrounding a luminous deep-blue circular gem. The gem is an accent, not a large energy source or weapon.
+
+SLEEVES AND HEM
+Fine metallic time-stream lines flow along the fitted sleeves. The lower panels carry delicate hour markings, branching paths, and celestial or temporal linework. Preserve the asymmetrical natural flow of these details while keeping their placement consistent from panel to panel.
+
+BACK EMBLEM
+The upper back carries a large circular temporal emblem with Roman numerals, concentric rings, and three interlocking curved forms. It represents the trinity of time, flow, and cycles. Preserve its scale, position, and orientation whenever the back is visible.
+
+The clock-like back emblem and chronometer buckle are canonical parts of Vortex's costume. Their presence does not authorize generic clock faces, compass roses, decorative timepieces, or ornate temporal machinery elsewhere in a scene.
+
+COLOR AND MATERIAL PALETTE
+Hair: Silver-gray with darker roots and shadow separation
+Eyes: Blue-gray
+Skin: Fair with natural warm-neutral modeling
+Primary fabric: Midnight navy
+Secondary fabric: Slate or steel blue
+Metallic trim: Restrained gold and cool silver
+Gem accent: Saturated luminous blue
+
+Render fabric, embroidery, metal, leather, skin, hair, and gemstone as distinct materials. Avoid flat black clothing, excessive gold coverage, glowing outlines over the entire costume, plastic surfaces, or uncontrolled blue bloom.
+
+POWERS AND VISUAL LANGUAGE
+Vortex may manipulate temporal flow, temporal comparison, cycles, and continuity only as established by the story. His actions are precise and restrained. He does not use time casually, theatrically, or without considering consequences.
+
+For Chapter 2, Vortex adjusts the local time scale of Zora and Nyas and later reduces the compression when writing is established. Depict this through the approved World Observation Area time-compression display: simple, clean comparative bands and controlled changes in relative rate. The world remains spatially stable.
+
+Do not depict his temporal work as prophecy, teleportation, lightning, a magical explosion, a technological HUD, or a literal clock controlling the planet. Avoid floating gears, giant clock faces, compass roses, starbursts, decorative runes, hourglasses, and ornate magical apparatus unless a later script explicitly establishes them.
+
+CHARACTER PRINCIPLES
+Patient: He waits, watches, and acts only when timing and conditions are correct.
+Precise: His decisions and movements are measured to the moment and to their consequences.
+Ever-observant: He recognizes patterns across events and anticipates how a change may affect what follows.
+Guardian of continuity: He protects sequence and causality and prevents paradox.
+Restrained: Capability does not imply willingness to intervene.
+
+CHAPTER 2 CONTINUITY
+Vortex wears this same formal costume throughout Chapter 2.
+He appears in the canonical World Observation Area and does not physically enter the mortal world.
+He treats Nyssara and Zorna as responsible neophyte goddesses, not as children.
+He defers to Alpha's authority concerning how far temporal compression may proceed.
+His adjustment of time is smooth, controlled, and stable. It must not look violent or dangerous to the mortal population.
+He observes more than he explains and should never dominate a scene whose emotional focus belongs to Nyssara, Zorna, or Terra.
+
+PROHIBITED DEVIATIONS
+Do not change Vortex's apparent age, height, build, face, hairstyle, hair color, eye color, or skin tone.
+Do not replace the canonical formal coat with armor, robes, a cape, casual clothing, or science-fiction bodywear.
+Do not omit the high collar, structured shoulders, central blue chronometer accent, metallic temporal embroidery, or canonical back emblem when visible.
+Do not portray him as elderly, villainous, arrogant, emotionless, frantic, flamboyant, or comic.
+Do not give him a weapon unless a later canonical script explicitly requires one.
+Do not add unrelated powers or allow him to solve mortal problems through unrestricted time manipulation.
+Do not use generic time imagery merely because Vortex is present.
+
+CANONICAL SUMMARY
+Vortex is a tall, silver-haired, blue-gray-eyed god in an elegant midnight-blue formal coat traced with precise gold and silver temporal designs. He is patient, exact, observant, and quietly authoritative. His visual and behavioral identity is defined by continuity, restraint, and the controlled passage of time.

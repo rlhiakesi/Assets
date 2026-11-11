@@ -1,0 +1,419 @@
+ZORA-NYAS TECHNOLOGY TIMELINE
+IAKESI Production Canon
+
+PURPOSE
+
+This document defines the comparative technological and institutional development of Zora and Nyas. The revised IAKESI Chapter 2 production script controls the formative chronology. Later developments derive from the established mature civilizations and may be refined by later scripts.
+
+
+1. TIMELINE CONVENTIONS
+
+Creation Year
+    Creation is Year 0. This is a production chronology, not necessarily a calendar used by either civilization.
+
+Page ranges
+    The year ranges printed in Chapter 2 define the period represented by each historical montage. They do not mean every community adopts a development simultaneously.
+
+Development versus adoption
+    A discovery may remain experimental before becoming common. Mature infrastructure may be shown broadly only after the timeline establishes it.
+
+Canon priority
+    Explicit script instructions and specialized production specifications may refine the sequence. The revised Chapter 2 script supersedes the chronology of the original Chapter 2 manga wherever the two differ.
+
+
+2. YEAR 0 - SHARED STARTING CONDITIONS
+
+ZORA
+
+- The first Zorans inhabit a fertile mountain-and-river environment.
+- They possess human anatomy, human ears, white or platinum-blonde hair according to sex, and mana cores.
+- They do not begin with mature cities, formal writing, advanced magical systems, wheeled transport, or inherited infrastructure.
+- Survival depends on observation, manual labor, cooperation, oral teaching, and eventually emerging mana use.
+
+NYAS
+
+- The first Nyssarians inhabit a comparable natural environment.
+- They possess humanlike anatomy, pointed elven ears, and varied hair colors.
+- They do not begin with mature cities, formal writing, industry, wheeled transport, or inherited infrastructure.
+- Survival depends on observation, manual labor, cooperation, oral teaching, and experimentation.
+
+
+3. YEARS 1-100 - FAMILIES AND FIRST SETTLEMENTS
+
+SHARED DEVELOPMENTS
+
+- Rough shelters gradually become small clusters of sturdier homes.
+- Several generations live in the developing settlements.
+- Gathering, hunting, food preservation, controlled fire, stone tools, and recognition of dangerous plants are taught directly from adult to child.
+- Knowledge remains oral and demonstrative.
+
+ZORA
+
+- The population remains small.
+- Family teaching establishes continuity before formal institutions exist.
+
+NYAS
+
+- Children grow up as members of a shared community rather than isolated families.
+- Cooperation and comparison of practical methods begin as ordinary habits.
+
+DO NOT SHOW YET
+
+- Formal writing
+- Mature mana practice
+- Metallurgy
+- Roads between distant regions
+- Wheeled transport
+- Mature towns or civic buildings
+
+
+4. YEARS 100-250 - CULTIVATION AND CRAFT
+
+SHARED DEVELOPMENTS
+
+- Agriculture expands gradually.
+- Seed selection, food storage, and simple irrigation develop.
+- Suitable animals are domesticated while hunting and foraging continue.
+- Pottery progresses from crude vessels to more reliable craft.
+- Weaving, cordage, and durable housing improve.
+- Population density increases near dependable water.
+
+NYAS
+
+- Families cultivate a river plain and improve irrigation ditches across generations.
+
+ZORA
+
+- Herding and animal domestication grow alongside older subsistence practices.
+
+DO NOT SHOW YET
+
+- Mature writing systems
+- Large road networks
+- Wheeled transport
+- Mature magical architecture
+- Industrial metallurgy
+
+
+5. YEARS 250-450 - DIVERGING METHODS
+
+NYAS
+
+- Villages use mechanical leverage, improved kilns, woven cordage, and increasingly specialized tools.
+- Necessity favors transferable mechanical solutions.
+- No overt magic is present.
+
+ZORA
+
+- A young woman accidentally channels a faint trace of mana while tending a fire.
+- The flame bends toward her hand without touching it.
+- Other Zorans cautiously repeat the effect.
+- The effect is weak, difficult, useful, and poorly understood.
+
+PRODUCTION LIMIT
+
+- Early Zoran mana must not appear as energy beams, effortless telekinesis, explosive spellcasting, or divine-scale power.
+
+
+6. YEARS 450-650 - METAL, PRACTICE, AND TOWNS
+
+NYAS
+
+- Copper tools appear, followed gradually by early bronze.
+- Craftspeople compare failed castings and preserve successful mixtures through demonstration.
+- Knowledge accumulates in physical tools and reproducible processes.
+
+ZORA
+
+- Controlled mana assists heat, limited lifting, and water sensing.
+- Ordinary people still perform the physical work.
+- Knowledge accumulates through repeated practice and direct teaching.
+
+SHARED DEVELOPMENTS
+
+- Settlements expand into towns.
+- Communal storage, designated work areas, craft specialization, and informal leadership appear.
+
+
+7. YEARS 650-850 - ROADS, SLEDGES, AND PROTO-WRITING
+
+SHARED DEVELOPMENTS
+
+- Paths become more deliberate roads connecting nearby communities.
+- Sledges and pack animals move goods; wheeled carts do not yet exist.
+- Travel and exchange increase.
+- Tallies, repeated marks, and practical notations support memory and exchange.
+- These marks are precursors to writing, not yet complete mature scripts.
+
+ZORA
+
+- Specialized mana practices spread through direct teaching and repeated demonstration.
+- Mana remains practical, limited, and dependent on concentration and bodily effort.
+
+NYAS
+
+- Exchange between craftspeople and settlements spreads mechanical techniques and material knowledge.
+
+
+8. YEARS 850-1,000 - FORMAL WRITING
+
+SHARED DEVELOPMENT
+
+- Repeated marks become standardized systems capable of preserving language, agreements, instructions, and accumulated knowledge.
+- Children begin learning established signs rather than inventing private marks.
+- Writing allows knowledge to survive beyond a particular speaker or teacher.
+
+NYSSARIAN WRITING
+
+- A complete trade record or tablet demonstrates durable commercial notation.
+- The mature script uses engineered pictographs written vertically from top to bottom, with columns ordered right to left and divider marks between words.
+- Follow the Nyassarian language specification for environmental text.
+
+ZORAN WRITING
+
+- Written mana instructions preserve controlled techniques, including controlled light.
+- The mature script uses geometric glyphs constructed from circles, rectangles, squares, triangles, pentagons, diamonds, dots, lines, and compounds.
+- Follow the Zoran language specification for environmental text.
+
+END-OF-MILLENNIUM STATE
+
+- Both civilizations possess agriculture, animal husbandry, pottery, weaving, settlements, specialized crafts, local roads, exchange, leadership, proto-urban towns, and formal writing.
+- Nyas has developed mechanical leverage, improved kilns, and copper/early bronze.
+- Zora has developed weak but repeatable heat assistance, limited lifting, water sensing, and controlled light.
+- Neither civilization yet has wheeled transport.
+
+
+9. AFTER YEAR 1,000 - NYSSARIAN CIVIC PROCEDURE
+
+NYAS
+
+- Two villages dispute access to river water.
+- Representatives present competing claims publicly.
+- Elders debate and vote.
+- The majority establishes a water-sharing agreement.
+- The villages accept the decision and restore cooperation.
+
+SIGNIFICANCE
+
+- Nyas develops a repeatable social technology for resolving disputes through argument, voting, negotiated rules, and collective compliance.
+- This becomes an ancestor of later councils, research debate, institutional rules, and evidence-based decision-making.
+
+ZORA
+
+- The script does not establish an equivalent formal procedure during this sequence.
+- Do not infer that Zorans are incapable of civic organization; only the specifically depicted Nyassarian innovation is canonical here.
+
+
+10. THE RIVER RESCUE - DATE AFTER YEAR 1,000
+
+- A Nyassarian child is endangered in a river.
+- Mortals attempt the rescue with the tools and abilities available to them.
+- Terra makes a minimal, concealed intervention by moving a log.
+- The rescue is exceptional and ambiguous to the mortals.
+- It does not establish routine divine rescue, a public miracle, or a mortal technology.
+
+
+11. THE FORMATIVE DROUGHT - DATE AFTER THE RIVER RESCUE
+
+SHARED CRISIS
+
+- Severe drought damages agriculture and threatens both civilizations.
+- Wells and surface sources fail.
+- Both populations suffer hunger, fear, displacement, and death.
+- The crisis tests the divine rule against determining mortal development through intervention.
+
+NYAS RESPONSE
+
+- Nyassarians compare old river levels, inspect failed wells, question travelers, and search for a physical source.
+- Communities construct frames, ropes, counterweights, and baskets and excavate a deep communal well.
+- Work remains slow, dangerous, and physically demanding.
+- They reach groundwater and preserve the method for later generations.
+
+ZORA RESPONSE
+
+- Zorans pray and attempt rain-calling.
+- Mortal rain-calling fails.
+- Weak water-sensing mana aids investigation but neither creates water nor performs the excavation.
+- Zorna gathers power to intervene, but Terra and Nyssara stop her. The power dissipates without producing rain or water.
+- Zorans reinforce existing wells, excavate communal shafts, reach groundwater through mortal labor, and build storage cisterns.
+- Parents teach subsequent generations how the wells work.
+
+CANONICAL OUTCOME
+
+- Both civilizations find water without direct divine intervention.
+- Zorna does not end the drought and does not receive credit for the solution.
+- The event reinforces investigation, collective labor, durable infrastructure, and preserved knowledge in both societies.
+- The sequence also leaves the gods with an unresolved ethical dispute about mercy and interference.
+
+
+12. POST-DROUGHT WHEEL INVENTION
+
+NYAS
+
+- A child rolls a thick clay disk beside a workshop and notices that it carries a small wooden object farther than expected.
+- An adult craftswoman experiments with a straight axle and produces a crude but functional wheeled platform.
+- This is the first wheel-based transport shown in the revised chronology.
+
+PRODUCTION ORDER
+
+- Do not show wheeled carts before the drought and well-building sequence.
+- Sledges, pack animals, ropes, frames, counterweights, and baskets may appear earlier.
+
+
+13. EARLY CART AND CARAVAN ERA
+
+NYAS
+
+- Organized caravans use pack animals and early wheeled carts between distant settlements.
+
+ZORA
+
+- Travelers carry preserved food, crafted goods, and written mana teachings between distant communities.
+- Zoran wheel adoption is not explicitly depicted in the formative sequence; do not assume its exact date without later script authority.
+
+SHARED GEOGRAPHIC LIMIT
+
+- Travel expands within each civilization.
+- Neither people has yet crossed the great mountain valley into the other's territory at the end of Chapter 2.
+
+
+14. LATER SCHOLARLY DEVELOPMENT - EXACT DATES UNSPECIFIED
+
+ZORA
+
+- Family teaching remains central while written instruction, schools, temples, and civic institutions become more organized.
+- Mana use grows more reliable and widespread in healing, agriculture, domestic work, construction, lighting, and civic life.
+- Architecture becomes graceful, monumental, and integrated with gardens and waterways.
+- Change remains cumulative and relatively slow.
+
+NYAS
+
+- Writing supports libraries, schools, records, and technical debate.
+- Scholars preserve observations and compare competing explanations.
+- Mining and metallurgy improve tools and expose new materials.
+- Teams begin structured experiments.
+- Institutions increasingly reward questioning, demonstration, and reproducibility.
+
+
+15. PRINTING AND KNOWLEDGE DISTRIBUTION ERA - EXACT DATES UNSPECIFIED
+
+NYAS
+
+- Movable-type printing develops.
+- Classical Nyassarian glyphs are simplified and standardized for reproducible type.
+- Books and technical material become more widely available.
+- Printed records allow distant researchers to build on a shared body of knowledge.
+
+ZORA
+
+- Written learning expands through family, temple, school, and civic traditions.
+- Knowledge is carefully preserved, with emphasis on continuity and established practice.
+- Do not automatically give Zora the Nyassarian printing system or its pace of technical publication.
+
+
+16. NYSSARIAN IRON, WATER-POWER, AND EARLY INDUSTRIAL ERA - EXACT DATES UNSPECIFIED
+
+NYAS
+
+- Mining expands.
+- Ironworking and metallurgy improve.
+- Waterwheels power larger workshops.
+- Improved tools increase agricultural output.
+- Workshops coordinate specialized labor.
+- Canals, roads, trade networks, warehouses, mills, and cities expand.
+
+ZORA
+
+- Agriculture, craft, healing, and construction improve primarily through refined mana use and stable institutions.
+- Zora does not mirror Nyas's industrial transition.
+
+
+17. NYSSARIAN MANA-CRYSTAL RESEARCH ERA - EXACT DATES UNSPECIFIED
+
+- Nyassarian miners identify mana-bearing crystal deposits.
+- Scholars compare colors and properties and test heat, light, energy transfer, resonance, and repeatability.
+- Researchers use notebooks, diagrams, controlled apparatus, and repeated trials.
+- Copper wire, coils, crystal mounts, glass vessels, and measurement devices become standard research tools.
+- Early laboratory experiments must not be rendered as a mature public power grid.
+
+
+18. NYSSARIAN ELECTRICAL, COMMUNICATION, AND RAIL ERAS - EXACT DATES UNSPECIFIED
+
+- Researchers establish controlled electrical generation and develop electric motors.
+- Artificial lighting and motor-assisted machinery spread after experimental stages.
+- Telegraph experimentation precedes a mature long-distance network.
+- Isolated rail prototypes precede established stations, freight systems, bridges, and dense rail corridors.
+
+ZORA
+
+- Mana supplies many functions filled by electricity in Nyas.
+- Zoran systems remain crystalline, magically operated, and architecturally integrated rather than copying Nyassarian machinery.
+
+
+19. MATURE CIVILIZATIONS
+
+MATURE ZORA
+
+- Controlled mana integrates into healing, agriculture, education, architecture, lighting, doors, civic services, and art.
+- Cities feature pale stone, gold trim, blue crystal, gardens, waterways, domes, towers, and handleless mana-operated sliding doors.
+- Zora's strength is stable integration, continuity, beauty, and reliable magical practice.
+
+MATURE NYAS
+
+- Printing, laboratories, schools, industry, medicine, crystal power, electrical systems, telegraphy, and railways form interdependent networks.
+- Cities feature dark stone, brick, iron, copper, glass, visible mechanisms, blue crystal power, factories, stations, bridges, and communications infrastructure.
+- Nyas's strength is organized curiosity, preserved knowledge, reproducible discovery, and cumulative invention.
+
+
+20. COMPARATIVE TECHNOLOGY MATRIX
+
+DEVELOPMENT                         ZORA                              NYAS
+----------------------------------  --------------------------------  --------------------------------
+Stone tools and fire                Years 1-100                       Years 1-100
+Agriculture and herding             Years 100-250                     Years 100-250
+Pottery and weaving                 Years 100-250                     Years 100-250
+Mechanical leverage                 Ordinary/simple use               Established Years 250-450
+First repeatable mortal mana        Years 250-450                     None shown
+Copper and early bronze             Not established in montage        Years 450-650
+Heat/lifting/water mana assistance  Years 450-650                     None shown
+Towns and specialized work          Years 450-650                     Years 450-650
+Roads and sledges                   Years 650-850                     Years 650-850
+Tallies and proto-writing           Years 650-850                     Years 650-850
+Formal writing                      Years 850-1,000                   Years 850-1,000
+Controlled light instruction        Years 850-1,000                   None shown
+Civic voting procedure              Not established in sequence       After Year 1,000
+River-rescue divine intervention    None                              One concealed intervention
+Rain-calling                        Attempted; fails                  None shown
+Deep communal drought wells         Formative drought                 Formative drought
+Direct divine drought relief        None                              None
+First wheeled platform              Not established in sequence       Post-drought
+Early wheeled caravans               Not established in sequence       Post-drought
+Long-distance written teachings     Post-drought travel era           Post-drought travel era
+Mass printing                       Not dated; not defining path       Later, date unspecified
+Industrial metallurgy               Not defining path                 Later, date unspecified
+Mana-crystal laboratory science     Refined magical practice          Later, date unspecified
+Electrical generation and motors    Replaced by mana systems          Later, date unspecified
+Telegraph and steam railways        Not defining path                 Later, date unspecified
+
+
+21. ANACHRONISM CHECKLIST
+
+[ ] Technology matches the specified era.
+[ ] Early villages do not resemble mature cities.
+[ ] Experimental practices are not presented as mature infrastructure.
+[ ] Mature writing does not appear before Years 850-1,000.
+[ ] Roads and sledges may precede wheels; wheeled transport appears only after the drought.
+[ ] Nyssarian environmental text uses canonical vertical pictographs.
+[ ] Zoran environmental text uses canonical geometric glyphs.
+[ ] Early Zoran mana remains weak, difficult, practical, and limited.
+[ ] Rain-calling fails.
+[ ] Both civilizations solve the drought through wells and mortal labor.
+[ ] Zorna does not supply water.
+[ ] Railways, telegraphy, and electrical infrastructure appear only in later Nyssarian development.
+[ ] Mature Zoran mana systems do not appear in the earliest settlements.
+[ ] Neither culture is portrayed as biologically less intelligent.
+
+
+22. CORE TIMELINE SUMMARY
+
+Zora and Nyas begin with comparable physical needs and materially simple settlements. Agriculture and craft develop in both. Between Years 250 and 650, Nyas increasingly preserves progress in tools and metallurgy while Zora develops weak, teachable mortal mana. Roads, sledges, and practical marks emerge in Years 650-850; formal writing follows in Years 850-1,000. After the first millennium, Nyas demonstrates civic voting, an exceptional concealed intervention saves one Nyassarian child, and a severe drought tests both peoples. Zorna is prevented from ending the drought. Both civilizations independently investigate, excavate communal wells, reach groundwater, and preserve what they learn. The wheel appears only afterward in Nyas, followed by carts and wider trade. Later, Nyas develops institutional science and industrial systems while Zora refines mana into an elegant, stable system integrated throughout ordinary life.

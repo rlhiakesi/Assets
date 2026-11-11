@@ -1,0 +1,153 @@
+TOMAS — CANONICAL CHARACTER SPECIFICATION
+IAKESI — CHAPTER 4
+
+CANONICAL ROLE
+Name: Tomas
+Species: Human (Zoran)
+Sex: Male
+Age: 52
+Height: approximately 5 ft 9 in (175 cm)
+Tier: Mortal
+Occupation: Councilman; member of the Royal Assembly of Zora
+Residence: Assembly Hall district, capital of Zora
+Alignment: Lawful Neutral
+
+NARRATIVE FUNCTION
+Tomas is the principal institutional skeptic within the Royal Assembly. He values order, continuity, evidence, and proven methods. His opposition to Jeremiel arises from caution rather than malice. He sincerely believes that unproven visions and reckless policy could endanger Zora. He must never be portrayed as secretly evil, sadistic, corrupt, or contemptuous of the Zoran people.
+
+PHYSICAL CANON
+- Mature Zoran man, visibly 52 years old.
+- Compact, broad, slightly stocky build; neither obese nor muscularly heroic.
+- Broad square face with a strong jaw.
+- Blunt, slightly prominent nose.
+- Heavy, straight white eyebrows.
+- Deep-set amber-brown eyes.
+- Habitually compressed mouth.
+- Human ears only; never pointed or elven.
+- Completely clean-shaven: no mustache, beard, goatee, side whiskers, or stubble.
+- Natural age lines around the eyes, brow, and mouth, but no frailty.
+
+HAIR CANON
+- Hair is pure Zoran white, not gray, silver-gray, blond, or dark-rooted.
+- Full, dense head of hair; Tomas is never balding and has no receding hairline.
+- Precise center part.
+- Jaw-length squared cut with blunt, architectural ends.
+- Controlled volume; it should form a recognizable rectangular silhouette around the head.
+- Never flowing, wispy, shoulder-length, tied back, or styled like Jeremiel or Zoren.
+
+SPECTACLES — PRIMARY IDENTITY ANCHOR
+- Narrow rectangular reading spectacles.
+- Antique-gold metal frames.
+- Usually worn slightly low on the bridge of his nose.
+- Lenses remain clear and do not conceal his eyes.
+- The spectacles must appear consistently in every scene unless the script explicitly states that he has removed them.
+- Signature gesture: Tomas looks over the top of the lowered spectacles when judging a claim or demanding evidence.
+
+FACIAL IDENTITY ANCHORS
+1. Full, squared jaw-length white haircut with precise center part.
+2. Narrow rectangular antique-gold spectacles.
+3. Broad, completely clean-shaven square face.
+4. Heavy straight eyebrows and amber-brown eyes.
+5. Restrained, skeptical mouth.
+
+FORMAL COUNCIL COSTUME
+- Conservative Royal Assembly robes belonging unmistakably to the same institution as the other Zoran councilmen.
+- Rigid, squared shoulders and high formal collar.
+- Straight vertical garment panels with minimal loose or flowing fabric.
+- Dominant colors: stone gray and charcoal blue.
+- Secondary colors: restrained ivory.
+- Trim and hardware: muted antique gold.
+- Asymmetrical squared mantle fastened over one shoulder.
+- Large circular Seal of Prudence at the mantle clasp; emblem incorporates balanced scales.
+- Robes should communicate stability, procedure, restraint, and institutional authority.
+- No armor, fantasy pauldrons, crown, military decorations, or priestly vestments.
+
+ACCESSORIES
+- Slim structured council document case or folded official docket, often carried under one arm.
+- Circular Seal of Prudence shoulder clasp.
+- Practical belt with restrained gold hardware.
+- No weapon unless specifically required by the script.
+
+COLOR PALETTE
+Hair: pure white
+Eyes: amber-brown
+Skin: light-to-medium warm Zoran complexion
+Primary fabric: stone gray
+Secondary fabric: charcoal blue
+Limited accent fabric: ivory
+Metal and embroidery: muted antique gold
+
+POSTURE AND MOVEMENT
+- Upright, compact posture.
+- Economical gestures; rarely spreads his arms widely.
+- Frequently holds documents close to his torso.
+- May adjust his spectacles before examining evidence.
+- When skeptical, lowers his chin and looks over the top of his spectacles.
+- When listening, remains still and watches closely.
+- Anger appears through tightened posture, brow, and jaw rather than theatrical movement.
+
+EXPRESSION RANGE
+- Skeptical neutral
+- Doubtful
+- Disapproving
+- Thoughtful
+- Dismissive, with only a slight smirk
+- Attentive
+- Quietly amused
+- Restrained frustration
+- Startled
+- Reluctantly concerned
+- Firmly resolved
+- Grudging acceptance
+
+Expressions must remain controlled and institutional. Avoid broad comedy, melodramatic rage, wild eyes, large open-mouth shouting, or villainous sneering.
+
+PERSONALITY
+- Cautious and conservative
+- Pragmatic and analytical
+- Skeptical of grand claims
+- Traditional and disciplined
+- Loyal to the Assembly and the people of Zora
+- Blunt, but not intentionally cruel
+- Meticulous and evidence-oriented
+- Deeply concerned with long-term stability
+
+RELATIONSHIP TO JEREMIEL
+Tomas provides a necessary counterbalance to Jeremiel. He questions Jeremiel's visions and proposals because he believes unsupported action could cause disaster. His resistance should feel intellectually and politically credible. Over time, evidence may force him to reconsider, but he does not abandon caution easily.
+
+DISTINCTION FROM OTHER ZORAN OFFICIALS
+- Jeremiel: lean scholar; layered white hair; pointed beard; asymmetrical ivory mantle.
+- Zoren: presidential ceremonial authority and more conventionally imposing presentation.
+- Other councilmen: may have swept-back or long hair, beards, mustaches, or bald heads.
+- Tomas: squared full white haircut, gold spectacles, clean-shaven square face, compact build, and stone-gray squared mantle.
+
+RENDERING PRIORITIES
+When Tomas appears at small scale, preserve in this order:
+1. Gold rectangular spectacles.
+2. Squared jaw-length white hair.
+3. Clean-shaven broad face.
+4. Stone-gray squared mantle.
+5. Compact, stocky silhouette.
+
+PROHIBITED DRIFT
+- No balding or receding hairline.
+- No facial hair of any kind.
+- No pointed or elven ears.
+- No gray, blond, brown, or black hair.
+- No blue eyes.
+- No youthful or androgynous face.
+- No long flowing scholar hair.
+- No generic swept-back councilman hairstyle.
+- No predominantly royal-blue costume.
+- No armor, crown, or priestly imagery.
+- No villainous, corrupt, or sadistic characterization.
+- Do not omit or redesign the spectacles.
+- Do not make him tall, lean, or heroically muscular.
+
+CANONICAL ASSET PAIRING
+Use together:
+- Tomas-character-sheet.png
+- Tomas-expression-sheet.png
+- Tomas-canonical-character-specification.txt
+
+If visual references conflict with this specification, the most recently approved Tomas character sheet and this text specification control.

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1500" viewBox="0 0 1600 1500"><rect width="1600" height="1500" fill="white"/><style>text{font-family:Arial,sans-serif;fill:#17252b}.title{font-size:31px;font-weight:bold}.head{font-size:24px;font-weight:bold}.body{font-size:21px}.small{font-size:18px}.line{stroke:#374e56;stroke-width:3;fill:none}.arrow{stroke:#47768b;stroke-width:4;fill:none;marker-end:url(#arr)}</style><defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L0 6 L9 3 Z" fill="#47768b"/></marker></defs>
+<text x="55" y="60" class="title">Chapter 18 valley battle and interception reference</text>
+<text x="55" y="100" class="body">Production schematic candidate   No scale or cardinal coordinates   Not artwork lettering</text>
+<text x="55" y="160" class="head">Page 34   Both ridges can fire beyond the forward shield line</text>
+<path d="M100 255 Q280 180 470 255 L470 710 Q270 640 100 710 Z" fill="#d8dfd0" stroke="#687760" stroke-width="3"/>
+<path d="M1100 255 Q1290 180 1500 255 L1500 710 Q1300 640 1100 710 Z" fill="#d8dfd0" stroke="#687760" stroke-width="3"/>
+<text x="160" y="290" class="body">Wooded ridge</text><text x="1160" y="290" class="body">Wooded ridge</text>
+<path d="M680 770 L680 210 M930 770 L930 210" stroke="#b8ac8d" stroke-width="8"/>
+<text x="715" y="245" class="body">Road forward</text>
+<path d="M650 440 Q810 380 965 440" stroke="#6cbbcc" stroke-width="12" fill="none"/>
+<text x="715" y="410" class="small">Forward shields</text>
+<rect x="715" y="475" width="190" height="60" fill="#e0ebef" stroke="#47768b" stroke-width="2"/>
+<text x="737" y="512" class="body">Front companies</text>
+<rect x="700" y="645" width="225" height="70" fill="#efe7d7" stroke="#72654e" stroke-width="2"/>
+<text x="715" y="687" class="body">Support column</text>
+<path d="M420 350 L760 495 M1150 350 L850 495 M1130 480 L870 665" class="arrow"/>
+<text x="1170" y="520" class="small">Battery fires past</text><text x="1170" y="547" class="small">the forward line</text>
+<path d="M580 675 L650 675 L650 720 L580 720" fill="#aaa394" stroke="#555" stroke-width="3"/>
+<text x="365" y="760" class="small">Embankment protects two support soldiers</text>
+<text x="55" y="835" class="head">Pages 35 and 36   Midori exposes her back and Marta intercepts the shot</text>
+<text x="55" y="875" class="body">Relational axis only   Do not assign a new global screen direction from this diagram</text>
+<rect x="90" y="975" width="210" height="70" fill="#e4ded1" stroke="#72654e" stroke-width="3"/>
+<text x="113" y="1018" class="body">Rifleman in cover</text>
+<circle cx="650" cy="1010" r="47" fill="#d7e4df" stroke="#567567" stroke-width="3"/>
+<text x="608" y="1018" class="body">Marta</text>
+<circle cx="1000" cy="1010" r="50" fill="#dae5ee" stroke="#47768b" stroke-width="3"/>
+<text x="964" y="1018" class="body">Midori</text>
+<path d="M300 1010 L595 1010 M700 1010 L945 1010 M1055 1010 L1420 1010" class="arrow"/>
+<text x="1090" y="970" class="body">Her attacks face forward</text>
+<text x="730" y="1135" class="small">Bullet axis toward Midori's unprotected back</text>
+<path d="M650 1260 L650 1065" class="arrow"/>
+<text x="480" y="1305" class="body">Marta arrives from the support column</text>
+<text x="55" y="1380" class="body">Marta forms a small shield; its exhausted edge fails and she is struck instead.</text>
+<text x="55" y="1420" class="body">Her wound is immediately fatal. Midori has no matching bullet wound.</text>
+<text x="55" y="1460" class="small">Source V0279 to V0340 governs   Exact terrain positions are proposed staging, not a world map</text>
+</svg>

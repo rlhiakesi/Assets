@@ -1,0 +1,390 @@
+WORLD OBSERVATION AREA (WOA) OBSERVATION STATION — CANONICAL PRODUCTION
+SPECIFICATION
+
+PURPOSE This specification defines the canonical World Observation Area
+observation station used by Zorna, Nyssara, and Terra in the Domain of
+the Gods.
+
+The larger World Observation Area environment may vary between scenes.
+The observation station itself is the persistent continuity element.
+
+The canonical station consists of: - One magically floating 2-D
+viewscreen. - One immediate floor/platform area beneath the screen. -
+Concentric luminous circles on the floor. - No physical screen-support
+apparatus.
+
+The viewscreen and the immediate floor beneath it should remain
+recognizably consistent whenever this observation station appears.
+
+GENERAL ENVIRONMENT
+
+The World Observation Area is part of the Domain of the Gods.
+
+The larger surrounding architecture is not required to remain identical
+from appearance to appearance.
+
+It may include: - Tall divine architecture. - Columns. - Open luminous
+space. - Dark polished surfaces. - Blue crystalline or luminous
+architectural accents. - Gold or warm metallic accents. - Distant DOTG
+structures.
+
+However, the environment must not overwhelm the canonical observation
+station.
+
+The persistent visual identity comes from the floating blue viewscreen
+and the concentric-circle floor treatment directly beneath it.
+
+ART STYLE
+
+Render the World Observation Area in the canonical Domain of the Gods
+near-photorealistic illustration style.
+
+The environment should feel materially convincing, elegant, and divine.
+
+Avoid generic manga-background rendering for the DOTG.
+
+VIEWSCREEN
+
+Nature The viewscreen is magical.
+
+It is not a television, monitor, holographic machine, projection device,
+portal frame, or mechanical apparatus.
+
+The viewscreen is a perfectly flat 2-D image plane suspended magically
+in mid-air.
+
+It has no physical thickness.
+
+It has no physical support.
+
+It has no projector.
+
+It has no pedestal.
+
+It has no mounting hardware.
+
+It has no cables.
+
+It has no visible technological mechanism.
+
+Edge-On Behavior The viewscreen should be treated as geometrically 2-D.
+
+When viewed exactly edge-on, it effectively disappears.
+
+There is no meaningful side profile.
+
+Do not depict a thick screen edge.
+
+Do not depict a side-view support structure.
+
+A dedicated side-view reference is unnecessary.
+
+Screen Orientation The viewscreen normally floats vertically above the
+canonical floor platform.
+
+It should remain upright and stable unless a script explicitly specifies
+otherwise.
+
+Screen Shape Large horizontal rectangle.
+
+The proportions should remain consistent across appearances.
+
+Approximate production dimensions: Screen width: approximately 10
+meters. Screen height: approximately 6 meters.
+
+These are visual-scale guidelines rather than engineering measurements.
+
+The important requirement is that the screen is large enough for
+multiple Gods to stand before it and comfortably observe detailed
+scenes.
+
+Floating Height The bottom edge of the viewscreen floats approximately
+1.2 meters above the floor.
+
+Maintain a visually consistent relationship between the screen and the
+concentric-circle floor area.
+
+SCREEN BORDER
+
+The screen has a luminous blue magical border.
+
+The border is part of the magical image projection.
+
+It is not a physical frame.
+
+The border should be: - Bright blue. - Clean. - Crystalline or
+energy-like. - Thin enough not to dominate the displayed image. -
+Consistent in general thickness and glow.
+
+The border may include restrained corner emphasis or small geometric
+energy accents.
+
+However, it must not contain: - A central apex crest. - A compass
+symbol. - A multi-point star. - A starburst. - A magic-circle emblem. -
+Runes. - Writing. - Unspecified religious or mystical symbols.
+
+Keep the border visually elegant and simple.
+
+SCREEN CONTENT
+
+The content displayed by the viewscreen may change freely.
+
+It may show: - Mortal cities. - Villages. - Landscapes. - Individuals. -
+Historical events. - Distant worlds. - Geographic regions. - Close
+views. - Wide views.
+
+The displayed image is not part of the persistent prop design.
+
+Do not add permanent interface text, menus, status bars, icons,
+targeting marks, runes, or data overlays unless explicitly required by
+the script.
+
+The screen should normally display the observed scene cleanly.
+
+SCREEN LIGHT
+
+The screen emits a soft blue glow.
+
+This glow may illuminate nearby characters and the floor slightly.
+
+Do not allow the screen glow to: - Blow out faces. - Turn characters
+entirely blue. - Destroy costume colors. - Crush surrounding shadows. -
+Overpower the displayed image.
+
+The screen should remain readable in CMYK-oriented production.
+
+FLOOR / PLATFORM AREA
+
+Nature The floor beneath the viewscreen is a persistent canonical part
+of the observation station.
+
+It is not a raised mechanical platform.
+
+It is the immediate floor area visually associated with the screen.
+
+The floor surface may be dark polished stone or another dark refined
+DOTG material.
+
+It should provide strong visual contrast with the luminous blue circles.
+
+Shape The canonical floor treatment is circular.
+
+Approximate diameter: Approximately 16 meters.
+
+This is a production-scale guideline.
+
+CONCENTRIC CIRCLES
+
+The floor contains multiple luminous blue concentric circles centered
+beneath the viewscreen.
+
+These circles are the primary persistent floor design.
+
+The circles should be: - Simple. - Clean. - Evenly centered. - Blue. -
+Luminous. - Geometrically readable.
+
+The floor pattern contains NO compass design.
+
+It contains NO starburst.
+
+It contains NO central emblem.
+
+It contains NO magic circle.
+
+It contains NO runes.
+
+It contains NO writing.
+
+It contains NO radial mystical symbol.
+
+It contains NO decorative glyphs.
+
+Concentric circles alone are sufficient.
+
+CENTER OF FLOOR
+
+The center of the concentric-circle pattern may contain a small
+concentrated point or glow of blue light.
+
+This is a magical visual effect, not a symbol.
+
+It is not a projector.
+
+It is not a device.
+
+It is not a physical object.
+
+It should remain simple and unobtrusive.
+
+Do not turn the center glow into a star, compass, sigil, rune, or
+mechanical emitter.
+
+PHYSICAL SUPPORTS
+
+There are no physical supports for the viewscreen.
+
+FORBIDDEN: - Pedestals. - Stands. - Columns holding the screen. -
+Brackets. - Frames extending to the floor. - Projection towers. -
+Machinery. - Control consoles physically supporting the screen. -
+Cables. - Mounting hardware.
+
+The screen simply floats.
+
+CONTROLS
+
+The observation station does not require a permanent physical control
+console.
+
+Gods may manipulate the screen magically through gestures or other
+script-defined actions.
+
+Do not invent buttons, keyboards, touchscreens, levers, control desks,
+or mechanical interfaces unless explicitly required by a script.
+
+CHARACTER USE AND BLOCKING
+
+The station is intended for multiple Gods to stand around and observe
+the screen.
+
+Zorna, Nyssara, and Terra commonly use this station.
+
+Characters may stand: - To either side of the screen. - In front of the
+screen. - On the concentric-circle floor area. - Slightly outside the
+circle area when composition requires it.
+
+The station should provide sufficient open space for three or more
+characters without forcing them into unnatural crowding.
+
+Character positions are scene-specific and should be defined by SBL
+blocking rather than permanently encoded into the prop.
+
+The floor circles should not be treated as mandatory standing marks.
+
+They are environmental design, not character slots.
+
+PERSISTENCE RULE
+
+The larger WOA may vary.
+
+The following must remain persistent: 1. Large horizontal floating 2-D
+viewscreen. 2. Bright blue magical border. 3. No physical thickness. 4.
+No physical support. 5. Screen disappears when viewed exactly edge-on.
+6. Dark immediate floor/platform area. 7. Circular floor treatment
+beneath screen. 8. Simple blue concentric luminous circles. 9. Small
+optional central blue glow. 10. General scale relationship between
+screen and floor.
+
+LIGHTING
+
+The WOA uses Domain of the Gods ambient lighting.
+
+The viewscreen contributes localized blue illumination.
+
+Lighting should preserve: - Character faces. - Costume colors. -
+Environmental detail. - Dark-area detail. - CMYK printability.
+
+Avoid: - Crushed blacks. - Excessively dark backgrounds. - Blinding
+screen glow. - Extreme bloom. - Lens flare. - Harsh spotlight effects.
+
+The station should look luminous without becoming visually noisy.
+
+MATERIALS AND COLORS
+
+Viewscreen Border: Divine luminous blue.
+
+Floor: Dark polished stone or similarly refined dark DOTG material.
+
+Floor Circles: Luminous blue.
+
+Optional Floor-Center Glow: Bright blue-white core fading to blue.
+
+Environmental Accents: Blue crystalline light and restrained warm gold
+may appear in the surrounding WOA architecture.
+
+The station itself should remain dominated by the contrast between the
+dark floor and blue magical illumination.
+
+CONTINUITY RULES
+
+1.  The viewscreen is magical and perfectly 2-D.
+2.  The viewscreen has no physical thickness.
+3.  The viewscreen floats in mid-air.
+4.  The viewscreen has no physical support apparatus.
+5.  Viewed exactly edge-on, the viewscreen disappears.
+6.  No dedicated physical side profile exists.
+7.  The screen remains a large horizontal rectangle.
+8.  Screen proportions remain consistent.
+9.  The luminous border remains blue.
+10. The border is magical, not physical.
+11. Screen content may change freely.
+12. No permanent UI or interface overlays appear.
+13. The immediate floor treatment remains circular.
+14. The floor uses simple luminous blue concentric circles.
+15. No compass symbol appears on the floor.
+16. No starburst appears on the floor.
+17. No runes or writing appear on the floor.
+18. No central emblem appears on the floor.
+19. The center may contain only a simple blue glow.
+20. No mechanical projector or control apparatus appears.
+21. The larger WOA architecture may vary.
+22. The viewscreen and immediate floor/platform remain the persistent
+    continuity island.
+
+FORBIDDEN ELEMENTS
+
+Do not add: - Physical screen supports. - Screen stands. - Pedestals. -
+Projection columns. - Mounting hardware. - Cables. - Projectors. -
+Mechanical devices. - Thick screen edges. - A visible side-profile
+structure. - Permanent control consoles. - Keyboards. - Buttons. -
+Levers. - Generic computer interfaces. - Compass roses. - Multi-point
+starbursts. - Magic circles. - Runes. - Writing on the screen border. -
+Writing on the floor. - Central floor emblems. - Apex crests above the
+screen. - Generic mystical symbols. - Permanent decorative symbols
+shared with other story arcs. - Excessive bloom or glare.
+
+SBL PRODUCTION NOTE
+
+The observation station should be represented as a persistent
+prop/environment assembly rather than reconstructed from a generic World
+Observation Area description.
+
+Recommended semantic components:
+
+Environment: World_Observation_Area
+
+Persistent Assembly: WOA_Observation_Station
+
+Components: WOA_Viewscreen WOA_Floor_Area WOA_Concentric_Circles
+WOA_Center_Glow
+
+WOA_Viewscreen properties: - type = magical_2d_image_plane - orientation
+= vertical - thickness = zero / visually nonexistent - support = none -
+border = luminous_blue - content = scene-dependent
+
+WOA_Floor_Area properties: - material = dark_polished_surface - shape =
+circular - pattern = concentric_circles_only
+
+WOA_Concentric_Circles properties: - color = luminous_blue - symbols =
+none - writing = none - runes = none
+
+The larger WOA environment should not be inherited as a rigid
+architectural set unless a specific scene requires it.
+
+AUTHORITY RULE
+
+Use the canonical WOA observation-station production-sheet artwork, the
+approved Chapter 1 reference page showing Zorna, Nyssara, and Terra
+using the screen, and this textual specification together.
+
+If a generated production-sheet detail conflicts with this
+specification, the explicit textual rules are authoritative for: -
+Screen dimensionality. - Absence of physical support. - Edge-on
+disappearance. - Floor geometry. - Concentric-circle-only pattern. -
+Absence of compass/star symbols. - Absence of mechanical apparatus. -
+Persistence of the screen and immediate floor area.
+
+The canonical WOA viewscreen is a floating, perfectly flat magical 2-D
+image plane.
+
+The canonical WOA floor pattern is simple concentric luminous circles
+and nothing more.

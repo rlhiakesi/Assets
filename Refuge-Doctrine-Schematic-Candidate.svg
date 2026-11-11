@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+<rect width="1400" height="1050" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#18242a} .head{font-size:29px;font-weight:bold} .sub{font-size:20px} .lab{font-size:18px}</style>
+<text x="45" y="48" class="head">Chapter 18 refuge doctrine</text>
+<text x="45" y="80" class="sub">Production schematic candidate   Not to scale   No dimensions or capacity assigned</text>
+<text x="45" y="131" class="sub">Warhead Two   Experimental shelter and failure points</text>
+<path d="M60 370 H1340" stroke="#777" stroke-width="3"/>
+<path d="M300 395 Q310 180 630 180 Q930 180 950 395" fill="#aea28b" stroke="#4c4b43" stroke-width="5"/>
+<path d="M365 400 Q365 250 630 250 Q875 250 885 400" fill="#edf0ed" stroke="#4c4b43" stroke-width="4"/>
+<path d="M330 288 L370 315 L344 348 M901 279 L930 318 L910 348" fill="none" stroke="#9ed3e5" stroke-width="13"/>
+<path d="M1040 190 Q1030 300 948 345 Q910 360 925 390" fill="none" stroke="#4f9db4" stroke-width="9"/>
+<path d="M925 390 l-11 -24 l27 4" fill="#4f9db4"/>
+<path d="M874 373 L928 426 M923 377 L881 425" stroke="#985c48" stroke-width="8"/>
+<path d="M430 425 H805 V455 H430 Z" fill="#827661"/>
+<text x="62" y="220" class="lab">Wind too near shell</text><path d="M220 230 L1005 245" stroke="#333" fill="none"/>
+<text x="60" y="440" class="lab">Inner ledge shelters wounded</text>
+<text x="1005" y="310" class="lab">Pressure curls inward</text>
+<text x="1005" y="403" class="lab">Brace buckles</text>
+<text x="450" y="487" class="lab">Ice fractures and loose debris injures   Everyone survives</text>
+<text x="45" y="550" class="sub">Warheads Three and Four   Learned doctrine</text>
+<path d="M60 800 H1340" stroke="#777" stroke-width="3"/>
+<path d="M300 840 Q310 605 630 605 Q930 605 950 840" fill="#aea28b" stroke="#4c4b43" stroke-width="5"/>
+<path d="M370 840 Q375 680 630 680 Q870 680 885 840" fill="#eef3f3" stroke="#4c4b43" stroke-width="4"/>
+<path d="M390 805 Q410 700 630 700 Q835 700 860 805" fill="none" stroke="#63b5d5" stroke-width="9"/>
+<path d="M328 688 L355 705 M905 682 L928 704" stroke="#b6e2f2" stroke-width="12"/>
+<path d="M1120 852 Q1120 640 970 575" fill="none" stroke="#4f9db4" stroke-width="10"/>
+<path d="M970 575 l30 -4 l-14 24" fill="#4f9db4"/>
+<path d="M880 791 V865 M880 791 L936 852 M880 865 L936 797" stroke="#67533d" stroke-width="9"/>
+<path d="M455 840 V900 H790 V840" fill="#827661" stroke="#4c4b43" stroke-width="3"/>
+<rect x="504" y="739" width="20" height="32" fill="#807d72"/><path d="M499 735 L529 777 M529 735 L499 777" stroke="#3d484c" stroke-width="3"/>
+<text x="61" y="650" class="lab">Protected inner reinforcement</text><path d="M290 657 L410 739" stroke="#333"/>
+<text x="60" y="741" class="lab">Outer ice can shed</text><path d="M230 745 L341 701" stroke="#333"/>
+<text x="1140" y="623" class="lab">Standoff screen</text><text x="1140" y="651" class="lab">deflects pressure</text>
+<text x="995" y="791" class="lab">Sealed entrance</text><text x="995" y="817" class="lab">Braced both ways</text>
+<text x="60" y="896" class="lab">Tools secured</text><path d="M205 883 L510 770" stroke="#333"/>
+<text x="460" y="934" class="lab">Interior refuge below debris line</text>
+<text x="45" y="990" class="sub">Layer distinction controls   Exact construction awaits approval   Blast complete does not mean residual field clear</text>
+<text x="45" y="1020" class="lab">All labels and arrows are production notes only   Never print them in a story panel</text>
+</svg>

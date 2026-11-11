@@ -1,0 +1,218 @@
+NYSSARA — CANONICAL CHARACTER SPECIFICATION
+
+Identity Nyssara is a female Neophyte Goddess of the Nyssarians. She has
+been a Neophyte for less time than Zorna and, in Chapter 1, looks up to
+Zorna somewhat like an older sister.
+
+Apparent Age 30. This is a visual age target only; Nyssara is actually
+far older.
+
+Height Approximately 5 feet 4 inches (163 cm).
+
+Build Petite adult build. Slender with natural adult curves and a modest
+C-cup chest. She must look clearly adult and must not have adolescent
+body proportions.
+
+Face Adult feminine facial proportions appropriate to an apparent age of
+approximately 30. Nyssara is intended to be the most naturally pretty of
+the principal goddesses: an innocent beauty rather than a sophisticated
+or glamorous beauty. Her face is soft, gently oval to subtly heart-shaped,
+and somewhat more compact than Zorna’s, with soft cheeks and a small,
+refined chin. She must remain clearly mature rather than childlike. Avoid
+generic cute-anime-girl facial construction, oversized childlike eyes, or
+adolescent proportions.
+
+Eyes Violet. Her violet eyes are a major identifying feature and must
+remain consistent. They are relatively large, clear, and expressive, with
+a refined almond shape, detailed irises, delicate lashes, and soft outer
+corners. They should contribute strongly to her innocent beauty without
+making her look adolescent.
+
+Skin Fair.
+
+Ears Distinctly elven ears. Moderately long and elegantly tapered,
+somewhat shorter than the ears in Nyssara’s original character design
+but still unmistakably elven. Do not shorten them into subtle Vulcan- or
+Romulan-like points. The ears should normally remain clearly visible
+from front, 3/4, and side views.
+
+Hair Black, relatively straight, and smooth. The main rear hair extends
+approximately to the shoulder blades.
+
+Nyssara has distinct bangs across the forehead. The bangs are a required
+identifying feature and must not disappear.
+
+Two front hair sections fall in front of the ears and terminate
+approximately at chin level. Hair behind the ears continues to the
+shoulder blades. The hairstyle keeps the elven ears exposed.
+
+No braids, hair ornaments, ribbons, tiara, or crown.
+
+Jewelry Nyssara wears no jewelry as part of her normal physical design.
+The sole exception is the choker that is specifically part of her casual
+outfit.
+
+Casual Outfit Nyssara’s casual outfit is her default attire. It is a
+simple, feminine blouse-and-skirt ensemble intended to complement rather
+than compete with her natural beauty. It must not read as a robe,
+shrine-maiden garment, temple garment, school uniform, or elaborate
+fantasy costume.
+
+The blouse is light lavender, sleeveless, fitted but not tight, and
+nearly collarless. It has a modest V-neck that leaves the choker fully
+visible and may reveal only the slight natural cleavage appropriate to
+Nyssara’s modest C-cup build. The blouse is cleanly tucked into the
+skirt. It has no sash, bows, ornamental harnesses, elaborate trim, or
+complicated cutouts.
+
+The skirt is darker lavender-purple, fitted cleanly through the waist and
+hips with a restrained straight or subtly tapered silhouette. Its hem
+falls just above the knees. A small restrained side slit is acceptable
+for movement, but it must not become a thigh-high slit. Dark-plum
+low-to-medium heels complete the casual outfit.
+
+The casual outfit should feel understated, adult, graceful, and easy to
+reproduce consistently. It should deliberately undersell Nyssara: Zorna
+may appear more glamorous and sophisticated, while Nyssara should appear
+more naturally pretty and innocent.
+
+The lavender colors must remain bright enough that folds and contours
+remain clearly visible under moderate shadows and after CMYK conversion.
+Never allow the skirt to collapse into near-black or shadow-heavy dark
+violet.
+
+Casual Choker The choker is part of Nyssara’s casual costume, not her
+anatomy.
+
+It consists of one narrow dark-purple band and one smooth oval
+opaque-white stone centered at the throat. No chain, pendant, filigree,
+additional gemstones, or ornamentation.
+
+Whenever Nyssara is shown in casual attire and her neck is visible, the
+choker must be present, including full-body views, head-and-shoulders
+shots, expressions, and hair/face close-ups.
+
+Formal Outfit Nyssara’s formal attire is an elaborate ceremonial gown.
+Deep violet is dominant. Lighter purple may be used for secondary layers
+or accents. Gold trim is permitted but restrained compared with the
+original costume.
+
+Limited black or black-plum underlayers are acceptable, but the costume
+should remain visibly purple and preserve detail in shadows.
+
+The formal gown may be highly stylish and dramatic. Nyssara wears no
+jewelry with it. The casual choker disappears during transformation into
+formal attire.
+
+Typical formal-use cases include formal appearances before the Council
+of Gods, work in the Soul Relocation Area when formal presentation is
+appropriate, and formal appearances before mortals on Nyas/Zora.
+
+Default Outfit Rule Use Nyssara’s casual light-lavender blouse and
+dark-lavender above-knee skirt unless the script explicitly specifies
+formal attire.
+
+Magical Outfit Change Nyssara rotates one hand in a circle. A very brief
+magical-girl-like transformation changes her clothing essentially
+instantaneously.
+
+The transformation changes clothing only. It does not change her body,
+face, hair, ears, apparent age, or other physical characteristics. The
+casual choker disappears with formal attire and returns with casual
+attire.
+
+Posture and Movement Relaxed but attentive. Nyssara keeps her physical
+presence more contained than Zorna. She may loosely clasp her hands or
+hold one wrist with the opposite hand while listening.
+
+She should not look timid, weak, submissive, or adolescent. Her body
+language communicates that she watches and thinks before speaking.
+
+Movement is graceful, precise, and economical.
+
+Personality Expressed Visually Thoughtful, observant, intelligent,
+cautious, collaborative, insightful, disciplined, quietly ambitious,
+empathetic, strategic, gentle, and approachable.
+
+Nyssara’s strength is not brute force or overt command. She listens,
+analyzes, and often recognizes solutions others overlook. Her default
+facial affect should have softness and openness: a neutral composed look
+or very subtle natural smile rather than a smirk or overtly glamorous
+confidence. Her beauty should read as innocent and largely unselfconscious,
+not seductive, coquettish, or deliberately posed.
+
+Relationship with Zorna Zorna is currently the more experienced
+Neophyte. Nyssara looks up to her somewhat like a younger sister looks
+up to an older sister.
+
+Nyssara may watch Zorna for cues in unfamiliar situations, but she is
+fully capable of disagreeing with her. She respects Zorna without being
+subordinate to her.
+
+This relationship later reverses when both are reincarnated on Zora/Nyas
+and Nyssara becomes the older sister.
+
+Visual Differentiation from Zorna Zorna is taller, platinum blonde, has
+extremely long drill/corkscrew curls, human ears, ice-blue eyes, a
+predominantly white casual dress, and an expansive commanding presence.
+
+Nyssara is shorter and more petite, has straight black
+shoulder-blade-length rear hair, distinct bangs, chin-length front
+sections, clearly visible elven ears, violet eyes, a light-lavender
+sleeveless blouse, dark-lavender above-knee skirt, casual choker, and a
+more contained observational presence. Zorna is the sophisticated,
+glamorous beauty; Nyssara is the innocent, natural beauty.
+
+Visual Differentiation from Midori Nyssara must remain visually distinct
+from Midori at both age 14 and adulthood.
+
+Nyssara has an apparent age of approximately 30, clearly mature adult
+proportions, violet eyes, distinctly elven ears, shoulder-blade-length
+straight black rear hair, bangs, chin-length front sections, no red
+ribbon, a light-lavender sleeveless blouse, dark-lavender above-knee
+skirt, and a casual choker with a white oval stone.
+
+Midori has human ears, dark-brown eyes, a petite build throughout life,
+very long black hair, and her characteristic red hair ribbon.
+
+Nyssara must never simply read as an older version of Midori.
+
+Forbidden Visual Traits Do not render Nyssara with human-shaped ears;
+tiny Vulcan/Romulan-style ear points; missing visible elven ears;
+missing bangs; hair ornaments, ribbons, tiaras, or crowns; braided hair;
+extremely long hair comparable to Zorna or Midori; adolescent
+proportions; an exaggerated chest; shrine-maiden clothing; temple robes;
+school-uniform-like casual clothing; a sash or bow on the casual outfit;
+a floor-length casual dress resembling Zorna’s; a casual skirt much
+shorter than just above the knee; a plunging or overtly sexual casual
+neckline; a casual outfit so pale that it resembles Midori or Zorna; a
+casual outfit so dark that shadow detail disappears; excessive gold
+ornamentation; the casual choker with formal attire; a missing
+choker in visible-neck casual views; or the generic multi-point
+star/compass motif.
+
+Beauty Direction Nyssara is the “innocent beauty” of the principal
+goddesses. This is a core visual-design goal. She should be exceptionally
+pretty without relying on glamour, elaborate styling, conspicuous makeup,
+jewelry, or revealing clothing. Her appeal comes primarily from her face,
+violet eyes, silky black hair, gentle expressions, and graceful presence.
+
+Zorna remains the sophisticate: taller, more dramatic, polished, and
+commanding. Nyssara should not imitate Zorna’s glamour. When the two are
+shown together, Zorna may be the more immediately spectacular figure,
+while Nyssara should read as the more naturally pretty and approachable
+one.
+
+Production Reference Principle Nyssara should remain identifiable from
+silhouette alone.
+
+From the side and back, her straight shoulder-blade-length hair,
+chin-length front sections, petite adult build, and unmistakable elven
+ears should distinguish her.
+
+From a head-and-shoulders view, the combination of bangs, black hair,
+violet eyes, exposed elven ears, mature adult face, and casual choker
+should make her immediately recognizable.
+
+Canonical character-sheet artwork and this textual specification should
+be used together when generating or validating Nyssara’s appearance.

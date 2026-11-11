@@ -1,0 +1,280 @@
+IAKESI CH20 — CURRENT CHARACTER AND STATE AUTHORITY
+Source-derived constraints; unlettered production material.
+Locked script SHA256: 9a6fd7f2b56c70991a2a67b1053ce21199017122fe39376b9c13b77f00a02875
+
+MIDORI
+{
+  "identity": "Canonical Midori: black hair, human ears, red ribbon unless explicitly removed; unpowered eyes dark brown. Current chapter identity/proportions and current role wardrobe inherit approved current references, not Chapter 9 arrival age/kimono defaults.",
+  "costume": "Carry current Chapter 19/20 wardrobe through each connected location. Visits to Temple/Academy do not automatically turn fieldwear into school uniform or Temple robes. No unscripted magical costume change.",
+  "injury": "No new injury/instant cure invented. Red-zone overload symptoms P9-10; rest/clinical recovery; final discharge tired but lucid, then ordinary life at zero.",
+  "trajectory": [
+    "Nyas recovery and inquiry P1-30",
+    "Crewed balloon journey to Zora P31",
+    "Temple/Academy/memorial/training farewells P31-36",
+    "Crewed return to Nyas completed P37",
+    "Photo return P38; discharge P39-41",
+    "Externally powered physical crossing P43; Earth arrival not shown",
+    "Later record/recollection appearances are historical, not physical return"
+  ]
+}
+
+BUREN
+{
+  "identity": "Canonical Zoran human ears/white hair and Buren face/body.",
+  "costume": "Current military-role fieldwear/armor as established for the scene; do not restore school-cadet wardrobe merely because he is at Academy. Sling/bandaging layer remains source-governed.",
+  "injury": "Chapter 19 regulator-resonance injury was treated; Chapter 19 shows one arm in sling and later bandaging. Same supported arm throughout. Laterality is unspecified in text, not license to alternate. No invented amputation, scar pattern or renewed resonance.",
+  "trajectory": [
+    "Arm supported at signal map and convoy cart P1-3",
+    "Joint workshop/supply work as explicitly present",
+    "Crewed Zora return P31",
+    "Supervises cadets resting recovering arm P36; no strenuous demonstration",
+    "Not an automatically present witness at Nyas portal P42"
+  ]
+}
+
+MOW_OH
+{
+  "identity": "Canonical M’ow Oh; no recasting a different leadership-board figure.",
+  "costume": "Maintain established detainee/command-role clothing; lost command seal does not silently return.",
+  "injury": "No new injury specified. Grief uses actual face/thumb/photograph, not a new wound.",
+  "trajectory": [
+    "Supervised command cooperation from Nyas custody P1 onward",
+    "Remains in Nyas while Geroff/Midori/Buren travel P31",
+    "Cockpit photograph returned during P38 supervised visit",
+    "Authorized escorted farewell P42.5 does not imply release or exoneration"
+  ]
+}
+
+MAY_JIN
+{
+  "identity": "Nyssarian identity: elven ears; approved portrait/model controls exact hair/face. No new hair color inferred from population range.",
+  "costume": "Military authorization/papers are not the same as personal clothing. Do not invent an instantaneous costume change to signal release. Source service status changes are tracked separately.",
+  "injury": "No new injury specified.",
+  "trajectory": [
+    "Interpreter with accepted Zoran military position, family concern P2-12",
+    "Release request/handover P13",
+    "Separate searches then verified reunion P14-15",
+    "Civilian findings and military/parole closure P16",
+    "New chosen limited civilian interpreter agreement P21",
+    "Family farewell P30; voluntary portal interpretation P41-43",
+    "Leaves chamber with Sela P43.5; returns to Lian, not into portal",
+    "Chosen paid civilian work with both children and parents P54"
+  ]
+}
+
+LIAN_AND_FAMILY
+{
+  "identity": "Family portrait establishes identity only within approved scope; Nyssarian elven ears and source-specific age relationships retained.",
+  "costume": "Temporary lodging/reunion state stays grounded; passage of ten mons permits age/state updates, not redesign or Earth-year conversion.",
+  "injury": "Grandfather recovering from illness at clinic P15; no miraculous cure invented at reunion.",
+  "trajectory": [
+    "Wife and younger child present initially; parents/older child missing",
+    "Parents at road clinic; older child at diverted evacuation station",
+    "Whole family together only after retrievals P15.5",
+    "Both children and parents remain present in family continuity P16/P30/P54",
+    "Not automatically inserted into final portal witness group"
+  ]
+}
+
+SELA
+{
+  "identity": "Approved Sela/current Nyssarian model, elven ears, current work state.",
+  "costume": "Keep engineering/work clothing, dirt/repair state across connected tasks; no reset to pristine ceremonial costume for each page.",
+  "injury": "No new injury specified.",
+  "trajectory": [
+    "River Gate/distribution, cutoff and receiving-bank duties",
+    "Independent city power work continues without Midori",
+    "Photo visit/portal participation only as source requires",
+    "Embraces Midori P42.2, exits chamber with May Jin P43.5",
+    "Mixed maintenance crew P53.2, later era not same-day emergency"
+  ]
+}
+
+VEY
+{
+  "identity": "Approved Vey/current Nyssarian engineer identity, elven ears.",
+  "costume": "Inherit engineer/work state; no generic substitute elder engineer when a named model is required.",
+  "injury": "No new injury specified.",
+  "trajectory": [
+    "Regulators/couplers, source ledger and controlled transfers",
+    "Tests nonpassenger portal apparatus without treating Midori as every load",
+    "Confirms external store isolation and complete discharge",
+    "Remains outside passenger path to supervise feed/shutdown"
+  ]
+}
+
+HANAE_AND_HEALER
+{
+  "identity": "Hanae Nyssarian and Zoran healer are distinct people/populations; do not fuse them. Role labels HEALER/ZORAN HEALER remain source labels until exact identity binding.",
+  "costume": "Clinical/workwear as currently established; hygiene/working context carries across source cuts.",
+  "injury": "They examine/treat others; do not invent personal injuries.",
+  "trajectory": [
+    "Hanae saved Buren in Chapter 19; source gratitude has prior cause",
+    "Clinical stopping conditions during both discharges",
+    "Independent instrument and healer checks at zero",
+    "Hanae helps Midori stand by ordinary support; no healing spell after zero",
+    "Continuing mixed clinical work P53.3"
+  ]
+}
+
+ORIN
+{
+  "identity": "Current canonical Nyssarian civic official, elven ears.",
+  "costume": "Inherit civic/working state, no automatic uniform redesign.",
+  "injury": "No new injury specified.",
+  "trajectory": [
+    "Civilian ledger, accountability and separate search entries",
+    "Maintains missing-person records after reunions",
+    "Gives ordinary agreed-account paper copy to Midori at P42.2",
+    "Later public accounts retain open claims P53.4"
+  ]
+}
+
+GEROFF
+{
+  "identity": "Current canonical Zoran officer, human ears/white hair.",
+  "costume": "Established military-role attire; relief authority is not a new imperial rank or unlimited treaty power.",
+  "injury": "No new injury specified.",
+  "trajectory": [
+    "Joint disarmament/relief mandate with M’ow Oh and assembly",
+    "Travels to Zora to report/seek authority P31",
+    "P37 updated instructions do not prove he physically returned to Nyas",
+    "Do not insert him into final portal witness scene solely because his instructions remain active"
+  ]
+}
+
+SERAPHINE_AND_NAANDEEN
+{
+  "identity": "Current approved distinct Zoran identities and canonical hair/ears/uniform/role rules. Seraphine and Naandeen are not interchangeable Temple/Academy figures.",
+  "costume": "Temple/Academy role clothing inherits proper canon. Naandeen’s regulation Academy uniform is not Midori’s modified hem; cadet rules apply only to actual cadets.",
+  "injury": "No new injury specified.",
+  "trajectory": [
+    "Seraphine receives reports before personal embrace P31",
+    "Private evidence/choice conversations P32-33",
+    "Naandeen offers ordinary teaching alternative and returns to class P34",
+    "Remain in Zora, not automatic portal witnesses in Nyas"
+  ]
+}
+
+ZORNA_NYSSARA_ADULTS
+{
+  "identity": "Zorna platinum drill curls/human ears/ice-blue eyes; Nyssara black hair/bangs/elven ears/violet eyes. Adult designs remain distinct from Midori.",
+  "costume": "Canonical formal gowns for hearing; Nyssara has no casual choker with formal attire. Subjective or recorded earlier appearances retain their historical attire.",
+  "injury": "No new physical punishment wounds. Mortal sentence is loss of power/access and retained awareness.",
+  "trajectory": [
+    "Mortal theory P24-25 is not live presence of goddesses",
+    "Archived interventions P46-48 are recorded, not repeated in current time",
+    "Stand at 11:00 for formal hearing P49; do not acquire Council seats",
+    "White judgment light P52 does not show an immediate birth",
+    "Adult Zorna thought image P56.5 is private subjective imagery, not physical reappearance"
+  ]
+}
+
+ALPHA_TERRA_COUNCIL
+{
+  "identity": "Canonical Council members and Alpha/Terra references control actual identities; do not reuse Resurrection-Watch-Alpha as the deity.",
+  "costume": "Terra formal gown before Council; established members’ canonical appearance.",
+  "injury": "No new injuries.",
+  "trajectory": [
+    "Fixed eight-seat circular table and occupants; Alpha at 12:00",
+    "Zorna/Nyssara stand at 11:00; Terra at 1:00 with no seat or vote",
+    "Seven ordinary Council votes; Alpha no routine vote",
+    "Terra’s later Earth/pair supervision is an assigned duty, not current off-panel rescue shown here"
+  ]
+}
+
+TWINS_AND_PARENTS
+{
+  "identity": "Zoran mother platinum hair/human ears; Nyssarian father elven ears with established individual hair design. Elder infant Nyssara black hair/elven ears; younger Zorna platinum hair/human ears.",
+  "costume": "Ordinary newborn proportions and blankets; no miniature adult goddess gowns/jewelry/corkscrew-curl mass forced onto babies.",
+  "injury": "Healthy newborns as source says; no birth injury or magical birth effect invented.",
+  "trajectory": [
+    "Mixed marriage and neighbors already part of reconciled society",
+    "Born in Zora in later sequence, not in Nyas city montage",
+    "P55 traits may foreshadow, but no names/adult insets there",
+    "P56.1 naming, P56.3 elder awareness, P56.4 baby grasp, P56.5 younger private thought",
+    "Parents do not know their former identities; no mana or administrative ability"
+  ]
+}
+
+SENIOR_SCIENTIST
+{
+  "identity": "Same principal Nyssarian portal researcher from introduction through farewell; elven ears and approved individual model. Senior role does not specify a numerical age.",
+  "costume": "Keep established research workwear and personal model across tests/explanations; no secret military uniform or arbitrary face change.",
+  "injury": "No new injury specified; initial fatigue/defensiveness is not a new disease.",
+  "trajectory": [
+    "Introduced beside disconnected apparatus P21.5",
+    "Explains origin limit and respects refusal/cutoff P22-23",
+    "Separates mortal theory from proof, hope from safe-arrival guarantee",
+    "Participates in external-store isolation and consent, then remains outside crossing P42"
+  ]
+}
+
+ADNIL_MARTA_MEMORY
+{
+  "identity": "Use each named character’s own canonical identity and source-era appearance in memories. Do not substitute the living cast or generic memorial faces.",
+  "costume": "Historical/current-memory reference scope only; do not copy Midori’s present mana/wardrobe state into remembered scenes.",
+  "injury": "They remain dead in present timeline. Adnil’s death was instantaneous; Marta’s interception followed abandoned protection. No new death sequence, apparition, resurrection or replying voice.",
+  "trajectory": [
+    "Separate memorial/flower visits P35",
+    "Subjective remembrance P43.1",
+    "Later record/memorial context does not restore them to current life"
+  ]
+}
+
+ROLE_EXTRAS_AND_POPULATIONS
+{
+  "identity": "Zoran males white hair, females platinum, human ears. Nyssarians elven ears and individual varied hair colors. Apply by actual person, not city location; later communities are mixed.",
+  "costume": "Use source role/era and canon; anonymous extras must not clone named cast or share one idealized face. Cadet uniforms only on cadets, not all visitors/workers.",
+  "injury": "Preserve specified wounded patients and care states without inventing repeated new injuries or instant healing.",
+  "trajectory": [
+    "All exact speaking-role occurrences are indexed separately",
+    "Context scopes distinguish commanders, family generations and child roles",
+    "Council generic voices belong to canonical seven ordinary occupants; exact speaker-seat casting remains to be recorded with assets/staging"
+  ]
+}
+
+SCOPED ROLE IDENTITIES
+[
+  {
+    "label": "COMMANDER",
+    "scopes": {
+      "P3": "Nyssarian eastern battery commander",
+      "P13": "Zoran military commander handling May Jin service handover"
+    },
+    "rule": "Distinct officers and populations; same generic label does not merge their face, ears, hair or uniform."
+  },
+  {
+    "label": "FATHER / MOTHER",
+    "scopes": {
+      "P16": "May Jin’s Nyssarian parents/grandparents of his children",
+      "P55-56": "Newborn twins’ Nyssarian father and Zoran mother"
+    },
+    "rule": "Different generations and people. Do not reuse family-grandparent models for newborn parents or give P16 mother Zoran human ears/platinum restriction."
+  },
+  {
+    "label": "CHILD",
+    "scopes": {
+      "P34": "Academy child/student in Zora",
+      "P54": "Child asking about Midori at later shared public account"
+    },
+    "rule": "Separate context-scoped extra roles; no automatic recurring identity or age progression between them. Later child’s population is not fixed merely by Nyas location."
+  },
+  {
+    "label": "HEALER / ZORAN HEALER",
+    "scopes": {
+      "P9 and P28": "Source-defined Zoran clinical role, distinct from Hanae"
+    },
+    "rule": "Preserve established clinical appearance if this is the returning practitioner; label variation alone is not proof of a second person. Do not merge with Hanae or automatically with every background healer."
+  },
+  {
+    "label": "COUNCIL MEMBER / FIRST SECOND THIRD COUNCIL MEMBER",
+    "scopes": {
+      "P49-51": "Members of the established seven ordinary seated gods"
+    },
+    "rule": "Select from canonical seven occupants, not new eighth/ninth voters. Generic speaking labels do not specify which seat speaks; record the selected speaker-seat assignment when directing/binding actual art without changing reader copy."
+  }
+]
+
+APPROVAL UPDATE — 2026-10-17
+User approved all six new sheets: "approved. add as necessary." These are active Chapter20 canonical design references within their stated scope. Buren RIGHT-arm sling/support is selected for Chapter20 production and must remain consistent; Chapter19 prose did not fix laterality, so this is a production choice, not a retroactive quotation of text. Source-unspecified model details are approved visual choices, not additions to reader-visible story. Family reunion vignette is identity/blocking support: illustrative clothes do not require a sudden costume change before release; current-scene inheritance governs. Do not invent rank from uniform examples. Midori zero means natural dark-brown unlit eyes, no stored mana and no charged belongings. Final-panel face matching and artwork/CSP validation remain pending.

@@ -1,0 +1,146 @@
+HARU CANONICAL CHARACTER SPECIFICATION IAKESI Revised Edition
+
+PURPOSE This file is the binding textual reference for Haru in Chapter
+7. Use it together with Haru-CH7-character-sheet.png and
+Haru-CH7-expression-sheet.png. If an incidental rendering conflicts with
+this specification, this specification controls unless the script
+explicitly establishes a temporary change.
+
+IDENTITY Name: Haru (晴) Race/Nationality: Earth human; Japanese Sex:
+Male Age during Chapter 7: 36 Height: Approximately 6 feet 0 inches (183
+cm) Build: Lean, muscular, and strong from physical farm labor; not
+bodybuilder-large Eyes: Dark brown Hair: Black Facial hair: Short beard
+and mustache Role: Emi’s husband; Midori’s father; Aokawa farmer
+Historical setting: Kamakura-era Japan Status at beginning of Chapter 7:
+Living human Status at end of Chapter 7: Deceased on Earth; chooses Door
+3 and becomes an Acolyte
+
+STORY FUNCTION Haru is Midori’s father and Emi’s equal partner. He
+represents responsibility, practical courage, and devotion to family and
+village. When Aokawa faces starvation, Haru volunteers to travel to
+Kamakura and petition for relief. Emi independently insists on
+accompanying him. Haru tries to reason with Truk rather than provoke
+him, but his practical criticism of Truk’s policy is treated as
+defiance. Truk orders Haru and Emi executed. Haru’s death is a defining
+event for Midori and Takeshi.
+
+PERSONALITY Haru is hardworking, disciplined, patient, compassionate,
+practical, principled, humble, and deeply devoted to his family. His
+strength is quiet rather than theatrical. He avoids needless
+confrontation, but when something is morally important he speaks plainly
+even when doing so is dangerous. He does not seek glory, status,
+revenge, or conflict.
+
+FACE AND HEAD Apparent age: Mid-thirties Face: Strong, mature, weathered
+but kind; defined jawline and working-man appearance Eyes: Dark brown;
+never glowing unless a script explicitly establishes a temporary effect
+Hair: Black, medium-long, normally tied back in a practical loose
+bun/topknot Loose strands: Several loose strands naturally frame the
+face Facial hair: Short beard and mustache; keep length and shape
+consistent Complexion: Natural lightly weathered Japanese complexion
+appropriate to outdoor farm work Default expression: Serious, attentive,
+grounded, and quietly protective Ears: Normal human ears only; never
+pointed or elven
+
+BODY AND SILHOUETTE Canonical height is approximately 6 feet / 183 cm.
+Binding silhouette: - tall adult male frame; - lean muscular build from
+farm labor; - black tied-back hair with loose strands; - short beard and
+mustache; - simple rural work clothing; - practical wrapped lower legs
+and straw sandals; - grounded working-man posture. Haru must not look
+like a samurai, soldier, fantasy warrior, aristocrat, or bodybuilder.
+
+CLOTHING — EARTH / AOKAWA Primary top: Simple practical kimono or work
+robe in muted off-white, linen-gray, weathered blue-gray, or similarly
+restrained rural tones Lower garment: Practical work trousers suitable
+for farming and travel Sash/obi: Dark functional cloth sash Legs:
+Practical cloth wrappings where shown Footwear: Straw sandals / waraji
+Cold-weather option: Simple practical wrap or cloak when required by
+weather Condition: Well maintained but visibly used, mended, and
+appropriate to a poor rural household Jewelry: None by default Armor:
+None Rank insignia: None Personal sword: None
+
+VILLAGE-OWNED TRAVEL WEAPON Haru does not personally own a warrior’s
+sword. Before the journey, the Village Chief issues Haru a practical
+weapon from Aokawa’s communal stores because the road to Kamakura is
+dangerous. The weapon remains village property. At the Kamakura
+government compound, Haru is ordered to surrender the weapon. He
+hesitates because it belongs to Aokawa, then complies. The weapon is not
+returned to Aokawa after Haru’s death. Its loss later angers the Village
+Chief and is part of Chapter 8 continuity. Do not portray the issued
+weapon as proof that Haru is a samurai or professional fighter.
+
+EXPRESSIONS Canonical useful expressions include neutral, calm/gentle,
+warm smile, concerned, worried, sad, determined, resolve, thoughtful,
+protective, restrained anger, tired, pain/grief, loving toward Emi,
+loving/protective toward Midori, profile left/right, and three-quarter
+left/right. Avoid exaggerated rage, heroic battle poses, slapstick
+distortion, villainous expressions, or youthful anime affectations.
+
+POSTURE AND MOVEMENT Haru moves like a farmer accustomed to physical
+labor. His hands and posture should suggest years of work. He carries
+baskets, tools, supplies, and travel gear naturally. His gestures are
+restrained and purposeful. During the petition he kneels and behaves
+respectfully. When confronting Truk, his challenge remains verbal and
+practical; he does not posture like a warrior.
+
+RELATIONSHIPS Emi: Wife and equal partner. Haru volunteers to travel to
+Kamakura; Emi independently chooses to accompany him. Midori: Daughter
+and central emotional priority. Midori addresses him as Otou-san.
+Takeshi: Trusted family friend and son of the Village Chief. Village
+Chief: Aokawa’s local leader. Haru trusts his assurance that Midori will
+be cared for and accepts the village-owned travel weapon from him. Truk:
+Kamakura official who rejects Aokawa’s petition and orders Haru and Emi
+executed. Terra: Earth’s Goddess. Once Haru understands Terra’s divine
+status in the SRA, he naturally addresses her as Terra-sama.
+
+CHAPTER 7 CONTINUITY Haru and Emi travel to Kamakura on foot over a
+journey lasting weeks through difficult mountainous country. They do not
+ride horses. At the Kamakura compound, Haru surrenders the village-owned
+weapon. Haru’s fatal argument is practical: if Truk takes what little
+remains, there will be nothing left to tax the following year. Truk
+interprets this as defiance and orders Haru and Emi executed. Takeshi
+draws his bow intending to intervene but is discovered and forced to
+flee. Haru dies in Chapter 7.
+
+SOUL RELOCATION AREA CONTINUITY At the moment of their deaths, Haru and
+Emi arrive in the Soul Relocation Area (SRA), distinct from the WOA and
+COG. Their arrival is an ordinary Earth-soul arrival. Terra receives
+them as Earth’s Goddess performing normal SRA duty. Door 1 returns a
+soul to Earth in a new infant body without prior-life memories. Door 2
+sends a soul to another world with memories retained in a newly created
+body corresponding to the Earth body at death. Door 3 keeps the current
+spiritual form while the soul becomes an Acolyte. Emi chooses to remain
+first. Haru independently agrees. Together they become Acolytes. Haru
+and Emi are elsewhere when Midori later reaches the SRA in Chapter 8 and
+do not reunite with her until much later.
+
+LANGUAGE AND HONORIFICS Midori may address Haru as Otou-san. Once Haru
+recognizes Terra as a Goddess, he addresses her as Terra-sama. Japanese
+humans habitually use -sama when directly addressing a recognized
+Goddess.
+
+PROHIBITED DRIFT - No age younger than the established mid-thirties
+appearance. - No height substantially different from approximately 6
+feet except incidental perspective. - No fantasy-colored hair. - No
+clean-shaven face unless explicitly required later. - No full heavy
+beard. - No pointed ears. - No samurai armor, noble clothing, personal
+samurai sword, paired swords, rank insignia, or clan crest. - No fantasy
+weapon, staff, wand, magical aura, or glowing eyes. - Do not depict Haru
+as knowing or practicing magic while alive on Earth. - No horse travel
+to Kamakura. - Do not depict Haru as forcing Emi to accompany him. - Do
+not depict Haru and Emi as specially selected for the SRA. - Do not
+imply Acolyte status immediately allows contact with Midori. - Do not
+use later Acolyte clothing for living Haru.
+
+RENDERING PRIORITY When detail must be simplified, preserve in this
+order: 1. Mature mid-thirties face with short beard and mustache 2.
+Black tied-back hair with loose strands 3. Approximately 6-foot lean,
+muscular farmer’s build 4. Simple muted rural work clothing 5. Dark
+practical sash, leg wraps, and straw sandals 6. Weathered hands and
+grounded working-man posture 7. Restrained, protective emotional acting
+
+VISUAL STYLE IAKESI target style: approximately 70% photorealistic / 30%
+manga. Haru should look like a real hardworking farmer, not a fantasy
+hero. Clothing may accumulate dust, rain, mud, wrinkles, and wear during
+the journey, but the core identity must remain consistent. Execution
+scenes should preserve dignity and avoid graphic gore.

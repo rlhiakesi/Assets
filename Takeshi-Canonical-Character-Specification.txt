@@ -1,0 +1,158 @@
+TAKESHI CANONICAL CHARACTER SPECIFICATION IAKESI Revised Edition
+
+PURPOSE This file is the binding textual reference for Takeshi in
+Chapters 7 and 8. Use it together with
+Takeshi-character-reference-sheet.png and Takeshi-expression-sheet.png.
+If an incidental rendering conflicts with this specification, this
+specification controls unless the script explicitly establishes a
+temporary change.
+
+IDENTITY Name: Takeshi (たけし) Race/Nationality: Earth human; Japanese
+Sex: Male Age during Chapter 7: 17 Height: 5 feet 7 inches (170 cm)
+Build: Lean and athletic Birthplace: Aokawa Village Role: Village
+tracker / hunter; son of the Village Chief Status during Chapter 7:
+Living human
+
+STORY FUNCTION Takeshi is the Village Chief’s son and a highly capable
+young tracker. His father secretly assigns him to follow Haru and Emi to
+Kamakura so Aokawa will know what happens to them. Takeshi witnesses
+Truk reject their petition and order their execution. He ultimately
+draws his bow intending to intervene, exposing himself and forcing him
+to flee. He returns to Aokawa alive but withholds important details from
+Midori. This begins a guilt and shame arc that continues in Chapter 8,
+when Takeshi kills Truk and leaves Aokawa in shame. He later becomes the
+legendary Gray Samurai, a Japanese Robin-Hood-like folk hero known by
+the time Midori returns to Japan in 2012. Chapter 7 must not explicitly
+name or foreshadow the Gray Samurai identity.
+
+PERSONALITY Takeshi is quiet, observant, disciplined, fiercely loyal,
+determined, capable, and serious beyond his years. He speaks little but
+acts with purpose. He cares deeply for his family and village and
+especially respects Haru and Emi. He is not hot-headed, but he can be
+fierce when necessary. His later guilt comes partly from having tried
+and failed to save Haru and Emi and partly from not telling Midori
+everything afterward.
+
+FACE AND HEAD Apparent age: Seventeen; clearly a late adolescent/young
+man, not a mature adult Face: Young, angular, expressive, with strong
+brows Eyes: Dark brown; focused and observant Hair: Black, long enough
+for a messy practical topknot with loose strands Facial hair: None Ears:
+Normal human ears only Default expression: Watchful, restrained, serious
+
+BODY AND SILHOUETTE Height: 5’7” / 170 cm Build: Lean and athletic from
+mountain travel, hunting, climbing, and village work Binding
+silhouette: - youthful lean frame; - messy black topknot with loose
+strands; - large dark scarf/neck wrap; - dark layered indigo/blue rural
+travel clothing with subtle restrained pattern; - yumi and quiver; -
+wrapped lower legs and waraji sandals; - traditional utility gear
+carried at the waist. The silhouette may have a ninja-like visual
+flavor, but Takeshi is not canonically a ninja. He is a skilled village
+tracker and hunter.
+
+CLOTHING Base clothing: Dark indigo/blue layered rural travel garments
+appropriate to a Kamakura-era mountain village Pattern: Subtle
+restrained traditional-looking pattern; never modern camouflage Scarf:
+Large dark gray/charcoal neck wrap Lower garments: Loose practical dark
+trousers/hakama-like workwear Legs: Cloth wraps Footwear: Waraji sandals
+Condition: Worn, practical, traditional, and suitable for mountain
+travel No armor No noble clothing No professional military uniform No
+modern tactical fabrics or closures
+
+MISSION EQUIPMENT Primary weapon: Yumi / long bow Ammunition: Quiver
+with arrows Secondary tool: Small practical utility knife Other
+equipment: Rope, water gourd, and a limited number of functional belt
+pouches All equipment must look traditional and plausible for a
+pre-modern setting: wood, cloth, leather, rope, straw, and metal where
+appropriate. The gear may be visually dense enough to support the
+tracker silhouette, but must never become modern tactical equipment.
+Takeshi is skilled because he grew up hunting, tracking, and traveling
+in the mountains, not because Aokawa maintains a professional scout or
+ninja corps.
+
+EXPRESSIONS Canonical expressions include: - neutral; - focused; -
+serious; - determined; - skeptical; - concerned; - alert; - thinking; -
+surprised; - annoyed; - slight smile; - warm smile; - anger; -
+speaking; - shouting; - hurt; - tired; - looking down / thoughtful; -
+eyes closed / calm; - profile. Expressions should remain recognizably
+youthful. Avoid making him look like a hardened middle-aged warrior.
+
+POSTURE AND MOVEMENT Takeshi moves quietly and efficiently through
+mountain terrain. He can crouch, climb, track, observe from concealment,
+move through snow and forest, carry a bow, and travel long distances.
+His competence comes from rural mountain life. When he draws his bow at
+the Execution Courtyard, it is a desperate moral decision to intervene,
+not a professional assassination pose.
+
+RELATIONSHIPS Village Chief: Takeshi’s father. Takeshi is loyal to him
+and follows his covert instruction to shadow Haru and Emi. Haru and Emi:
+Trusted family friends whom Takeshi deeply respects. Their deaths become
+a source of lasting guilt. Midori: Younger family friend. Takeshi
+returns with news of her parents’ deaths but does not tell her the
+complete story. Midori notices his reluctance and later holds his lack
+of candor against him. Truk: Kamakura official responsible for Haru and
+Emi’s deaths. Takeshi later kills Truk in Chapter 8.
+
+CHAPTER 7 CONTINUITY The Village Chief secretly orders Takeshi to follow
+Haru and Emi to Kamakura and report what happens. Takeshi travels
+separately and remains concealed from Haru and Emi. He observes their
+journey and the Kamakura proceedings. He retains his bow while Haru
+surrenders the village-owned travel weapon at the compound. Takeshi
+finds concealed observation positions around the Kamakura compound. He
+learns that Truk knows villages are suffering and refuses mercy anyway.
+He witnesses Haru and Emi being sentenced. At the Execution Courtyard,
+Takeshi can no longer remain merely an observer. He pulls out his bow
+and prepares to intervene. That movement exposes him to a guard. He is
+chased and forced to flee. He survives and returns to Aokawa weeks
+later. He reports that Haru and Emi reached Kamakura, Truk heard their
+petition, and they were killed. He withholds the fuller details of the
+audience, his attempted intervention, and the execution. Midori notices
+that he is withholding something. Takeshi returns without Haru’s
+village-owned weapon, which remained at the Kamakura compound. The
+Village Chief is later angry about the loss of valuable communal
+property.
+
+CHAPTER 8 HANDOFF Takeshi begins Chapter 8 carrying unresolved guilt and
+shame. He later kills Truk. Afterward he leaves Aokawa in shame. His
+later life develops into the legend of the Gray Samurai, a Japanese
+Robin-Hood-like folk hero. Do not depict Takeshi as the Gray Samurai in
+Chapter 7. Do not add Gray Samurai insignia, title, costume, or explicit
+legend foreshadowing unless a later script requires it.
+
+LANGUAGE AND JAPANESE TEXT Takeshi speaks Japanese diegetically;
+dialogue is rendered primarily in English with selected familiar
+Japanese terms. He may address his father as Otou-san. The kana spelling
+たけし is valid Japanese and may be used when the script or production
+design calls for his name in Japanese. NO FAKE JAPANESE SCRIPT: Any
+visible text that appears to be Japanese must be genuine, valid
+Japanese. If valid wording has not been established, omit the writing
+rather than inventing Japanese-looking glyphs.
+
+PROHIBITED DRIFT - No mature adult appearance; Takeshi is 17 in Chapter
+7. - No height substantially different from 5’7” except incidental
+perspective. - No facial hair. - No blond, brown, white, or
+fantasy-colored hair. - No pointed ears. - No samurai armor. - Do not
+canonically identify him as a ninja. - No professional military
+uniform. - No modern tactical gear, synthetic-looking webbing, zippers,
+plastic buckles, or modern backpack design. - No firearms. - No fantasy
+weapons or magical equipment. - No automatic aura or glowing eyes. - Do
+not depict Takeshi as knowing or practicing magic. - Do not portray his
+attempt to save Haru and Emi as cowardice; he actually prepares to
+intervene. - Do not portray his escape as indifference. - Do not reveal
+the Gray Samurai identity/title in Chapter 7. - No fake or
+pseudo-Japanese glyphs anywhere in artwork.
+
+RENDERING PRIORITY When detail must be simplified, preserve in this
+order: 1. Youthful 17-year-old angular face and serious dark eyes 2.
+Messy black topknot with loose strands 3. Large dark scarf/neck wrap 4.
+5’7” lean athletic build 5. Dark patterned indigo/blue layered travel
+clothing 6. Yumi and quiver 7. Wrapped lower legs and waraji sandals 8.
+Traditional rope, water gourd, knife, and limited belt pouches 9. Quiet,
+observant body language and youthful guilt/resolve
+
+VISUAL STYLE IAKESI target style: approximately 70% photorealistic / 30%
+manga. Takeshi should look like a capable seventeen-year-old mountain
+tracker with a strong pre-modern stealth silhouette, not a modern action
+hero. His clothing and equipment may accumulate dirt, snow, rain, and
+wear during the journey. Maintain the same face, hair, age, build,
+scarf, and core clothing throughout Chapters 7 and 8 unless the script
+explicitly establishes a later change.

@@ -1,0 +1,260 @@
+SEVEN SCREAMING DIZ-BUSTERS
+CANONICAL CHARACTER SPECIFICATION
+IAKESI / IMAGINOS PROJECT
+
+STATUS
+Canonical working specification. The approved character and costume sheets govern visual appearance; this file governs semantic canon, behavior, transformations, and continuity.
+
+1. CORE CONCEPT
+
+Exactly seven Diz-Busters exist:
+DB-1 — The Organizer
+DB-2 — The Muscle
+DB-3 — The Performer
+DB-4 — The Engineer
+DB-5 — The Schemer
+DB-6 — The Financier
+DB-7 — The Explorer
+
+All seven have the SAME natural anatomy, face, body proportions, height, skin color, hair, eyes, ears, hands, and feet.
+
+They are seven independent persons, not clones and not a hive mind. Natural-form identity is communicated primarily by costume, personality, expression/body language, and DB number. Without costume/context, they cannot normally be distinguished physically.
+
+2. NATURAL FORM
+
+The natural form is overwhelmingly HUMANOID.
+
+Canonical traits:
+- Approximately 6'1" / 1.85 m.
+- Lean, athletic humanoid build.
+- Blue skin.
+- Handsome/refined human-like face.
+- Human-style hair, eyes, nose, mouth, and teeth.
+- Two arms and two legs with ordinary humanoid proportions.
+- Subtle webbed ears.
+- Modest hand and foot webbing on land.
+- No tail, scales, dorsal fin, facial fins, fish snout, bulbous fish eyes, claws, or visible external gills.
+- No permanent large swimming fins.
+
+From a distance the character should read as a blue humanoid, not a fish creature.
+
+3. AQUATIC ADAPTATIONS
+
+The Diz-Busters are aquatic/amphibious and cold-blooded.
+
+WEBBED EARS
+Humanoid ears with restrained fin-like webbing. The membranes sense water-pressure changes, current direction, low-frequency vibration, and nearby movement.
+
+HANDS
+Mostly human on land with modest finger webbing. Underwater, webbing expands for steering and maneuverability.
+
+FEET
+Mostly humanoid on land. Underwater, toe webbing expands and may extend slightly beyond the toes to form compact natural swim-fin surfaces.
+
+FOREARM MEMBRANES
+Narrow membranes recessed along the outer forearms. Retracted on land and nearly invisible except for subtle seams. They deploy reflexively underwater for steering.
+
+CALF MEMBRANES
+Narrow membranes recessed along the outer lower legs. Retracted on land; deployed underwater for thrust efficiency and stability.
+
+SWIMMING
+No jets. Propulsion comes from a highly flexible spine/hips, whole-body undulation, powerful legs, expanded foot webbing, and calf membranes. Hands and forearm membranes steer. At speed they move like streamlined human-shaped marine mammals rather than humans performing ordinary swim strokes.
+
+RESPIRATION
+They can remain underwater for extended periods. Aquatic respiration is internal/divine biology. Do not add external gills.
+
+4. THERMOREGULATION
+
+Diz-Busters are ectothermic/cold-blooded. They are adapted to Hell's extremely hot geothermal waters. Water comfortable to them may be dangerous to humans.
+
+Cold Earth water, particularly the Potomac in winter, is uncomfortable and can impair them. Earth equipment therefore includes heated wet locks and recovery systems.
+
+5. HUMAN TRANSFORMATION
+
+Diz-Buster transformation is NOT open-ended shapeshifting.
+
+Exactly three body configurations exist:
+1. Natural Diz-Buster.
+2. Human-M — one predefined male human.
+3. Human-F — one predefined female human.
+
+ALL SEVEN use exactly the SAME Human-M.
+ALL SEVEN use exactly the SAME Human-F.
+
+There are not seven variants of either human identity.
+
+Human-M and Human-F have fixed face, body, height, hair, eye color, apparent age, and other physical traits.
+
+A human transformation can last up to SIX DAYS. Six hours is NOT canonical.
+
+Human transformation is energetically expensive and used purposefully. Human forms appear fully human: no blue skin, webbed anatomy, aquatic membranes, or other visible natural-form traits.
+
+6. SHARED CONSCIOUSNESS
+
+The Diz-Busters do NOT have a hive mind.
+
+Each has an independent consciousness, personality, preferences, emotions, and judgment.
+
+They can voluntarily share memories and operational experience when needed, including conversations, people, negotiations, promises, relationships, locations, passwords, and sensory memories.
+
+This allows seamless substitution. One DB can conduct business as Human-M, share the relevant memories, revert, and another DB can assume Human-M and continue the same relationship with complete factual continuity.
+
+Memory can be shared; personality is not. A perceptive human may notice subtle differences in manner between substitutions.
+
+7. PERMANENT NATURAL-FORM IDENTITIES
+
+Costume is the primary visual identifier and must not drift between DB numbers.
+
+DB-1 — THE ORGANIZER
+Personality: disciplined leader; keeps others focused; takes Lucy seriously.
+Costume: black/navy; high structured/asymmetric collar; long divided lower panels; gold trim.
+
+DB-2 — THE MUSCLE
+Personality: direct, physical, favors force; often needs reminders about subtlety.
+Costume: dark burgundy; diagonal chest strap; broad shoulder treatment; relatively exposed arms; reinforced construction.
+
+DB-3 — THE PERFORMER
+Personality: theatrical; loves audiences and human form; naturally conspicuous.
+Costume: purple; theatrical/open front; long flowing divided panels; decorative gold accents.
+
+DB-4 — THE ENGINEER
+Personality: builder/inventor; maintains locks, boats, equipment, and field systems.
+Costume: dark green; practical vest; utility belt; pockets/pouches; reinforced functional construction.
+
+DB-5 — THE SCHEMER
+Personality: secretive; plans within plans; best natural practitioner of Lucy's invisibility doctrine.
+Costume: black/dark charcoal; hood/cowl; layered concealing folds; minimal ornamentation.
+
+DB-6 — THE FINANCIER
+Personality: sophisticated; Blue Oyster Cult liaison; understands investment, leverage, money, and institutional power.
+Costume: dark navy; tailored formal cut; lapel-like collar; gold piping; most businesslike natural-form outfit.
+
+DB-7 — THE EXPLORER
+Personality: curious; fascinated by Earth, boats, travel, places, and human culture.
+Costume: teal; asymmetric sash/wrap; flowing travel-ready lower panels; decorative patterning.
+
+Permanent natural-form costumes NEVER transfer between DB numbers unless a script explicitly requires a deliberate costume exchange.
+
+8. HUMAN-FORM WARDROBE
+
+Natural-form costume identifies DB number. Human-form clothing does NOT.
+
+Human-M and Human-F have mission-appropriate wardrobes belonging to the shared human identities. Clothing should not reveal which DB is currently operating the form unless explicitly scripted.
+
+9. HELL
+
+Hell is their true home after exile.
+
+Surface: volcanic, extremely hot, black stone, ash, lava, violent geothermal activity.
+
+Below the surface: geothermal seas, mineral pools, volcanic caverns, hydrothermal vents, and superheated water systems.
+
+Their aquatic physiology is adapted to these geothermal waters.
+
+Lucy remains physically confined to Hell. The seven Diz-Busters are permitted to travel between dimensions under Alpha's restrictions.
+
+10. COLUMBIA ISLAND MARINA
+
+Columbia Island Marina is the terminal Washington node and the Diz-Busters' principal Earth field station.
+
+Seven ordinary-looking, deliberately dissimilar boats are associated with the seven DBs. They must not look like an obvious supernatural fleet.
+
+Each contains a concealed heated wet lock / SCUBA port below the waterline.
+
+Typical arrival:
+1. DB approaches underwater in natural form.
+2. Hidden hull access opens.
+3. DB enters wet chamber.
+4. Hatch seals.
+5. Water is heated if necessary.
+6. DB enters the boat unseen.
+7. If needed, DB assumes Human-M or Human-F inside.
+8. Human identity exits conventionally onto the dock.
+
+Departure reverses the sequence.
+
+The boats are access points, changing facilities, equipment/communications stations, node-maintenance stations, and temporary shelters. They are NOT permanent residences. Hell remains headquarters.
+
+11. BLUE OYSTER CULT RELATIONSHIP
+
+The real Blue Oyster Cult is Lucy's terrestrial human implementation organization.
+
+The Diz-Busters supervise and interact with it as needed. DB-6 is the primary financial/institutional liaison, but any DB can use the shared human identities and substitute for another through shared memory.
+
+The Cult supplies money, investments, political influence, legal structures, property, transportation, documents, human labor, and institutional access.
+
+The Diz-Busters should not personally accumulate conspicuous terrestrial fortunes.
+
+12. RELATIONSHIP TO IMAGINOS
+
+Imaginos has much broader shapeshifting than the Diz-Busters.
+
+Diz-Busters:
+Natural <-> Human-M <-> Human-F only.
+
+Imaginos:
+Can construct substantially different human identities, subject to high mana cost.
+
+Do not conflate Diz-Buster shared consciousness with Imaginos's temporal duplication.
+
+The Blue Oyster Cult performs most routine historical manipulation.
+The Diz-Busters supervise.
+Imaginos is the special-operations asset used when ordinary influence fails or supernatural intervention is required.
+
+13. RENDERING / CONTINUITY RULES
+
+MANDATORY:
+- Exactly seven Diz-Busters exist.
+- Natural anatomy is identical across all seven.
+- Same face, hairstyle, height, build, blue skin tone, ear anatomy, and hand/foot anatomy.
+- Distinguish by costume and behavior, not anatomy.
+- DB number means identity/personality/costume, not body type.
+- Swimming membranes remain retracted on land unless explicitly deployed.
+- Deployed membranes are functional and restrained, never huge decorative fins.
+- Human-M is identical regardless of which DB operates it.
+- Human-F is identical regardless of which DB operates it.
+- Human clothing does not identify the underlying DB by default.
+
+14. EXPLICIT PROHIBITIONS
+
+DO NOT:
+- Make the seven different-looking blue humanoids.
+- Give them unique faces, hairstyles, heights, musculature, skin tones, or ear shapes.
+- Add scales, fish heads/mouths, snouts, bulbous fish eyes, external gills, tails, dorsal fins, or claws.
+- Render them as Creature-from-the-Black-Lagoon-style monsters.
+- Use biological or technological water jets.
+- Give Diz-Busters arbitrary/open-ended shapeshifting.
+- Create seven different Human-M or Human-F identities.
+- Reduce transformation duration to six hours; the maximum is SIX DAYS.
+- Treat shared consciousness as a hive mind.
+- Transfer permanent DB costumes without explicit story instruction.
+- Treat the marina boats as their permanent home.
+- Forget that they are cold-blooded and adapted to Hell's geothermal water.
+
+15. CANONICAL ASSET PACKAGE
+
+A. Main Diz-Buster Character Sheet
+Shared natural anatomy, aquatic traits, swimming adaptations, and shared human forms.
+
+B. Diz-Buster Costume Reference Sheet
+DB-1 through DB-7 permanent natural-form costumes.
+
+C. Human-M Character Sheet
+One shared male human identity.
+
+D. Human-F Character Sheet
+One shared female human identity.
+
+E. This Canonical Character Specification
+Semantic, behavioral, transformation, continuity, and rendering rules.
+
+For SBL/asset resolution, a reference such as:
+diz_buster[4]
+
+conceptually resolves to:
+shared canonical Diz-Buster body
++ DB-4 Engineer costume
++ DB-4 personality/behavior
++ applicable aquatic state.
+
+END OF CANONICAL SPECIFICATION

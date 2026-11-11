@@ -1,0 +1,244 @@
+MIDORI AGE 13/14 CANONICAL CHARACTER SPECIFICATION
+IAKESI Revised Edition
+
+PURPOSE
+This file is the binding textual reference for Midori during Chapter 9 and the corresponding beginning of the Zora fantasy arc. Use it together with the Midori age 13/14 character reference sheet and Midori age 13/14 expression sheet. If an incidental rendering conflicts with this specification, this specification controls unless the script explicitly establishes a temporary change.
+
+IDENTITY
+Name: Midori (みどり)
+Race/Nationality: Earth human; Japanese
+Sex: Female
+Earth chronological age during Chapter 9: approximately 13½–14 Earth years
+Zoran chronological age equivalent: approximately 12.x yurs
+Important: Earth years and Zoran yurs are not interchangeable. Do not expose or explain this age discrepancy in Chapter 9 reader-facing dialogue, narration, captions, or written text.
+Role: Orphan; student; future shrine maiden; newly arrived Chosen One on Zora
+Home before death: Tenryu Temple, Kamakura
+Status at beginning of Chapter 9: deceased Earth human soul in the Soul Relocation Area
+Status after Door Two: resurrected on Zora in a new body equivalent to her body at death
+
+STORY FUNCTION
+Midori enters Chapter 9 after the losses and hardship of the preceding Earth arc. She has not become emotionally adult simply because she has suffered. She remains a young adolescent: intelligent, observant, compassionate, cautious, and capable of resilience, but still vulnerable and inexperienced.
+
+Zorna's encounter with Midori was accidental. Midori was not selected or watched in childhood. By Chapter 9, Zorna has recognized Midori's exceptional magical potential and has secretly altered Zoran history to prepare for her arrival.
+
+Midori does not know that Zorna traveled into Zora's past, founded the conditions that produced the Temple's vigil, or caused generations of Zorans to wait for the Chosen One.
+
+AGE AND CHRONOLOGY
+Midori is approximately 13½–14 Earth years old during Chapter 9.
+
+Measured in Zoran time, she is approximately 12.x yurs old.
+
+This distinction is an important later plot point. Chapter 9 must not state Midori's numerical age in reader-facing material. Do not casually translate Earth years into Zoran yurs or treat the units as synonyms.
+
+For visual production, Midori's physical/developmental appearance follows her Earth age and the age-13/14 character reference sheet.
+
+FACE AND HEAD
+Face: youthful adolescent face; visibly older and more mature than age-11 Midori, but unmistakably still a young teenager
+Eyes: large dark-brown eyes
+Freckles: light freckles across cheeks and nose; important identity feature
+Hair: black; long and tied back
+Ribbon: red; important recurring visual identifier
+Loose hair: natural bangs and loose strands around the face
+Ears: normal human ears
+Default expression: attentive, thoughtful, gentle, with more emotional weight than her age-11 appearance
+
+BODY AND SILHOUETTE
+Approximate height: 5 feet 1 inch / 155 cm
+Build: slim, healthy adolescent proportions
+Binding silhouette:
+- long black tied-back hair
+- visible red ribbon
+- youthful adolescent frame
+- maroon/burgundy patterned kimono
+- dark obi
+- simple wooden sandals
+
+Do not render Midori with age-11 child proportions.
+Do not render her as an adult woman.
+Do not sexualize her.
+
+CLOTHING — CHAPTER 9
+Primary garment: dark maroon/burgundy kimono with restrained floral pattern
+Obi/sash: dark navy/charcoal
+Footwear: simple wooden sandals
+Hair accessory: signature red ribbon
+Condition: clothing is mended and cared for; preserve the condition established at her death
+Jewelry: none unless explicitly established by script
+Armor/weapons: none
+
+RESURRECTION CONTINUITY
+Door Two resurrection gives Midori a new body visually equivalent to the body she possessed at death.
+
+Therefore, when Midori materializes on Zora she has:
+- the same physical age and appearance she had immediately before death
+- the same black hair and hairstyle
+- the same red ribbon
+- the same clothing
+- the same footwear
+- the same visible physical condition
+- the same carried possessions, if any were established at death
+
+She is not reborn as an infant or younger child. This is resurrection, not ordinary reincarnation.
+
+Her Earth body is dead. The body appearing on Zora is a newly created equivalent body.
+
+PERSONALITY
+Midori is:
+- gentle and empathetic
+- intelligent and curious
+- diligent and disciplined
+- observant
+- courageous when necessary
+- emotionally resilient without being emotionally invulnerable
+- still grieving her parents
+- capable of loneliness and uncertainty
+- determined to live in a way that honors her parents
+- capable of warmth, humor, embarrassment, surprise, and adolescent awkwardness
+
+Her experiences have matured her, but they must not erase her youth.
+
+EXPRESSIONS
+Canonical useful expressions include:
+- neutral
+- gentle smile
+- happy
+- excited
+- curious
+- thinking
+- concerned
+- worried
+- surprised
+- determined
+- sad
+- hurt
+- tearful
+- embarrassed
+- lonely
+- thoughtful
+- resolute
+- gentle laugh
+- bewildered
+- cautious
+- quietly hopeful
+
+Expressions must remain age-appropriate, sincere, and emotionally grounded.
+
+CHAPTER 9 EMOTIONAL CONTINUITY
+In the Soul Relocation Area, Midori is cautious and uncertain but willing to listen to Zorna.
+
+From Midori's perspective, Zorna's absence while altering Zoran history lasts only a very short time. Midori therefore reacts naturally when Zorna returns.
+
+Midori crosses Door Two voluntarily after Zorna tells her to go.
+
+Upon resurrection, Midori awakens in an unfamiliar chamber surrounded by strangers. Her initial response is confusion rather than theatrical panic.
+
+The Zoran priestesses react strongly to Midori's black hair because black hair is culturally associated with demons. Midori initially does not understand why they are reacting to her.
+
+Seraphine's welcome resolves the immediate Temple confrontation but does not resolve the larger Zoran prejudice against Midori's black hair. Acceptance of her appearance is a major long-term fantasy-arc storyline and takes years.
+
+BLACK HAIR — STORY-CRITICAL FEATURE
+Midori's hair must remain unmistakably black.
+
+Do not:
+- lighten it toward platinum blonde
+- recolor it to visually assimilate her with Zorans
+- render it dark brown merely to soften the contrast
+- obscure it so completely that the Zoran reaction becomes visually inexplicable
+
+Her black hair is one of the most important visual and narrative distinctions in the Zora arc.
+
+MAGIC AND MANA
+Midori is an Earth human with exceptionally high magical potential.
+
+At the beginning of Chapter 9 she does not possess trained Zoran magical technique. Do not depict her casually casting Zoran spells, using established Zoran magical forms, or behaving like an experienced mage.
+
+Her potential and her actual training are separate concepts.
+
+Do not add:
+- unexplained magical aura
+- glowing eyes
+- casual spellcasting
+- magical equipment
+- combat expertise
+
+unless explicitly required by the script.
+
+LANGUAGE
+Midori is Japanese.
+
+Dialogue is rendered primarily in English with selected Japanese terms where explicitly scripted and culturally appropriate.
+
+Japanese human characters may use Japanese honorifics appropriately. Midori may address a recognized Goddess with -sama when the script calls for it.
+
+Zorans do not use Japanese honorifics. Zoran formal address uses the established Zoran/English-rendered forms such as Lady Zorna and Lady Ashiba.
+
+JAPANESE TEXT
+NO FAKE JAPANESE SCRIPT.
+
+Any visible Japanese writing must be genuine valid Japanese. If valid wording has not been established, omit the writing rather than inventing pseudo-Japanese glyphs.
+
+Zoran writing is not Japanese and must use the established Zoran-script treatment.
+
+RENDERING STYLE
+Rendering style follows location.
+
+When Midori is physically in the Soul Relocation Area / Dimension of the Gods:
+- use the established approximately 70% photorealistic / 30% manga rendering style
+
+When Midori is physically on Zora:
+- use traditional manga illustration style
+
+A character's identity does not override the location rendering rule.
+
+CHARACTER REFERENCE PRIORITY
+For Chapter 9 and later Arc 2 material, use the Midori age 13/14 character reference sheet as the primary visual reference.
+
+Use the Midori age 13/14 expression sheet for facial-expression and angle guidance.
+
+The age-11 character sheet, age-11 expression sheet, and age-11 canonical specification are historical references for Chapter 7/early Japan continuity only. They do not control Midori's Chapter 9 body proportions or current appearance.
+
+However, preserve recognizable continuity between age-11 and age-13/14 Midori:
+- black hair
+- dark-brown eyes
+- light freckles
+- red ribbon
+- recognizable facial identity
+- maroon/burgundy clothing tradition
+- core emotional warmth
+
+PROHIBITED DRIFT
+- No age-11 child proportions in Chapter 9.
+- No adult body proportions.
+- No sexualization.
+- No nonhuman ears or fantasy racial traits.
+- No missing red ribbon unless the script explicitly removes it.
+- No radical hairstyle change.
+- No hair color other than black.
+- No unexplained jewelry.
+- No weapons or combat gear unless scripted.
+- No unearned magical competence.
+- No fake Japanese writing.
+- No Japanese honorifics spoken by Zorans.
+- No numerical statement of Midori's age in Chapter 9 reader-facing speech, narration, captions, or written material.
+- Do not equate Earth years with Zoran yurs.
+- Do not depict Midori as having known about the Temple's 200-yur vigil before resurrection.
+- Do not depict Midori as expecting worship or special treatment.
+- Do not resolve Zoran prejudice toward her black hair immediately.
+
+RENDERING PRIORITY
+When detail must be simplified, preserve in this order:
+1. Age-13/14 adolescent proportions and youthful face
+2. Unmistakably black hair
+3. Large dark-brown eyes and light freckles
+4. Signature red ribbon
+5. Maroon/burgundy patterned kimono
+6. Dark obi and simple sandals
+7. Recognizable continuity with younger Midori
+8. Gentle but increasingly resilient emotional character
+
+CHAPTER 9 PRODUCTION NOTE
+Midori's numerical age is production information only in this chapter.
+
+Do not expose it to the reader.
+
+The Earth-age / Zoran-yur discrepancy becomes story material later and must remain available for that reveal.

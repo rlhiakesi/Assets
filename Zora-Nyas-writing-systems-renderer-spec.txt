@@ -1,0 +1,76 @@
+IAKESI ZORA AND NYAS WRITING SYSTEMS RENDERER SPECIFICATION
+
+Purpose
+This file is the prompt-facing production reference for visible Zoran and Nyassarian writing in manga artwork. Use it with Zora-Nyas-writing-systems-sheet.png. The scripts are decorative fictional systems, not encodings of English dialogue.
+
+GLOBAL RULES
+- Never use recognizable real-world letters or writing systems.
+- Do not imitate Latin, Greek, Cyrillic, Arabic, Hebrew, Japanese, Chinese, Korean, Thai, Devanagari, Egyptian, Mayan, or other historical scripts.
+- Never substitute pseudo-Japanese or pseudo-Chinese characters.
+- Keep each civilization's script visually consistent across signs, books, documents, maps, monuments, and diagrams.
+- Visible reader dialogue remains ordinary comic lettering; these systems are for diegetic writing inside the depicted world.
+- Do not ask an image renderer to spell English with either fictional script. Generate plausible decorative glyph sequences instead.
+
+NYASSARIAN SCRIPT
+Identity
+Nyassarian writing represents science, observation, engineering, printing, and accumulated knowledge.
+
+Direction and spacing
+- Write in vertical columns from top to bottom.
+- Order columns from right to left.
+- Separate word groups with a small divider mark rather than blank spaces.
+
+Glyph construction
+- Use precise engineered pictographs.
+- Build glyphs from straight stems, wedges, hooks, loops, enclosed squares or circles, dots, and short crossbars.
+- Keep strokes measured, drafted, engraved, and mechanically repeatable.
+- Avoid expressive brushwork and calligraphic flourishes.
+
+Historical forms
+- Classical manuscripts use more ornate versions of the same glyph families.
+- Printed and movable-type forms are simplified and standardized but visibly related to the classical forms.
+- Stone inscriptions use heavier, durable versions of the same construction logic.
+
+Numbers and technical notation
+- Use twelve dedicated numeral symbols in a base-12 system.
+- Numerals must not resemble Arabic digits.
+- Scientific material may combine Nyassarian glyphs with restrained measurement ticks, arrows, construction grids, and diagram marks.
+
+Nyassarian prompt block
+Use the canonical Nyassarian script: entirely fictional scientific writing made from precise engineered pictographic glyphs using stems, wedges, hooks, loops, enclosed geometric forms, dots, and short crossbars. Write it in vertical top-to-bottom columns ordered right-to-left, with small divider marks between word groups. Use distinct fictional base-12 numerals. Make the lettering look carefully drafted, engraved, or set in movable type. Do not use or resemble any real-world script.
+
+ZORAN SCRIPT
+Identity
+Zoran writing is a decorative engineered fantasy script associated with Ashiba's design tradition under Zorna's guidance.
+
+Direction and spacing
+- Write horizontally from left to right.
+- Separate words with normal blank spaces.
+- Use typical word groups of three to eight glyphs.
+- Do not use uppercase or lowercase forms.
+
+Glyph construction
+- Build glyphs from circles, squares, triangles, hollow pentagons, diamonds, hexagons, four-point stars, and thin stacked rectangles.
+- Combine and modify these shapes to expand the glyph inventory.
+- Keep line weight clean, geometric, orderly, and easy for artists to reproduce.
+
+Context variants
+- Temple inscriptions are large, formal, and spacious.
+- Books use short decorative titles.
+- Official documents use a title, compact text blocks, and an appropriate canonical seal.
+- Spell scrolls use dense but orderly decorative sequences.
+- Avoid repeating identical decorative strings in adjacent panels.
+
+Numbers punctuation and currency
+- Use ten dedicated decimal numeral symbols independent of the alphabet.
+- Support a geometric period, comma, colon, semicolon, question mark, and exclamation mark.
+- Use a crystal-inspired currency symbol for the Lumen.
+- Preserve canonical symbols separately: Zoran Empire crest, Temple emblem, Imperial Magic Academy crest, Goddess of Light emblem, Mana Crystal icon, Staff of Eternal Light icon, elemental magic icons, and Demon Empire emblem.
+
+Zoran prompt block
+Use the canonical Zoran script: an entirely fictional left-to-right decorative geometric writing system with ordinary spaces between three-to-eight-glyph word groups and no uppercase or lowercase. Construct glyphs from circles, squares, triangles, hollow pentagons, diamonds, hexagons, four-point stars, and thin stacked rectangles. Use clean uniform strokes, distinct fictional decimal numerals, geometric punctuation, and a crystal-inspired Lumen currency mark. Do not encode English and do not use or resemble any real-world script.
+
+SELECTION RULE
+- Use Nyassarian for Nyas books, scientific papers, maps, printing, engineering labels, scholarly inscriptions, and technical diagrams.
+- Use Zoran for Zora temple inscriptions, books, official documents, spell scrolls, seals, currency notation, and magical institutions.
+

@@ -1,0 +1,178 @@
+EMI CANONICAL CHARACTER SPECIFICATION IAKESI Revised Edition
+
+PURPOSE This file is the binding textual reference for Emi in Chapter 7.
+Use it together with the approved Emi-character-sheet.png and
+Emi-expression-sheet.png. If an incidental rendering conflicts with this
+specification, this specification controls unless the script explicitly
+establishes a temporary change.
+
+IDENTITY Name: Emi (恵美) Race/Nationality: Earth human; Japanese Sex:
+Female Age during Chapter 7: 33 Height: 5 feet 4 inches (163 cm) Build:
+Slim, healthy, naturally proportioned adult woman; practical
+working-village build Eyes: Warm dark brown Hair: Black Role: Midori’s
+mother; Haru’s wife; Aokawa villager Historical setting: Kamakura-era
+Japan Status at beginning of Chapter 7: Living human Status at end of
+Chapter 7: Deceased on Earth; chooses Door 3 and becomes an Acolyte
+
+STORY FUNCTION Emi is Midori’s mother and Haru’s equal partner. She
+establishes the loving family Midori loses, participates actively in
+Aokawa’s attempt to survive famine and taxation, and independently
+chooses to accompany Haru to Kamakura to petition for relief. Her death
+helps define Midori’s Chapter 8 circumstances. In the Soul Relocation
+Area, Emi again acts independently: she is the first of the couple to
+state that she wants to remain in the Dimension of the Gods, after which
+Haru agrees and they choose to become Acolytes together.
+
+PERSONALITY Emi is kind, nurturing, resilient, thoughtful, patient,
+practical, resourceful, compassionate, and quietly courageous. She is
+deeply devoted to Haru and Midori but is not passive or subordinate to
+Haru. She makes her own decisions and accepts hardship without
+theatrical martyrdom. Her emotional strength is expressed through
+restraint, care, and persistence rather than aggression.
+
+FACE AND HEAD Apparent age: Early thirties Face: Warm, mature but
+youthful, with gentle adult features Eyes: Warm dark brown; never
+glowing unless a script explicitly establishes a temporary effect Hair:
+Black, usually gathered into a practical loose bun or updo Loose
+strands: Several natural loose strands may frame the face Complexion:
+Natural warm complexion; light natural freckles may be visible Default
+expression: Warm, attentive, composed, and quietly concerned Rendering
+rule: Maintain consistent facial geometry throughout Chapter 7
+
+BODY AND SILHOUETTE Canonical height is 5 feet 4 inches / 163 cm. Emi
+must not be vertically stretched or given fashion-model proportions.
+Binding silhouette: - modest adult female proportions; - practical black
+hair bun with loose face-framing strands; - muted maroon/reddish-brown
+kimono; - dark charcoal/slate obi; - rural footwear; - calm, grounded
+posture. Leg and torso proportions must read as a 5’4” adult woman. She
+is slim and healthy, not frail, unusually tall, exaggeratedly curvy, or
+stylized as a fantasy heroine.
+
+CLOTHING — EARTH / AOKAWA Primary garment: Muted reddish-brown to maroon
+patterned kimono Pattern: Restrained floral or woven motif appropriate
+to a rural Kamakura-era setting Inner collar: Pale neutral fabric
+Obi/sash: Dark charcoal or slate, practical rather than ceremonial
+Footwear: Practical rural straw sandals or the established equivalent
+Condition: Clean but visibly used and appropriate to a household with
+limited means Social presentation: Rural working mother, not nobility,
+warrior, court lady, priestess, or fantasy character Jewelry: None by
+default Armor: None Weapons: None by default
+
+COLOR PALETTE Hair: Near-black, approximately #1A1A1A Eyes: Warm dark
+brown, approximately #4A2E1E Skin: Natural warm fair-to-medium Japanese
+complexion Kimono main: Muted maroon/reddish brown, approximately
+#8B3A3A Kimono pattern: Muted dusty rose/tan, approximately #C9A898
+Obi/sash: Charcoal/slate, approximately #3E3E46 Inner collar: Warm
+ivory, approximately #E8E1D9 Footwear: Natural straw/brown
+
+EXPRESSIONS Emi’s expressions are human, restrained, and mature.
+Canonical useful expressions include: - neutral / calm; - gentle
+smile; - warm happiness; - thoughtful; - concerned; - worried; - sad; -
+determined; - compassionate; - loving toward Midori; - gentle
+firmness; - surprised; - reflective / looking down; - profile left; -
+profile right. Avoid exaggerated slapstick distortion, childish
+affectations, glamorous posing, villainous expressions, or excessive
+melodrama.
+
+POSTURE AND MOVEMENT Emi moves like a practical village woman accustomed
+to household and community work. Her gestures are economical and
+natural: preparing food, carrying baskets, tending to Midori, walking
+long distances, kneeling formally, or bowing respectfully. She does not
+pose like a warrior, aristocrat, or model. During the journey to
+Kamakura, fatigue and weather may affect posture without changing her
+canonical proportions.
+
+RELATIONSHIPS Haru: Husband and equal partner. Haru initially volunteers
+to go to Kamakura; Emi independently insists that they will both go.
+Midori: Daughter and central emotional priority. Midori addresses Emi as
+Okaa-san. Emi supports Midori’s basic reading and writing instruction at
+Aokawa’s local Buddhist temple. Takeshi: Trusted family friend and son
+of the Village Chief. No romantic implication. Village Chief: Aokawa’s
+local leader. Emi and Haru trust his assurance that Midori will be cared
+for while they are away. Truk: Kamakura official who rejects the
+petition and orders Haru and Emi executed. Terra: Earth’s Goddess. Once
+Emi understands Terra’s divine status in the SRA, she naturally
+addresses her as Terra-sama.
+
+CHAPTER 7 CONTINUITY Aokawa is suffering from a failed harvest, depleted
+stores, and severe resource/tax pressure following the recent
+Mongol-invasion era. Emi and Haru reduce their own food and try to
+protect Midori. Emi is present when Midori shares part of her own ration
+with her. Emi and Haru participate in the village crisis and petition
+decision. Haru says he will go to Kamakura; Emi independently answers
+that they will both go. They leave Midori in Aokawa under the Village
+Chief’s promised care. Emi and Haru travel to Kamakura on foot. The
+journey lasts weeks through difficult mountainous country. They do not
+ride horses. The Village Chief issues Haru a village-owned travel weapon
+from communal stores. Emi does not carry a warrior’s weapon. At the
+Kamakura compound, Haru surrenders the village weapon. Emi participates
+actively in the petition before Truk. She asks that the burden be
+reduced for one year and uses the respectful plea “Onegaishimasu.” Truk
+orders Haru and Emi executed. Emi dies in Chapter 7.
+
+SOUL RELOCATION AREA CONTINUITY At the moment of their deaths, Emi and
+Haru arrive in the Soul Relocation Area (SRA). The SRA is a distinct
+canonical DOTG environment and must never be confused with the World
+Observation Area (WOA) or COG. Their arrival is an ordinary Earth-soul
+arrival, not a special divine selection. Terra receives them as Earth’s
+Goddess performing normal SRA duty.
+
+The three standard choices presented to them are: 1. Return to Earth:
+reincarnation as a baby in a new body; memories of the previous life are
+lost. Any karmic relationship between prior hardship and later
+circumstances remains deliberately unexplained. 2. Another world:
+memories are retained; a new body is created corresponding to the
+person’s Earth body at death. 3. Remain in the DOTG: the person becomes
+an Acolyte and retains the existing spiritual form.
+
+Emi chooses Door 3. She asks whether they will ever know what happened
+to Midori. Terra explains that they cannot do so while they are
+Acolytes. If they eventually become Neophytes, they will be able to look
+backward through Earth time. Terra gives only a rough expectation of
+“around a millennium, perhaps,” explicitly depending on their progress.
+Chapter 7 does not further define the advancement system. Emi says,
+“Then I want to remain.” Haru independently agrees. Together they choose
+to become Acolytes. Emi and Haru are elsewhere when Midori later reaches
+the SRA in Chapter 8. They do not reunite with Midori until much later
+in the story.
+
+LANGUAGE AND HONORIFICS Chapter 7 dialogue is English-translated
+Japanese with selected familiar Japanese terms retained. Midori may
+address Emi as Okaa-san. Emi may use Onegaishimasu in a formal plea.
+Once Emi recognizes Terra as a Goddess, she addresses her as Terra-sama.
+Japanese humans habitually use -sama when directly addressing a
+recognized Goddess. Non-Japanese cultures use their established forms
+such as Lady Terra instead.
+
+PROHIBITED DRIFT - No tall or elongated fashion-model proportions. - No
+height substantially above 5’4” unless a scene’s perspective creates an
+incidental apparent difference. - No blond, brown, red, or
+fantasy-colored hair. - No elaborate aristocratic hairstyle. - No noble,
+courtly, warrior, shrine-maiden, or fantasy-priestess costume. - No
+armor. - No personal sword or warrior equipment. - No jewelry by
+default. - No magical aura, glowing eyes, or visible supernatural
+ability while alive on Earth. - Do not depict Emi or other historical
+Japanese humans as knowing or practicing magic. - No horse travel to
+Kamakura. - Do not depict Emi as merely following Haru’s decision to
+petition; she independently chooses to accompany him. - Do not depict
+the Village Chief as forcing Emi to go. - Do not depict Haru and Emi as
+specially selected for the SRA. - Do not imply that becoming an Acolyte
+immediately allows Emi to observe, contact, guide, or reunite with
+Midori. - Do not use later Acolyte clothing for living Emi in Aokawa. -
+Do not introduce Chapter 19 costume details into this Chapter 7 Earth
+reference.
+
+RENDERING PRIORITY When detail must be simplified, preserve in this
+order: 1. Emi’s warm early-thirties face and dark-brown eyes 2. Black
+practical bun/updo with loose face-framing strands 3. Correct 5’4” adult
+proportions; never elongated 4. Muted maroon/reddish-brown rural kimono
+5. Dark charcoal/slate obi and pale inner collar 6. Practical rural
+footwear and grounded working-village posture 7. Restrained,
+compassionate emotional acting
+
+VISUAL STYLE IAKESI target style: approximately 70% photorealistic / 30%
+manga. Emi should remain attractive but ordinary and believable. Do not
+glamorize poverty or convert her into a fantasy heroine. During travel,
+her clothing may become dusty, wet, wrinkled, or worn when supported by
+the scene, but the core design must remain recognizable. Execution
+scenes should preserve dignity and avoid graphic gore.

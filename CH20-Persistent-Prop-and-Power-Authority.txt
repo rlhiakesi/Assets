@@ -1,0 +1,296 @@
+IAKESI CH20 — PERSISTENT PROP / POWER AUTHORITY
+Source-derived, unlettered production constraints.
+
+COCKPIT_PHOTO
+{
+  "identity": "Ohn/M’ow Oh matching photograph from final Tech-Mech cockpit; separate from father’s already owned matching copy.",
+  "states": [
+    [
+      "Before P38",
+      "Midori retains cockpit copy; father retains own matching copy, following Chapter 19 recognition."
+    ],
+    [
+      "P38.1-3",
+      "One continuous handoff: first establish/offer at supervised visit, complete father’s receipt in P38.3. Do not show two independent returns."
+    ],
+    [
+      "After P38.3",
+      "Father holds/retains returned cockpit copy; it is absent from Midori’s travel belongings."
+    ]
+  ],
+  "render_limit": "Matching identities must be unobscured where required; inherited reveal-safe photo alone does not supply a new readable father face. Reference/model coverage is a Step 20/21 need."
+}
+
+COMMAND_SEAL
+{
+  "identity": "M’ow Oh surrendered command seal.",
+  "states": [
+    [
+      "P1-2",
+      "Empty place and surrendered-seal status; orders authenticated by voice/witnesses, not secret borrowed seal."
+    ],
+    [
+      "Later",
+      "No restoration or unrestricted office implied by transition participation."
+    ]
+  ],
+  "render_limit": "Do not invent a replacement seal/emblem."
+}
+
+INQUIRY_COPY
+{
+  "identity": "Midori’s signed account and later ordinary agreed-account paper copy.",
+  "states": [
+    [
+      "P7 onward",
+      "Her carried inquiry copy remains ordinary paper and does not constitute acquittal."
+    ],
+    [
+      "P31-37",
+      "Research copies and testimony travel with her; civilian claims stay open."
+    ],
+    [
+      "P42.2",
+      "Orin gives ordinary written copy of agreed account to Midori."
+    ],
+    [
+      "P43",
+      "Ordinary papers may travel; no charged magical storage is hidden in them."
+    ]
+  ],
+  "render_limit": "Canonical scripts only in world. No invented English paragraph or charged parchment effect."
+}
+
+EARLY_MUNICIPAL_CRYSTALS
+{
+  "identity": "Inspected receiving crystals used for initial controlled discharge.",
+  "states": [
+    [
+      "P9",
+      "Inspected empty unit, connection open before warning."
+    ],
+    [
+      "P10",
+      "Cracked vessels rejected; conditioned connections and isolated rack; one receiving unit secured before next."
+    ],
+    [
+      "P11",
+      "Charged units inventoried, losses/destinations recorded; Midori remains behind while hospital cart leaves."
+    ],
+    [
+      "P37",
+      "Some early contribution already used; separate new supply replenishes bank."
+    ]
+  ],
+  "render_limit": "No infinite crystal, uninspected cracked receiver or silent reuse of empty/charged visual state."
+}
+
+SUPPLY_COUPLER_SYSTEM
+{
+  "identity": "Zoran supply crystals, Nyssarian fitted couplers/regulators, civilian isolated circuits.",
+  "states": [
+    [
+      "P17",
+      "Prototype changes-load failure, isolated safely."
+    ],
+    [
+      "P18",
+      "Revised hospital noncritical tests; deliberate isolation; independent checks before medical release; Midori does not power hidden circuit."
+    ],
+    [
+      "P19-20",
+      "Second-workshop manufacture, training, inspected civilian allocations and duty roster."
+    ],
+    [
+      "P40-43",
+      "Ordinary supply circuits continue during personal discharge/crossing."
+    ],
+    [
+      "P53",
+      "Ratified continuing supply terms, not temporary emergency authority."
+    ]
+  ],
+  "render_limit": "Utility walkers carry pumps/welders, not restored gun mounts; Nyssarian operator need not have innate mana."
+}
+
+PORTAL_EXTERNAL_STORE
+{
+  "identity": "Isolated external portal/stabilization operating store, distinct from municipal bank and from passenger.",
+  "states": [
+    [
+      "P26-28",
+      "Nonpassenger stability/shutdown tests and proposed allocation; no claimed completed human test."
+    ],
+    [
+      "P39.1-2",
+      "Tested allocation and stabilization recorded, Midori charges only assigned external store."
+    ],
+    [
+      "P39.3-5",
+      "Connection closed, isolation demonstrated. This is operational proof/circuit test, not first full farewell aperture activation."
+    ],
+    [
+      "P41",
+      "Ring remains inactive during zero verification and chosen pause."
+    ],
+    [
+      "P42.1",
+      "Full aperture activated externally after ready statement."
+    ],
+    [
+      "P43.4",
+      "External store sustains planned cycle; technicians shut down in sequence."
+    ]
+  ],
+  "render_limit": "No conduit silently reconnects Midori; no stored crystal/charm follows passenger."
+}
+
+FINAL_MUNICIPAL_BANK
+{
+  "identity": "Inspected conditioned city reserve receivers, separate circuits/ledger from portal store.",
+  "states": [
+    [
+      "P39",
+      "Remain separate while portal allocation is filled."
+    ],
+    [
+      "P40",
+      "Receive all remaining usable personal reserve through slow sessions and gentler finishing transfer."
+    ],
+    [
+      "P41",
+      "All assigned usable stored mana is outside Midori; losses are recorded, not free usable energy."
+    ],
+    [
+      "P43 onward",
+      "City retains reserve and independent supply after departure."
+    ]
+  ],
+  "render_limit": "Do not merge bank with portal-store visual identity, label them in English, or invent numerical capacity/efficiency."
+}
+
+GAUGE_TRACES
+{
+  "identity": "Mana trace and separate ordinary living-body readings; instrument plus healer check.",
+  "states": [
+    [
+      "P9",
+      "Existing reserve fell since Chapter 19 yet remains biologically unsafe; no new incoming mana."
+    ],
+    [
+      "P11",
+      "Reduced orange-range stored reserve, not zero."
+    ],
+    [
+      "P27",
+      "Inactive-aperture proximity produces unstable trace; switch open."
+    ],
+    [
+      "P28",
+      "Life signs are distinct from stored mana; emptying one does not empty life."
+    ],
+    [
+      "P40.4",
+      "Residual trace persists after nominal last draw; healer authorizes finishing transfer."
+    ],
+    [
+      "P40.5",
+      "Trace settles to zero; disconnect; separate healer exam begins."
+    ],
+    [
+      "P41.1",
+      "Independent instrument/healer agreement confirms zero stored mana."
+    ]
+  ],
+  "render_limit": "No fabricated percentages, units, threshold numbers, English readout or zero before finishing transfer."
+}
+
+MEMORIALS
+{
+  "identity": "Adnil’s established marker; nearby Marta memorial without location claim for remains.",
+  "states": [
+    [
+      "P35",
+      "Separate flowers and remembered deaths. Adnil’s instantaneous death is not retold as a lingering farewell; Marta intercepted bullet after protection was abandoned."
+    ],
+    [
+      "P48-51 records",
+      "Mortal claims/memorials remain real despite divine misconduct finding."
+    ]
+  ],
+  "render_limit": "No apparition, answering voice, resurrection or invented Marta grave site."
+}
+
+TRAVEL_CARRIER
+{
+  "identity": "Refitted Nyssarian Tech-Mech carrier balloon with large delegation gondola.",
+  "states": [
+    [
+      "P1",
+      "At western aerodrome in Nyas source geography."
+    ],
+    [
+      "P31",
+      "Rested qualified crew and wind mages, hand-secured cargo, mountain route and sheltered stop."
+    ],
+    [
+      "P37",
+      "Return to Nyas follows crewed route and planned stops; no teleport."
+    ]
+  ],
+  "render_limit": "Do not substitute small Zoran observation balloon, modern aircraft or Midori-powered solo flight."
+}
+
+DIVINE_DISPLAYS
+{
+  "identity": "Administrative record displays and Council’s synchronized magical views, distinct from WOA station.",
+  "states": [
+    [
+      "P44",
+      "Red alarm crystal; event administrative trace enters Council jurisdiction, passenger heads Earth."
+    ],
+    [
+      "P45",
+      "Main magical display above/behind Alpha; smaller synchronized one before him."
+    ],
+    [
+      "P45-48",
+      "Only recorded images rewind. DOTG room time continues forward; evidence attached before conclusions."
+    ],
+    [
+      "P49-52",
+      "Signatures/records stay as hearing context; no divine finding erases mortal inquiry."
+    ]
+  ],
+  "render_limit": "No mechanical monitor support, WOA compass/floor substitution, Soul Relocation gates or unapproved interfaces."
+}
+
+FAMILY_RECORDS
+{
+  "identity": "Separate older-child wagon route and grandparents’ clinic lead, later release/housing documents.",
+  "states": [
+    [
+      "P12-14",
+      "Wife/younger child known present; other three missing. Never combine contradictory leads merely from hope."
+    ],
+    [
+      "P15",
+      "Identify parents at clinic and child at evacuation station before full reunion."
+    ],
+    [
+      "P16",
+      "Civilian findings and military/parole closure follow handover; housing remains provisional."
+    ],
+    [
+      "P54",
+      "Family together in chosen civilian life; parents nearby, both children retained."
+    ]
+  ],
+  "render_limit": "No magical rescue instantaneously finding everyone or automatic universal trust."
+}
+
+PHOTOGRAPH MASTER RULE
+New photo sheet left opened cockpit image is the one approved exposure master. Reproduce the same image for BOTH copies. Right-copy study is paper-wear/composition support only, not an independent face/exposure master; generated small face variations are not canon. Do not imply photographic contents changed during opening.
+
+POWER SHEET SCOPE
+The new power sheet is a approved reusable design vocabulary. Its headings are external production labels. Empty smaller ring is an inactive state study under RING STATES. Incidental banners, marks, gauge ticks/numbers and exact quantities are not approved diegetic language or source capacity. Omit new emblematic banners/marks; apply language references if writing is required. Nonzero living-body trace remains distinct from stored mana. P39 is operational proof, full farewell opening P42.1 only.

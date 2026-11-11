@@ -1,0 +1,129 @@
+IAKESI CH20 — SETTING / ERA / ROLE AUTHORITY
+Source-derived staging; no new world dimensions, seasons or precise travel times.
+
+PAGE 1: Nyas: River Gate dawn; signal room; nearby guarded room as source changes.
+Dawn outside; connected rooms receive restrained morning light.
+PAGE 2: Nyas signal room, with supervised access and bilingual order preparation.
+Inherit signal-room light from P1.
+PAGE 3: Eastern road and artillery emplacement overlooking relief convoy and sheltered families.
+Exterior daylight; no new weather state.
+PAGE 4: Second command post; later signal-room map; former battery crew carrying hospital crates.
+Exterior daylight and inherited signal-room illumination at the authored cut.
+PAGE 5: Joint transition worktable with guard at door, civilian ledger and broken pipe fitting.
+Stable interior working light; fixtures not specified.
+PAGE 6: Converted records room; Midori outside before her turn to testify.
+Quiet interior practical light; maintain it through exchanges.
+PAGE 7: Nyas inquiry room, with waiting crowd outside.
+Even, readable room light; no punitive spotlight.
+PAGE 8: Transition table; hospital visit; return to the table.
+Inherited table light; hospital is a distinct functional interior.
+PAGE 9: River Gate recharge bench before any connection is made.
+Readable working daylight; eye warning must remain visible without tinting every face red.
+PAGE 10: River Gate charging station and inspected municipal receiving rack.
+Same station light; brief red reflection is local to the scripted warning.
+PAGE 11: Same charging station over separate rested sessions; window toward departing hospital cart.
+Successive sessions inherit ordinary working light; do not force a specific elapsed clock time.
+PAGE 12: Civilian review office; neighborhood confrontation; temporary family room and search papers.
+Ordinary interior/exterior light; preserve distinct locations at authored cuts.
+PAGE 13: Zoran commander’s release discussion; Geroff’s administrative review; Lian’s temporary lodging.
+Stable functional interior light; reset only at source location changes.
+PAGE 14: Search office comparing transfer sheets, shelter lists and separate inquiries.
+Readable document-working light.
+PAGE 15: Reopened courier routes; clinic; evacuation station; search-office reunion.
+Daylight and practical clinic/station interiors; elapsed days are the existing caption.
+PAGE 16: Temporary family meal; civilian review; military/parole closure; family outside.
+Domestic and administrative room light at explicit cuts.
+PAGE 17: Joint workshop beside utility walkers and regulator test bench.
+Functional workshop light showing connections and load response.
+PAGE 18: North Hospital noncritical test circuit.
+Clinical working light; readings remain legible.
+PAGE 19: Transition supply agreement; second-workshop coupler at Old Market pump.
+Interior working light; daylight at district-pump cut.
+PAGE 20: Civilian assembly; negotiation/work groups; distribution station at shift end.
+Interior civic working light; evening only for the authored final departure.
+PAGE 21: Surrendered inventory; guarded access arrangements; repaired district walk; portal research doors.
+Interior records light, ordinary street daylight, research-room light at doors.
+PAGE 22: Portal research apparatus and preserved diagrams.
+Stable research-room illumination; inactive ring is not already a destination vista.
+PAGE 23: Research room beside inactive apparatus and measurement station.
+Inherited research light, with instrument blackout only when cutoff is tested.
+PAGE 24: Quiet research room comparing Midori’s account with physical records.
+Readable room light; memories retain their own experienced viewpoint.
+PAGE 25: Same research room with two-column Zorna/Nyssara evidence board.
+Inherit P24 room lighting and record visibility.
+PAGE 26: Nonpassenger portal tests, research conversation, then outside research doors.
+Research light inside, ordinary exterior light at final source cut.
+PAGE 27: Research station, inactive aperture trace and separated power diagrams.
+Stable room illumination; trace instability is on instrument, not a newly operating portal.
+PAGE 28: Research/clinical consultation about discharge and ordinary life.
+Clinical clarity within inherited research room.
+PAGE 29: Later transition session with changed maps and open civilian agenda.
+Established civic working light; do not invent a ceremonial peace scene.
+PAGE 30: Old Market, family’s temporary home nearby and functioning standpipe.
+Ordinary market daylight; no new season specified.
+PAGE 31: Crewed balloon return route through mountains, then Temple arrival and desk.
+Changing journey light and sheltered stop as scripted; stable Temple light after arrival.
+PAGE 32: Temple garden, Midori and Seraphine with evidence and portal assessment.
+Soft outdoor garden daylight; readable faces and papers.
+PAGE 33: Private seated conversation, then practice court and chosen visits.
+Inherit Temple/garden light until authored court change; no invented sunset.
+PAGE 34: Academy gate and quiet lesson room with Naandeen.
+Daylight at gate and natural classroom illumination.
+PAGE 35: Capital memorial grounds: Adnil marker and separate Marta memorial.
+Readable quiet daylight; silence is unbroken by a supernatural reply.
+PAGE 36: Academy training grounds, Buren’s recovering arm and cadet exercise.
+Daylight with readable shield/cadet spacing.
+PAGE 37: Return voyage completed in Nyas; inquiry clearance, reserve station and research complex.
+Daylight arrival and functional civic/research interiors.
+PAGE 38: Supervised meeting with M’ow Oh, then corridor toward researchers.
+Quiet readable room light; no absolving halo or victory lighting.
+PAGE 39: Research complex preparing and charging isolated external portal store.
+Functional room light plus controlled crystal/device illumination.
+PAGE 40: Same room, final slow municipal reserve transfers with rests.
+Stable room light; orange eye glow diminishes only with stored reserve.
+PAGE 41: Portal room after full discharge, before aperture activation.
+Ordinary room light; no mana glow on Midori or her belongings.
+PAGE 42: Externally powered aperture room and gathered authorized witnesses.
+Blue-white machine light is local and keeps faces readable.
+PAGE 43: Aperture approach/crossing, planned shutdown, then ordinary Nyas outside.
+Machine light during crossing; ordinary city light at final source cut.
+PAGE 44: DOTG administrative hall with floating records and red alarm crystal.
+Near-photorealistic divine ambient light; alarm red stays localized.
+PAGE 45: Canonical Council chamber, fixed eight-seat table and two synchronized magical displays.
+Divine ambient light with restrained display spill.
+PAGE 46: Same Council chamber viewing preserved contact and research testimony.
+Inherit P45 chamber/display light; record images are distinct within frame.
+PAGE 47: Council reconstruction expanding across generations.
+Inherit chamber light and legible layered record displays.
+PAGE 48: Council reconstruction and Nyas inquiry record.
+Same chamber/display illumination; no new temporal effects in the chamber.
+PAGE 49: Formal hearing before canonical Council at standing position 11:00.
+Formal chamber light; faces and evidence stay equally readable.
+PAGE 50: Same hearing, Council considering purpose of punishment.
+Inherit formal chamber light and family projection.
+PAGE 51: Council pronouncement, seven-member vote and projection of already cooperating mortals.
+Stable formal light; no infant foreshadowing image.
+PAGE 52: Council, Terra standing near 1:00; judgment light; daylight match cut.
+Formal chamber light, then white judgment light; source daylight transition closes sequence.
+PAGE 53: Nyas ten mons after judgment: River Gate, hospital, civic office and scheduled shipment.
+Ordinary daylight and working interiors; no new season stated.
+PAGE 54: May Jin’s chosen civilian work, nearby family homes, shared neighborhood and preserved public account.
+Ordinary neighborhood daylight and domestic interiors.
+PAGE 55: Zoran mixed household, parents/midwife and neighbors around birth.
+Gentle readable domestic light; avoid a supernatural birth glow.
+PAGE 56: Same household with twins, parents and waiting mixed friends.
+Inherit domestic light; thought-image is subjective and invisible to adults.
+
+COUNCIL WORLD POSITIONS
+{
+  "12:00": "Alpha",
+  "10:00": "Aurelia",
+  "9:00": "Pyrael",
+  "7:30": "Verdania",
+  "6:00": "Mortheus",
+  "4:30": "Lunaria",
+  "3:00": "Thalassor",
+  "1:30": "Vortex"
+}
+
+Unprovided details remain unprovided. New interiors are approved scene vocabulary, not a revision to locked panel camera/axis/geometry. Textual Council spec governs chair count and positions over illustrative errors. Administrative work-environment reference is not WOA or Council. Mixed-family father is a new distinct man, not May Jin. Mother/midwife are distinct Zoran women. Newborn names remain hidden until P56.1. External sheet captions never become lettered copy.

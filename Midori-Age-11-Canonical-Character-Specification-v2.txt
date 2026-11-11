@@ -1,0 +1,145 @@
+MIDORI AGE 11 CANONICAL CHARACTER SPECIFICATION IAKESI Revised Edition
+
+PURPOSE This file is the binding textual reference for Midori at age 11
+in Chapter 7 and the corresponding early-Japan material. Use it together
+with Midori-age11-character-reference-sheet.png and
+Midori-age11-expression-sheet.png. If an incidental rendering conflicts
+with this specification, this specification controls unless the script
+explicitly establishes a temporary change.
+
+IDENTITY Name: Midori (みどり) Race/Nationality: Earth human; Japanese
+Sex: Female Age during Chapter 7: 11 Height: Approximately 4 feet 6
+inches / 137 cm Build: Small and slim; healthy child proportions Home:
+Aokawa Village Parents: Haru and Emi Status at beginning and end of
+Chapter 7: Living human
+
+STORY FUNCTION Midori is the emotional center of the Aokawa family
+material. Chapter 7 establishes her as an ordinary but bright,
+compassionate child before the losses that drive Chapter 8. She is not a
+chosen child, does not display magic, and is not being watched or
+selected by Zorna. Her later importance arises from circumstances and
+her own actions.
+
+PERSONALITY At age 11 Midori is curious, observant, kind, compassionate,
+hardworking, obedient, optimistic, hopeful, trusting, and innocent. She
+notices adult behavior and inconsistencies but still thinks as a child.
+She deeply loves Haru and Emi and believes in the goodness of people.
+Her resilience should be visible without making her emotionally adult
+before her time.
+
+FACE AND HEAD Face: Young, rounded, expressive Eyes: Large dark brown
+eyes Freckles: Light freckles across cheeks/nose; important identity
+feature Hair: Black, tied back in a messy ponytail/updo Ribbon: Red
+ribbon; important recurring visual identifier Loose hair: Natural bangs
+and loose strands around the face Ears: Normal human ears Default
+expression: Open, attentive, gently hopeful
+
+BODY AND SILHOUETTE Canonical height: Approximately 4’6” / 137 cm Build:
+Small, slim, unmistakably an 11-year-old child Binding silhouette: -
+small child frame; - black tied-back hair; - visible red ribbon; -
+burgundy patterned kimono; - dark obi; - simple sandals. Do not elongate
+her into adolescent or adult proportions.
+
+CLOTHING — CHAPTER 7 Primary garment: Burgundy/maroon patterned kimono
+appropriate to a rural Kamakura-era child Pattern: Restrained small
+floral motif Obi/sash: Dark navy/charcoal Footwear: Simple rural sandals
+/ waraji-style footwear Condition: Mended and worn from hardship but
+cared for Jewelry: None Armor/weapons: None
+
+COLOR PALETTE Hair: Near-black Eyes: Dark brown Skin: Natural fair/warm
+Japanese complexion Kimono: Burgundy/maroon Pattern: Muted dusty red/tan
+Obi: Very dark navy/charcoal Ribbon: Deep red Footwear: Natural
+straw/brown
+
+EXPRESSIONS Canonical useful expressions include: - neutral; -
+curious; - happy; - excited; - thinking; - concerned; - worried; -
+surprised; - determined; - sad; - hurt; - tearful / heartbroken; -
+waiting; - gentle smile; - reflective. Emotions should remain
+age-appropriate. Avoid sexualized, adult, glamorous, or exaggeratedly
+mature expressions.
+
+EDUCATION Midori receives basic reading and writing instruction at
+Aokawa’s local Buddhist temple. This is local temple instruction, not a
+modern school or later Edo-period terakoya. The same temple later
+becomes the institution/orphanage where the Village Chief places Midori
+in Chapter 8. Midori may address a temple instructor as Sensei. Any
+visible Japanese writing in lessons, books, signs, scrolls, or practice
+sheets must be genuine valid Japanese. Never generate fake
+Japanese-looking script.
+
+RELATIONSHIPS Haru: Father. Midori addresses him as Otou-san. She
+admires his strength, honesty, and devotion. Emi: Mother. Midori
+addresses her as Okaa-san. Emi is her principal source of warmth and
+guidance. Takeshi: Older family friend and son of the Village Chief.
+Midori trusts him before her parents’ deaths. When he returns from
+Kamakura, she notices that he is withholding part of what happened and
+later resents his lack of candor. Village Chief: Local leader who
+promises Haru that Midori will be cared for while her parents are away.
+In Chapter 8, after his wife dies, he no longer cares for Midori himself
+and places her with the temple/orphanage. He is fallible, not a villain.
+Truk: Midori does not personally confront Truk in Chapter 7. Zorna:
+Midori does not know Zorna exists in Chapter 7.
+
+CHAPTER 7 CONTINUITY Midori lives with Haru and Emi in Aokawa. Aokawa is
+suffering from food shortages. Midori notices rationing and shares part
+of her food with Emi. She encounters the consequences of starvation and
+asks Haru about death. She continues receiving reading/writing
+instruction at the local temple. Haru and Emi decide to travel to
+Kamakura. Midori addresses them naturally as Okaa-san and Otou-san. She
+asks whether they will bring back food and tells them to return safely.
+Haru and Emi leave Midori in Aokawa. Takeshi secretly follows them.
+Weeks later Takeshi returns alone. Midori asks Takeshi where Okaa-san
+and Otou-san are. Takeshi gives only part of the story and looks away.
+Midori notices his reluctance. The Village Chief tells Midori that her
+parents are not coming home. Midori remains alive at the end of Chapter
+7.
+
+MAGIC AND MANA Midori is an ordinary human child during Chapter 7. Earth
+humans have unusually high mana capacity, but mana capacity means
+potential storage and does not imply active magical ability. Midori
+displays no aura, spellcasting, magical perception, supernatural
+intuition, glowing eyes, or other sign of accessible magic. Historical
+humans in this storyline do not know or practice magic at this time. Do
+not foreshadow Midori as a chosen one.
+
+CHAPTER 8 HANDOFF Haru and Emi are dead and have become Acolytes
+elsewhere in the DOTG. Midori does not meet them when she later reaches
+the SRA. Takeshi’s withholding becomes a source of conflict with Midori.
+The Village Chief later places Midori at the local temple/orphanage
+after his wife dies. Midori addresses the Temple Abbess respectfully
+with -sama. Zorna’s eventual encounter with Midori is accidental; Zorna
+was not watching or selecting Midori in Chapter 7.
+
+LANGUAGE AND JAPANESE TEXT Dialogue is rendered primarily in English
+with selected familiar Japanese terms. Relevant terms include Okaa-san,
+Otou-san, Arigatou, Sensei, and appropriate honorifics. Japanese human
+characters use -sama when directly addressing a recognized Goddess. NO
+FAKE JAPANESE SCRIPT. Any visible text that looks Japanese must be
+genuine valid Japanese. If valid wording has not been established, omit
+the writing rather than inventing pseudo-Japanese glyphs. The spelling
+みどり is valid Japanese for the reading “Midori” and may be used where
+her name is explicitly needed in kana.
+
+PROHIBITED DRIFT - No age older or younger than 11 for Chapter 7 unless
+a script explicitly establishes another time. - No adolescent/adult body
+proportions. - No sexualization. - No fantasy ears or nonhuman traits. -
+No missing red ribbon unless a scene explicitly removes it. - No radical
+hairstyle change. - No weapons or combat gear. - No magic, aura, glowing
+eyes, or supernatural effects. - Do not depict Midori as already knowing
+magic exists. - Do not depict Zorna watching or choosing her in Chapter
+7. - Do not depict Haru and Emi as being forcibly taken to Kamakura;
+they choose to go. - Do not depict Midori attending a modern school. -
+No fake or pseudo-Japanese writing anywhere in the artwork.
+
+RENDERING PRIORITY When detail must be simplified, preserve in this
+order: 1. Age-11 child proportions and youthful face 2. Large dark-brown
+eyes and light freckles 3. Black tied-back messy hair 4. Red ribbon 5.
+Burgundy patterned kimono 6. Dark obi and simple rural sandals 7.
+Curious, kind, hopeful emotional character
+
+VISUAL STYLE IAKESI target style: approximately 70% photorealistic / 30%
+manga. Midori should remain recognizably the younger form of the
+established later Midori design while clearly reading as an 11-year-old
+child. Preserve innocence, warmth, and believable rural hardship.
+Clothing may show mending, dirt, weather, and wear when appropriate, but
+her core design must remain stable.

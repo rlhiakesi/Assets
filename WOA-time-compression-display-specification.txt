@@ -1,0 +1,264 @@
+World Observation Area TIME-COMPRESSION DISPLAY SPECIFICATION
+IAKESI Production Canon
+
+PURPOSE
+
+This document defines how the World Observation Area, abbreviated WOA, represents accelerated historical time. It governs visual transitions, temporal comparisons, event selection, and the presentation of long periods within the observation field.
+
+The World Observation Area is a divine observation system. It is not a television, computer monitor, ordinary glass window, or traversable portal. Time compression changes the displayed observation only. It does not accelerate time in the observation chamber or physically affect the observers.
+
+
+1. CORE PRINCIPLES
+
+- Time compression occurs inside the observation field.
+- The WOA frame and the observers outside it remain stable.
+- The goddesses do not visibly age while observing accelerated centuries.
+- The chamber does not experience temporal wind, vibration, gravity effects, or environmental distortion.
+- The displayed world remains recognizable during compression.
+- Compression shows historical development rather than becoming an abstract vortex.
+- Important events can be selected and viewed at ordinary narrative speed.
+- Zora and Nyas can be observed independently or compared across synchronized periods.
+
+
+2. NORMAL-SPEED OBSERVATION
+
+- The observed location behaves like a living remote viewpoint.
+- People, weather, water, animals, smoke, vegetation, and other movement proceed naturally.
+- The image has depth and atmosphere rather than looking like a flat painted picture.
+- The cool blue-violet WOA boundary remains visible around the observed image.
+- Normal observation does not place camera controls, playback icons, digital numbers, or modern interface elements over the world.
+
+
+3. BEGINNING TIME COMPRESSION
+
+- Acceleration begins gradually rather than with an abrupt visual cut.
+- The field boundary brightens slightly.
+- Fine blue-violet geometric lines or star-like nodes may become more active around the edge.
+- Movement inside the view begins to accelerate.
+- The outside chamber and observers remain unchanged.
+- The observed landscape should remain identifiable throughout the transition.
+
+
+4. LOW COMPRESSION - DAYS TO SEASONS
+
+Use low compression when showing the passage of days, months, or seasons.
+
+Visual cues may include:
+
+- Sunlight sweeping repeatedly across the landscape
+- Moon phases progressing
+- Shadows moving rapidly
+- Weather fronts passing
+- Snow accumulating and melting
+- Rivers rising and falling
+- Crops growing, ripening, and being harvested
+- Trees flowering, leafing, changing color, and becoming bare
+- People appearing as quick but still readable movements
+
+Limitations:
+
+- Do not turn the population into featureless energy streaks.
+- Do not make the landscape dissolve.
+- Do not add clocks, countdowns, or mechanical fast-forward symbols.
+
+
+5. MEDIUM COMPRESSION - YEARS TO GENERATIONS
+
+Use medium compression for settlement growth and generational change.
+
+Visual cues may include:
+
+- Buildings appearing, expanding, being repaired, or replaced
+- Fields spreading across the valley
+- Paths becoming roads
+- Bridges and civic structures emerging
+- Children becoming adults through successive overlapping silhouettes
+- One generation fading into another within the same location
+- Clothing, tools, and architecture changing gradually
+- Population density increasing or declining
+
+Preferred method:
+
+- Preserve one stable viewpoint or landmark.
+- Let development accumulate around that reference point.
+- Use brief translucent overlaps only during transitions.
+- Return to solid, readable imagery when a new period becomes established.
+
+Prohibited method:
+
+- Do not represent generations as ghostly dead spirits.
+- Do not imply that individuals physically transform into unrelated descendants.
+- Do not use a tunnel, wormhole, or kaleidoscopic time vortex.
+
+
+6. HIGH COMPRESSION - CENTURIES
+
+Use high compression for broad civilizational development.
+
+Visual cues may include:
+
+- Villages becoming towns and cities
+- Forests receding or being managed
+- Road and canal networks spreading
+- Towers, temples, schools, factories, or civic systems appearing in era-appropriate sequence
+- City light patterns increasing at night
+- Major architectural styles replacing earlier ones
+- Repeated seasonal cycles becoming soft rhythmic pulses
+- Human movement simplifying into organized flows while structures remain legible
+
+At high compression:
+
+- The field may use more pronounced blue-violet edge activity.
+- The observed world must remain a world, not an abstract light show.
+- Technological stages must appear in canonical order.
+- Major developments should not materialize instantaneously without intermediate construction or transition cues.
+
+
+7. TEMPORAL LABELS
+
+- Reader-facing narration may identify intervals such as "Approximately 500 Years Later."
+- Such labels belong in narration boxes or production lettering, not as English text embedded inside the observed world.
+- The WOA itself does not require a digital year counter.
+- If the field presents its own temporal notation, use restrained divine geometric symbols rather than modern numerals or interface typography.
+- Zoran and Nyssarian environmental text within the observed world must continue following their respective writing-system specifications.
+
+
+8. EVENT LOCK AND RETURN TO NORMAL SPEED
+
+When the goddesses select an event:
+
+- Acceleration slows smoothly.
+- Repeated seasonal and generational transitions cease.
+- The image resolves into a single clear moment.
+- Fine geometric indicators may briefly concentrate around the selected location or subject.
+- The display returns to natural movement.
+- The selected event can then be shown through normal manga panel progression.
+
+Event lock must not:
+
+- Freeze the real world being observed
+- Alert the mortals
+- Create a visible magical effect inside their environment
+- Pull a person into the observation chamber
+- Allow the observer to touch the displayed subject
+
+
+9. CLOSE OBSERVATION DURING A COMPRESSED SEQUENCE
+
+- The WOA may concentrate on a person, settlement, invention, dispute, disaster, or other event.
+- The surrounding historical flow may dim or slow while the selected subject becomes clearer.
+- This is observational magnification, not teleportation.
+- Moving closer to a person must not imply that the person can see the observer.
+- The field may follow a subject, but it should not adopt modern surveillance-camera overlays.
+
+
+10. SYNCHRONIZED ZORA-NYAS COMPARISON
+
+The WOA may compare both worlds across the same relative historical period.
+
+Requirements:
+
+- Both views must clearly belong to the same comparative interval.
+- The views may appear side by side, in paired fields, or in a stable split observation.
+- Each world must retain its own environmental identity.
+- Zora should remain pale, organic, stable, and increasingly mana-integrated.
+- Nyas should show progressively denser scholarship, engineering, infrastructure, and technological change.
+- The comparison must not imply that time runs faster on one world unless the script explicitly states that it does.
+
+Preferred comparative cues:
+
+- Matching camera elevation
+- Similar settlement scale at the start of the comparison
+- Parallel seasonal transitions
+- Corresponding temporal narration
+- Stable left/right assignment throughout one sequence
+
+
+11. OBSERVER LIGHTING
+
+- The active WOA casts cool blue-violet light on nearby observers.
+- Changes inside the viewed world may add faint secondary reflected color.
+- Ordinary observation should not bathe the entire chamber in overpowering light.
+- Time compression may slightly intensify the blue-violet edge light, but it does not become divine white-gold intervention light.
+- Observer faces must remain readable.
+
+
+12. OBSERVATION VERSUS INTERVENTION
+
+Observation:
+
+- Cool blue-violet boundary
+- Stable geometry
+- No effect on the observed world
+- No reaction from mortals
+- Small, controlled reflected light in the chamber
+
+Communication or intervention:
+
+- Must be explicitly required by the script
+- Introduces a distinct gold or white-gold component
+- Produces a visible effect within the observed world
+- Must not be confused with ordinary time compression
+
+Time compression alone never counts as divine intervention.
+
+
+13. PROHIBITED TIME-COMPRESSION EFFECTS
+
+Do not depict WOA time compression as:
+
+- A conventional video playback interface
+- A television screen
+- A computer monitor
+- A film reel
+- A clock face spinning rapidly
+- A tunnel through time
+- A traversable portal
+- A swirling cosmic wormhole
+- A destructive temporal storm
+- Physical wind blowing through the chamber
+- Observers aging rapidly
+- People inside the display becoming energy beams
+- Random montage imagery with no stable geographic relationship
+- Technology appearing out of canonical order
+- Simultaneous observation and intervention without a clear visual distinction
+
+
+14. SCRIPT AND SBL LANGUAGE
+
+Recommended direction for normal observation:
+
+    The World Observation Area presents a deep, living view of the selected world. Its cool blue-violet geometric boundary remains visible. The field is an observation system, not a physical window, screen, or traversable portal.
+
+Recommended direction for time compression:
+
+    Time accelerates only inside the World Observation Area. Seasons cycle, generations succeed one another, and the settlement develops around a stable geographic landmark. The observers and chamber remain unchanged. Preserve recognizable historical progression; do not use a time vortex, modern playback interface, or abstract energy tunnel.
+
+Recommended direction for event lock:
+
+    The compressed historical flow slows and resolves into one clear moment. Fine blue-violet geometry concentrates briefly around the selected event, then the displayed world returns to natural speed. Nothing in the observed world reacts to being selected.
+
+Recommended direction for synchronized comparison:
+
+    The World Observation Area presents Zora and Nyas at the same relative historical interval in stable paired views. Maintain consistent left/right placement, comparable scale, and distinct cultural design. Neither display runs ahead of the other.
+
+
+15. PRODUCTION CHECKLIST
+
+[ ] Compression occurs inside the WOA only.
+[ ] The observation chamber and observers remain temporally stable.
+[ ] The viewed geography remains recognizable.
+[ ] Seasons, generations, architecture, and technology change in canonical order.
+[ ] Important events return to normal narrative speed.
+[ ] Temporal labels are reader-facing narration rather than Earth text inside the world.
+[ ] Zora and Nyas remain visually distinct.
+[ ] Comparative views use synchronized intervals and stable placement.
+[ ] Ordinary observation remains cool blue-violet.
+[ ] Divine intervention remains visually distinct in white-gold or gold.
+[ ] No modern playback controls, clocks, screens, portals, or time vortices appear.
+[ ] Mortals do not perceive passive observation or event selection.
+
+
+16. CORE VISUAL SUMMARY
+
+The World Observation Area compresses history by accelerating only the living image inside its stable blue-violet observation field. Days appear through moving light and weather, generations through controlled overlaps and changing populations, and centuries through readable settlement and technological development around stable landmarks. The effect is observational, silent, and nonphysical. It never resembles a modern screen, traversable portal, or destructive time vortex.

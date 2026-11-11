@@ -1,0 +1,163 @@
+ZOREN — CANONICAL CHARACTER SPECIFICATION
+IAKESI — CHAPTER 4
+
+CANONICAL IDENTITY
+Public name: Zoren
+Office/title: President of the Royal Assembly of Zora
+Species: Human (Zoran)
+Sex: Male
+Age: 58
+Height: approximately 5 ft 10 in (178 cm)
+Tier: Mortal
+Residence: Assembly Hall, capital of Zora
+Alignment: Lawful Good
+
+NAME AND TITLE USAGE
+"President" is Zoren's governmental title.
+"Zoren" is the ceremonial name by which the people and other officials address and refer to him.
+Do not use "Zoren" as though it were a separate governmental rank or title.
+He is elected by the Royal Assembly and serves at its pleasure. He is not a monarch.
+
+NARRATIVE ROLE
+Zoren is the chief administrator of the Royal Assembly and the moderating voice of Zoran civil government. He balances scholars, priests, military leaders, council factions, and public needs. He seeks stability, lawful process, and unity without becoming inert or cowardly. His authority derives from institutional legitimacy, judgment, and composure rather than force.
+
+PHYSICAL CANON
+- Mature Zoran man, visibly 58 years old.
+- Tall, lean, erect, statesmanlike build.
+- Long angular face with prominent cheekbones.
+- Strong aquiline nose.
+- Firm, composed mouth.
+- Pale gray-blue eyes with direct, steady focus.
+- Human ears only; never pointed or elven.
+- Completely clean-shaven: no beard, mustache, goatee, side whiskers, or stubble.
+- Mature facial lines without frailty.
+- Never broad, stocky, heavily muscular, or youthful.
+
+HAIR CANON
+- Full canonical Zoran white hair.
+- Hair is cut short at the sides and back.
+- A controlled swept-up crest runs from the forehead toward the crown.
+- Exactly two narrow longer white temple locks frame the face, one on each side.
+- The crest and paired temple locks are primary identity anchors and must remain consistent in every view.
+- Never balding, long and loose, tied back, or styled like an ordinary swept-back councilman.
+
+FACIAL IDENTITY ANCHORS
+1. Swept-up white crest.
+2. Two narrow symmetrical temple locks.
+3. Clean-shaven angular mature face.
+4. Strong aquiline nose and prominent cheekbones.
+5. Pale gray-blue eyes and steady presidential gaze.
+
+PRESIDENTIAL COSTUME
+- Very high, structured midnight-blue collar.
+- Fitted deep midnight-blue inner robe.
+- Structured sleeveless ivory presidential mantle.
+- Mantle forms broad angular wing-like shoulder panels made from tailored fabric.
+- Shoulder panels must never become armor or pauldrons.
+- Large uninterrupted ivory areas distinguish the president from ordinary blue-dominant council robes.
+- Narrow formal blue-and-gold presidential sash crossing the torso.
+- Broad vertical antique-gold chain of office ending at the sternum.
+- Chain medallion bears the Seal of the Assembly: a refined eight-point compass-star within a circle.
+- Restrained antique-gold embroidery with clean formal geometry.
+- Costume communicates elected civil authority, not monarchy or priesthood.
+
+PROHIBITED REGALIA
+- No crown, circlet, royal cape, throne imagery, scepter, or kingly ornament.
+- No armor, armored shoulders, weapon, military medals, sword, or staff.
+- No priestly vestments or sacred oracle markings.
+
+COLOR PALETTE
+Hair: pure Zoran white
+Eyes: pale gray-blue
+Primary fabric: midnight blue
+Secondary fabric: presidential ivory
+Sash: royal blue with antique-gold detailing
+Metal and embroidery: muted antique gold
+Skin: light-to-medium warm Zoran complexion
+
+SEAL OF THE ASSEMBLY
+Form: eight-point compass-star contained within a circle, commonly framed by restrained laurel elements.
+Meaning: justice, representation, responsibility, stewardship, wisdom, and unity.
+Placement: chain-of-office medallion; formal back emblem where required.
+The seal is institutional, not divine and not royal.
+
+POSTURE AND MOVEMENT
+- Upright posture with shoulders relaxed rather than militarily rigid.
+- Economical, composed gestures.
+- Maintains steady eye contact while listening.
+- Does not dominate through size or aggression.
+- Signature gesture: one hand raised slightly, palm down, to gently quiet the Assembly chamber.
+- Authority should read through stillness and self-control.
+
+EXPRESSION RANGE
+- Calm neutral
+- Thoughtful
+- Concerned
+- Patient listening
+- Diplomatic warmth
+- Guarded skepticism
+- Troubled
+- Quiet disapproval
+- Startled
+- Resolute
+- Decisive
+- Burdened reflection
+
+Expressions remain measured. Even surprise, concern, and disapproval should not become theatrical. Avoid shouting, sneering, arrogance, or royal hauteur.
+
+PERSONALITY
+- Wise and measured
+- Patient and diplomatic
+- Strategic thinker
+- Responsible and pragmatic
+- Fair and steadfast
+- Values order, lawful representation, and public stability
+- Listens before speaking
+- Understands that leadership requires balancing incompatible interests
+- Bears the weight of decisions affecting the entire nation
+- Advocates unity without suppressing legitimate disagreement
+
+RELATIONSHIPS AND FUNCTION
+- Zoren presides over the Royal Assembly rather than ruling above it.
+- He moderates disputes between Tomas, Jeremiel, religious authorities, military leaders, and other council factions.
+- He may doubt extraordinary claims, but he evaluates evidence rather than rejecting it from pride.
+- His leadership should feel politically credible and institutionally constrained.
+
+DISTINCTION FROM OTHER CHARACTERS
+- Jeremiel: lean scholar, layered white hair, pointed beard, asymmetrical ivory mantle, scroll case.
+- Tomas: compact and stocky, squared jaw-length white hair, rectangular spectacles, stone-gray squared mantle.
+- Huldarah: platinum braided crown, three forehead marks, High Priestess vestments.
+- Ordinary councilmen: conventional long, swept-back, cropped, or balding white hairstyles; may have facial hair.
+- Zoren: swept white crest, paired temple locks, clean-shaven angular face, very high blue collar, ivory winged mantle, and chain of office.
+
+RENDERING PRIORITIES
+When Zoren appears at small scale, preserve in this order:
+1. Very high midnight-blue collar.
+2. White swept-up crest and paired temple locks.
+3. Clean-shaven angular face.
+4. Broad ivory winged mantle.
+5. Gold chain and Assembly medallion.
+6. Tall, lean, erect silhouette.
+
+PROHIBITED DRIFT
+- No beard, mustache, goatee, side whiskers, or stubble.
+- No balding or receding hairline.
+- No pointed or elven ears.
+- No spectacles.
+- No gray, blond, brown, black, or blue hair.
+- No missing or multiplied temple locks; exactly one on each side.
+- No long loose hair or tied-back hair.
+- No squared bob resembling Tomas.
+- No youthful hero face or frail elderly face.
+- No ordinary blue council robe without the presidential mantle and collar.
+- No crown, royal symbolism, armor, weapon, or priestly imagery.
+- No villainous severity, cruelty, arrogance, or theatrical rage.
+- Do not portray him as an absolute ruler.
+
+CANONICAL ASSET PAIRING
+Use together:
+- Zoren-character-sheet.png
+- Zoren-expression-sheet.png
+- Zoren-canonical-character-specification.txt
+
+If visual references conflict with this specification, the most recently approved Zoren character sheet and this text specification control.

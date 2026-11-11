@@ -1,0 +1,144 @@
+HULDARAH CANONICAL CHARACTER SPECIFICATION
+IAKESI Revised Edition
+
+PURPOSE
+This file is the binding textual reference for Huldarah in Chapter 4 and later appearances. Use it with Huldarah-character-sheet.png and Huldarah-expression-sheet.png. If an incidental rendering conflicts with this specification, this specification controls unless the script explicitly establishes a temporary change.
+
+GENETIC CONTINUITY
+Huldarah belongs to the genetically stable Zoran population created in Zorna's image. Fewer than two thousand years separate her from the early Zoran population. Zorna has constrained Zoran genetic drift, and Zoran mana cores prevent mutation caused by mana exposure. Huldarah must therefore remain visibly compatible with the established Zoran phenotype represented by Zorna and later Zorans such as Adnil.
+
+Huldarah's complexion falls within the warm golden-brown to bronze range already established by Adnil. Her facial structure may draw from mature women of the Indian subcontinent while remaining recognizably Zoran. She must not be rendered as belonging to a radically divergent ancestry that could not plausibly develop under the established genetic constraints.
+
+IDENTITY
+Name: Huldarah
+Race: Zoran
+Sex: Female
+Age during Chapter 4: 60
+Height: Approximately 5 feet 5 inches (165 cm)
+Build: Substantial, healthy, grounded, and moderately broad-shouldered; neither waifish nor obese
+Ears: Human ears only; never pointed or elven
+Title: High Priestess of Zora
+Roles: Spiritual leader, oracle, advisor, administrator of the Great Temple, and recognized religious authority before the Royal Assembly
+Residence: The Great Temple of Zora
+Relationship to Zorna: Huldarah receives visions and direct communications from Zorna and serves as her recognized mortal voice in Zora
+
+STORY FUNCTION
+Huldarah is an experienced religious and political authority. Her corroboration transforms Jeremiel's revelation from an eccentric claim into a matter the Council must hear. She is not naive, ornamental, or subordinate in demeanor. She has spent decades administering a major institution and is accustomed to being listened to while remaining compassionate and measured.
+
+PERSONALITY
+Huldarah is wise, compassionate, perceptive, patient, politically experienced, deeply spiritual, and calm in turmoil. She inspires faith and hope without sentimentality. She bears the weight of divine visions seriously and does not seek personal attention. Her authority is grounded in judgment, service, and institutional responsibility. She can be reassuring, skeptical, solemn, or commanding without losing emotional control.
+
+FACE AND HEAD
+Apparent age: Unmistakably approximately 60; healthy and vigorous, never youthful or frail
+Complexion: Warm golden-brown to bronze, matching the established Adnil-compatible Zoran range
+Facial structure: Mature South Asian-inspired oval-to-angular face with high cheekbones, a strong straight-to-aquiline nose, almond-shaped eyes, full dark brows, and a defined jaw
+Age detail: Natural forehead lines, crow's feet, under-eye structure, nasolabial folds, subtle cheek softening, and mature neck and hand detail
+Eyes: Dark violet; not luminous unless a script explicitly describes a temporary divine or magical effect
+Hair: Platinum blonde
+Hairstyle: Thick braids arranged into a high crown
+Temples and sides: Closely cropped, exposing the human ears and creating a recognizable profile
+Forehead insignia: Exactly three small vertical antique-gold marks centered on the forehead
+Default expression: Serene authority with attentive, compassionate intelligence
+
+FOREHEAD MARKS
+Huldarah bears exactly three small vertical antique-gold marks centered on her forehead.
+Meaning: Permanent insignia of the office of High Priestess
+Shape: Three small circular, lozenge, leaf, or flame-like marks aligned vertically; keep the form consistent with the character sheet
+Rendering rule: The marks remain visible in formal vestments, private clothing, and sleep scenes
+Prohibited drift: Do not turn them into a tiara, third eye, large tattoo, glowing rune, facial scar, or a different number of marks
+
+SILHOUETTE
+Huldarah must remain recognizable when her face is small. Her binding formal silhouette consists of:
+- substantial mature frame;
+- high platinum braided crown with closely cropped temples;
+- high architectural collar;
+- broad rectangular shoulder mantle;
+- long straight tabard;
+- squared cape falling asymmetrically from one shoulder;
+- heavy ceremonial chain and restrained Star of Zorna medallion.
+Her silhouette must not resemble Zorna's divine gown, Adnil's academy uniform, or a generic young fantasy priestess.
+
+FORMAL VESTMENTS
+Primary colors: Deep violet and warm ivory
+Collar: High, structured, and architectural
+Shoulder mantle: Broad and rectangular, emphasizing institutional authority
+Tabard: Long and straight, with geometric Zoran religious embroidery
+Cape: Squared and asymmetrical, falling from one shoulder
+Ceremonial chain: Heavy antique-gold and aged-brass construction
+Medallion: Restrained Star of Zorna emblem
+Footwear: Flat practical temple shoes
+Coverage: Fully modest and functional
+Overall effect: Religious office, administrative authority, and decades of service; never bridal, seductive, or goddess-like
+
+PRIVATE AND NIGHT CLOTHING
+Garment: Simple dark-violet robe with restrained warm-ivory edging and sash
+Silhouette: Looser than the formal vestments but still substantial and dignified
+Removed items: No shoulder mantle, squared cape, heavy chain, or ceremonial medallion
+Continuity: Braided crown, cropped temples, forehead marks, complexion, mature face, and build remain unchanged
+Sleep-scene rule: Huldarah must remain immediately identifiable when awakened or visited by Zorna
+
+STAR OF ZORNA MEDALLION
+The formal medallion is an institutional religious symbol, not a crown or magical focus.
+Form: Restrained many-rayed star within a simple circular or geometric frame
+Materials: Antique gold and aged brass
+Use: Formal public and ceremonial appearances
+Private scenes: Normally absent
+Rendering rule: Do not enlarge it into armor, a glowing device, or a second enormous emblem
+
+COLOR PALETTE
+Hair: Platinum blonde, approximately #E8DDC7
+Skin: Warm golden-brown to bronze, approximately #B8753F to #C4874D, with natural tonal variation consistent with Adnil
+Eyes: Dark violet, approximately #493158
+Formal violet: Deep violet, approximately #332044
+Ivory: Warm ivory, approximately #EFE4CF
+Gold accents: Antique gold, approximately #B38A42
+Metal: Aged brass, approximately #80683F
+Private robe: Dark violet with restrained ivory edging
+
+EXPRESSIONS
+Canonical expressions include:
+- serene authority;
+- compassionate concern;
+- political skepticism;
+- attentive listening;
+- startled revelation;
+- visionary awe;
+- grave warning;
+- solemn conviction;
+- restrained disapproval;
+- reassuring warmth;
+- prayerful reflection;
+- commanding resolve.
+All expressions remain mature, controlled, and age-appropriate. Avoid exaggerated anime reactions, girlish coyness, villainous expressions, emotional vacancy, or beauty-model posing.
+
+POSTURE AND MOVEMENT
+Huldarah stands upright with a grounded center of gravity and relaxed confidence. She does not pose like a model or warrior. Her gestures are deliberate: raising a hand to still a chamber, touching the medallion during reflection, opening her hands in reassurance, or standing firmly before political authority. Formal movement carries the weight of office; private movement is quieter but never frail.
+
+CHAPTER 4 CONTINUITY
+Huldarah appears in formal public settings and in a private nighttime visitation. Use the correct costume state for each location. She does not visibly age during the chapter. Keep her complexion, South Asian-inspired facial structure, visible age, braided crown, cropped temples, forehead marks, body type, and eye color consistent.
+
+PROHIBITED DRIFT
+- No pointed or elven ears.
+- No very dark African complexion or African facial morphology.
+- No pale skin.
+- No phenotype inconsistent with the established stable Zoran population.
+- No young, adolescent, or twenty-something appearance.
+- No copying Adnil's teenage face, short haircut, academy uniform, or proportions.
+- No slender waif or exaggerated hourglass build.
+- No long loose hair, veil, or generic flowing silver hair.
+- No tiara, crown, bridal gown, exposed cleavage, or high heels.
+- No delicate fantasy-princess posture.
+- No staff, weapon, armor, wings, or automatic magical aura.
+- No glowing eyes except when explicitly required by the script.
+- No omission, multiplication, or relocation of the three forehead marks.
+- No ceremonial chain or medallion in private or night scenes.
+- Do not visually merge her identity with Zorna, Terra, Nyssara, Adnil, or a generic temple attendant.
+
+RENDERING PRIORITY
+When detail must be simplified, preserve in this order:
+1. Mature South Asian-inspired face, age lines, and warm golden-brown Zoran complexion
+2. Platinum braided crown, cropped temples, and exposed human ears
+3. Exactly three vertical antique-gold forehead marks
+4. Substantial mature build
+5. Deep-violet and ivory formal silhouette with asymmetric squared cape
+6. Heavy ceremonial chain and Star of Zorna medallion when formally dressed

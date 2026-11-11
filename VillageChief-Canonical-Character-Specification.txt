@@ -1,0 +1,158 @@
+VILLAGE CHIEF CANONICAL CHARACTER SPECIFICATION IAKESI Revised Edition
+
+PURPOSE This file is the binding textual reference for the Aokawa
+Village Chief in Chapters 7 and 8. Use it together with
+VillageChief-character-reference.png and VillageChief-expressions.png.
+If incidental artwork conflicts with this specification, this
+specification controls unless the script explicitly establishes a
+temporary change.
+
+IDENTITY Name: Not specified in story Title: Village Chief
+Race/Nationality: Earth human; Japanese Sex: Male Age during Chapter 7:
+Approximately 55–60 Height: Approximately 5 feet 6 inches / 168 cm
+Build: Solid, strong, weathered Home: Aokawa Village Role: Chief of
+Aokawa Village Family: Father of Takeshi Status: Living human
+
+STORY FUNCTION The Village Chief is Aokawa’s local leader and Takeshi’s
+father. He is responsible and pragmatic, but he is not the flawless
+moral center of the village. He tries to protect Aokawa within the
+limits of his judgment and resources. In Chapter 7 he helps organize the
+response to the food crisis, accepts Haru and Emi’s decision to petition
+Kamakura, sincerely promises Haru that Midori will be cared for, issues
+Haru a travel weapon from the village stores, and secretly sends Takeshi
+to follow the couple and report what happens.
+
+His limitations matter. In Chapter 8, after his wife dies, he does not
+continue personally caring for Midori and places her with the local
+temple/orphanage. This does not make him a villain, but Chapter 7 must
+not idealize him as morally perfect or incapable of failing a promise
+under changed circumstances.
+
+PERSONALITY Responsible, pragmatic, experienced, stern, burdened,
+practical, and capable of compassion. He thinks first about Aokawa as a
+whole. He can care about individual villagers while still making
+difficult decisions. He expects responsibility from Takeshi and can
+become angry when scarce communal resources are lost. His authority is
+grounded in age, experience, and village trust rather than nobility or
+heroic virtue.
+
+FACE AND HEAD Apparent age: Late fifties Face: Strong, lined, weathered
+Eyes: Dark brown Hair: Black with visible gray streaks, tied in a
+practical traditional topknot Facial hair: Thick brows; short full beard
+and mustache with gray Default expression: Serious, attentive, burdened
+Ears: Normal human ears
+
+BODY AND SILHOUETTE Height: Approximately 5’6” / 168 cm Build: Solid and
+strong without heroic exaggeration Binding silhouette: - mature solid
+village elder; - gray-streaked topknot; - gray-streaked beard; - layered
+dark-brown rural clothing; - practical sandals; - upright but weathered
+posture. He should look somewhat better established than Aokawa’s
+poorest villagers, but not like a feudal lord, samurai commander, or
+court official.
+
+CLOTHING Primary clothing: Traditional practical kimono/haori and hakama
+or equivalent village-leader clothing Colors: Dark brown, charcoal,
+muted earth tones Patterning: Restrained woven/geometric motifs
+Condition: Durable and well maintained, but not luxurious Footwear:
+Waraji or appropriate practical rural sandals No ornate court costume No
+battlefield armor No extravagant jewelry No invented noble regalia
+
+GARMENT MOTIF A restrained floral/tree-like decorative motif may appear
+on the garment because it is part of the approved visual design. It is
+NOT canonically the Nishiya Clan crest. No Nishiya Clan history is
+established. Do not call it a family crest, clan crest, mon, hereditary
+emblem, or historically verified insignia unless a later script
+explicitly establishes that meaning. Treat it simply as a decorative
+garment motif.
+
+WEAPONS AND AUTHORITY The Village Chief does not carry a sword as part
+of his default Chapter 7 appearance. His authority comes from village
+leadership, age, experience, and trust—not weaponry. Aokawa maintains
+communal stores containing practical equipment. Before Haru’s journey,
+the Chief issues Haru a village-owned travel weapon because the roads to
+Kamakura are dangerous. The issued weapon belongs to Aokawa, not to Haru
+or the Chief personally.
+
+EXPRESSIONS Canonical expressions include neutral, thinking, concerned,
+resolute, sad, disappointed, angry, speaking, compassionate, worried,
+determined, stern, weary, and downcast. His expressions should
+communicate responsibility and human limitation. Avoid saintly serenity,
+cartoon villainy, or exaggerated warrior rage.
+
+POSTURE AND MOVEMENT The Village Chief carries himself with quiet
+authority. He listens before speaking and makes decisions deliberately.
+He may inspect stores, preside over meetings, speak privately with
+Takeshi, issue equipment, and look over Aokawa’s condition. His
+movements should reflect an older but still capable village man.
+
+RELATIONSHIPS Takeshi: Son. The Chief expects discipline and loyalty
+from him. He secretly sends Takeshi to follow Haru and Emi to Kamakura.
+Midori: Daughter of Haru and Emi. The Chief sincerely promises in
+Chapter 7 that she will be cared for while her parents are gone. In
+Chapter 8, after his wife dies, he places Midori with the local
+temple/orphanage instead of continuing to care for her himself. Haru and
+Emi: Respected Aokawa villagers. The Chief accepts their decision to
+petition Kamakura and entrusts Haru with village property for the
+journey. Aokawa villagers: His primary civic responsibility.
+
+CHAPTER 7 CONTINUITY The Village Chief participates in assessing
+Aokawa’s food and seed-grain crisis. He helps determine that someone
+must petition Kamakura. Haru volunteers. Emi independently insists that
+she will accompany Haru. Haru asks the Chief to ensure Midori is cared
+for while they are gone. The Chief answers, “You have my assurance.” The
+promise is sincere. Before departure, the Chief opens the village stores
+and gives Haru a communal travel weapon. Haru says he will return it.
+The Chief secretly assigns Takeshi to follow Haru and Emi without their
+knowledge and report what happens. Takeshi later returns without Haru,
+Emi, or the village weapon. The weapon was surrendered at the Kamakura
+compound and never recovered. The Chief is angry about the loss of
+valuable communal property. His anger is practical in a resource-starved
+village and does not mean he values the weapon above Haru and Emi’s
+lives. The Chief tells Midori that her parents are not coming home.
+
+CHAPTER 8 HANDOFF The Chief’s wife later dies. After her death, the
+Chief does not continue personally caring for Midori and places her at
+Aokawa’s local Buddhist temple/orphanage. This is a failure to fulfill
+the spirit of his Chapter 7 assurance, but the Chief is not a villain.
+Takeshi later kills Truk and leaves Aokawa in shame. Do not make the
+Chief’s Chapter 7 characterization so saintly that these Chapter 8
+actions become implausible.
+
+JAPANESE TEXT Production-facing English should use “Village Chief.” Do
+not force a questionable period-specific Japanese administrative title
+into dialogue or narration. NO FAKE JAPANESE SCRIPT. Any visible text
+that looks Japanese must be genuine valid Japanese. If valid wording has
+not been established, omit it rather than inventing pseudo-Japanese
+glyphs.
+
+PROHIBITED DRIFT - Do not call him the moral center of Aokawa. - Do not
+portray him as sinless, saintly, or incapable of selfish or pragmatic
+decisions. - Do not portray him as a villain. - Do not depict him as a
+feudal lord, high-ranking samurai, or military commander. - No elaborate
+armor or lavish noble costume. - No unsupported Nishiya Clan history. -
+Do not identify the decorative garment motif as a family/clan crest. -
+No default sword. - Do not make weaponry the basis of his authority. -
+Do not forget that Haru’s travel weapon is village property issued from
+communal stores. - Do not forget that the weapon is lost in Kamakura and
+that the Chief is angry about the loss. - Do not depict his Chapter 7
+promise to care for Midori as knowingly false. - Do not erase the
+Chapter 8 failure of that promise after his wife dies. - No magic, aura,
+glowing eyes, or supernatural abilities. - No fake or pseudo-Japanese
+writing.
+
+RENDERING PRIORITY When detail must be simplified, preserve in this
+order: 1. Mature weathered face with thick brows and gray-streaked beard
+2. Gray-streaked traditional topknot 3. Approximately 5’6” solid
+older-man build 4. Dark-brown practical layered village-leader clothing
+5. Restrained burdened authoritative expression 6. Practical rural
+footwear 7. Quiet authority rather than warrior presentation 8.
+Decorative garment motif only as a non-clan visual accent
+
+VISUAL STYLE IAKESI target style: approximately 70% photorealistic / 30%
+manga. The Village Chief should look like an experienced rural leader
+carrying genuine responsibility but possessing ordinary human
+limitations. Preserve the established face and family resemblance to
+Takeshi while removing the feudal-lord implications of the older
+concept. He should be credible both when making a sincere promise in
+Chapter 7 and when failing to sustain that responsibility under changed
+circumstances in Chapter 8.

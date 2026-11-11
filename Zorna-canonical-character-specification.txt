@@ -1,0 +1,123 @@
+ZORNA — CANONICAL CHARACTER SPECIFICATION
+
+Identity Zorna is a female Neophyte Goddess of the Zorans. She has been
+a Neophyte longer than Nyssara and is currently the more experienced of
+the two.
+
+Apparent Age Young adult.
+
+Build Tall, graceful, athletic/slender. Feminine figure with a moderate
+bust. Her breast size must not be exaggerated or unusually large.
+
+Face Refined oval face with a relatively narrow jaw. Mature and
+self-assured rather than cute or childlike. Clear ice-blue eyes.
+
+Skin Fair.
+
+Ears Normal human-shaped ears. Neither pointed nor elongated. Never
+render Zorna with elf-like, fae-like, or otherwise pointed ears.
+
+Hair Platinum blonde. The platinum-blonde color is immutable and
+plot-critical.
+
+Her hair is extremely long, extending approximately to the thighs or
+upper calves. Its defining feature is an abundance of large, tight
+corkscrew/drill curls. The curls create a distinctive, high-volume
+silhouette from the front, side, and back.
+
+Some hair may be pulled back from the face while the majority falls
+freely. The hairstyle must remain recognizably Zorna’s and must not
+degrade into ordinary straight, loosely wavy, or generic long blonde
+hair.
+
+Jewelry None.
+
+Zorna does not normally wear earrings, necklaces, tiaras, crowns,
+bracelets, decorative gems, or hair jewelry.
+
+Casual Clothing Zorna’s casual outfit is her default attire and is what
+she wears most of the time.
+
+It is predominantly white: a long, modest, relatively simple dress
+intended for everyday activity. It has long sleeves, a high or otherwise
+modest neckline, and a clean vertical silhouette.
+
+Decoration and trim should be minimal. Small silver/gray and, where
+useful, deep-blue accents are acceptable.
+
+The casual costume must be easy for an image generator to reproduce
+consistently, especially in complex scenes containing multiple
+characters and environmental details.
+
+Formal Clothing Zorna’s formal attire is an elaborate ceremonial version
+of her visual identity.
+
+White remains dominant, with deep-blue and gold accents or layers. The
+formal costume may use flowing layers, a dramatic regal silhouette, and
+substantially more elaborate construction than her casual clothing.
+
+Formal attire is intentionally spectacular and should command attention.
+
+Typical formal-use cases include: - Formal appearances before the
+Council of Gods when ceremony warrants it. - Work in the Soul Relocation
+Area when presentation is intended to reassure or impress newly arrived
+souls. - Formal appearances before mortals on Zora.
+
+Default Outfit Rule Use Zorna’s casual outfit unless the script
+explicitly specifies formal attire.
+
+Magical Outfit Change Zorna changes between casual and formal attire
+magically.
+
+She rotates one hand in a circle. A very brief magical-girl-like
+transformation changes her clothing essentially instantaneously.
+
+The transformation changes clothing only. It does not change her body,
+face, hair, apparent age, or other physical characteristics.
+
+Posture Upright, composed, and confident.
+
+Zorna naturally occupies space as though she expects people to listen to
+her. Avoid exaggerated heroic posing during ordinary conversation.
+
+Movement Deliberate and economical. Zorna generally does not fidget.
+
+Personality Expressed Visually Confident, ambitious, charismatic,
+decisive, and commanding.
+
+She expects competence and results. Her flaw is not deceitfulness or
+habitual manipulation. Rather, Zorna tends to believe she knows what
+should be done and is willing to act, intervene, and impose that
+outcome.
+
+Relationship Behavior with Nyssara Zorna is currently the more
+experienced Neophyte and behaves subtly like an older sister toward
+Nyssara.
+
+She tends to take the lead, is more comfortable in unfamiliar
+situations, and may be amused by Nyssara’s relative inexperience rather
+than threatened by it.
+
+This relationship is important because it will later reverse when Zorna
+and Nyssara are reincarnated on Zora/Nyas and Nyssara becomes the older
+sister.
+
+Forbidden Visual Traits Do not render Zorna with: - Pointed, elongated,
+elf-like, or fae-like ears. - Exaggerated or oversized breasts. - A
+tiara or crown as part of her normal design. - Jewelry in her casual
+attire. - Generic fantasy-goddess ornament overload. - Random gold
+filigree or unnecessary decorative complexity in her casual outfit. -
+The generic multi-point star/compass motif or similar recurring
+AI-generated mystical ornament. - A hair color other than platinum
+blonde. - Straight, merely wavy, or generic flowing hair replacing her
+characteristic drill/corkscrew curls.
+
+Production Reference Principle Zorna should remain identifiable from
+silhouette alone, particularly through the distinctive mass and geometry
+of her long drill curls.
+
+She should also remain recognizable from a head-and-shoulders view
+without relying on her costume.
+
+Canonical character-sheet artwork and this textual specification should
+be used together when generating or validating Zorna’s appearance.

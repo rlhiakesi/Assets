@@ -1,0 +1,296 @@
+ALPHA — CANONICAL CHARACTER SPECIFICATION
+
+Identity Alpha is the Supreme God and head of the Council of Gods.
+
+He is the only being capable of creating entire worlds. He does not seek
+worship or glory and normally intervenes only when necessary to preserve
+creation and the divine order.
+
+Council Position Alpha occupies the fixed 12:00 position at the Council
+table.
+
+There are seven ordinary voting Council members besides Alpha. Alpha
+normally does not involve himself in routine Council voting because he
+expects the seven members to produce a majority.
+
+He votes or resolves a decision when an abstention, absence, recusal, or
+similar circumstance prevents the ordinary Council from reaching a
+decision.
+
+Routine administrative work and unnecessary bureaucracy irritate him.
+
+Apparent Age 80.
+
+Alpha is actually far older than any existing world. Eighty is the
+visual age target only.
+
+Height Approximately 6 feet 4 inches (193 cm).
+
+Build Broad-shouldered and physically powerful despite his apparent age.
+
+Alpha must look old, but never frail. His body should communicate that
+age has not diminished his fundamental physical presence.
+
+Face Clearly elderly male facial proportions.
+
+Deep but natural age lines, forehead lines, crow’s feet, weathered skin,
+and aged hands are appropriate.
+
+His face should communicate intelligence, patience, enormous experience,
+and authority.
+
+Avoid making him look merely middle-aged with white hair.
+
+Avoid making him look sickly, weak, or decrepit.
+
+Eyes Steel blue.
+
+His resting eyes may appear tired, observant, or mildly bored.
+
+When Alpha focuses on a person or situation, his gaze becomes extremely
+direct and penetrating.
+
+Skin Fair and weathered by apparent age.
+
+Ears Normal human-shaped ears.
+
+Neither pointed nor elongated. Never render Alpha with elf-like,
+fae-like, or otherwise pointed ears.
+
+Hair Pure white.
+
+Very long, thick, and slightly wavy.
+
+The hair is swept backward from the forehead with no bangs.
+
+It reaches approximately to the shoulder blades.
+
+The hair should remain less visually massive than the beard.
+
+Do not give Alpha a center-parted youthful hairstyle, bangs, elaborate
+braids, or ornamental hair accessories.
+
+Beard Pure white.
+
+Extremely full, thick, and long.
+
+The beard reaches approximately to the upper waist.
+
+It should remain broad and substantial toward the bottom rather than
+tapering into a narrow stereotypical wizard point.
+
+The beard is one of Alpha’s strongest identifying features and must
+remain consistent.
+
+Do not shorten it into an ordinary chest-length beard.
+
+Do not make it excessively neat, sculpted, braided, jeweled, or
+ornamented.
+
+Default Outfit Alpha has one canonical outfit.
+
+He does not maintain separate casual and formal wardrobes.
+
+Use this outfit unless a script explicitly requires something
+exceptional.
+
+The outfit consists of: - Ivory/white inner robe. - Ivory/white outer
+mantle. - Restrained warm-gold edging. - Broad simple warm-brown or
+muted-gold belt. - Simple brown leather sandals.
+
+The silhouette is long, heavy, simple, and monumental.
+
+The robes should communicate authority through quality, scale, and
+simplicity rather than decorative complexity.
+
+Outfit Simplification Avoid complicated belt hardware.
+
+Avoid dangling medallions, chains, multiple buckles, hanging cords,
+tassels, or small accessories that are likely to drift between generated
+images.
+
+Gold trim should be restrained and repeatable.
+
+The back of the robe should remain plain ivory/white with restrained
+edging.
+
+Do not place a large emblem on the back.
+
+Jewelry None.
+
+Alpha does not require jewelry to communicate rank.
+
+Do not add crowns, tiaras, circlets, necklaces, rings, ornamental
+chains, jeweled belts, or decorative magical artifacts unless explicitly
+required by a script.
+
+Symbols Alpha has no generic star, compass, magic-circle, or similar
+emblem as part of his canonical appearance.
+
+Never use the recurring multi-point star/compass motif commonly
+introduced by AI-generated fantasy artwork.
+
+If a specific Alpha or Council symbol is later designed, it must be
+defined separately and intentionally.
+
+Posture Upright, relaxed, and immensely self-assured.
+
+Alpha does not pose theatrically to establish authority.
+
+He may stand quietly with his arms relaxed, rest one hand near his belt,
+stroke his beard while listening, or extend a hand when addressing
+someone.
+
+He should look like someone who assumes he will be obeyed because
+experience has taught him that he will be.
+
+Movement Slow, deliberate, and economical.
+
+Alpha rarely makes unnecessary gestures.
+
+He does not rush.
+
+When he moves decisively, the action should carry weight precisely
+because his normal movement is so controlled.
+
+Presence Alpha does not normally radiate visible magical energy.
+
+Do not surround him with a permanent aura, glow, lightning, floating
+runes, magical particles, or other effects merely to communicate power.
+
+His authority comes from physical presence, behavior, rank, and the
+reactions of others.
+
+Visible supernatural effects should become significant when Alpha
+actually exercises extraordinary power, especially during world
+creation.
+
+Voice Deep, resonant, calm, and controlled.
+
+Alpha rarely raises his voice.
+
+He normally speaks only as loudly as necessary.
+
+When Alpha speaks with full authority, others listen without requiring
+theatrical shouting.
+
+Personality Patient. Quiet. Observant. Extremely difficult to anger.
+Wise. Pragmatic. Authoritative. Dry sense of humor. Values order,
+balance, honesty, and competent decision-making. Willing to admit
+mistakes. Dislikes pointless bureaucracy.
+
+Alpha normally allows other Gods to govern, debate, and solve problems
+themselves.
+
+He does not micromanage.
+
+When he does intervene, the consequences are significant.
+
+Philosophy Power exists to preserve creation, not to glorify oneself.
+
+Alpha believes divine civilization must continue to grow rather than
+merely preserve and recycle what already exists.
+
+He is willing to spend accumulated worship reserves to create something
+valuable today rather than indefinitely postpone creation in order to
+preserve the reserves.
+
+Relationship with Terra Terra is Alpha’s trusted special assistant and
+advisor.
+
+Alpha values her judgment, institutional memory, and ability to
+recognize solutions others overlook.
+
+Their familiarity should be visible in their interactions. Terra can
+speak to Alpha with considerably less ceremony than ordinary
+subordinates.
+
+Relationship with the Council Alpha is Council head but normally remains
+above routine decision-making.
+
+He expects the seven ordinary voting members to resolve ordinary
+disagreements.
+
+He finds it mildly irritating when their voting structure forces him to
+resolve matters that he believes they should have settled themselves.
+
+In Chapter 1, the first 3–3–1 deadlock produces irritation.
+
+The second 3–3–1 deadlock produces a full facepalm/faceplant and the
+line:
+
+(Alpha: “…OMG.”)
+
+This comedic reaction is canonical and should not undermine Alpha’s
+authority. The humor works because someone of Alpha’s status is being
+forced to deal with committee dysfunction.
+
+Expression and Emotional Range Alpha’s default expression is neutral,
+observant, and slightly weary.
+
+Important recurring expressions include: - Neutral / observant. - Calm
+authority. - Thoughtful. - Slight amusement / dry humor. - Concerned. -
+Disapproving. - Irritated. - Disbelief. - Facepalm. - Genuine hearty
+laughter. - Focused authority. - Anger, used rarely.
+
+Alpha’s anger should be uncommon. When he becomes genuinely angry, it
+should feel consequential.
+
+His humor is generally dry and understated.
+
+World Creation Only Alpha, as Council head, possesses the power to
+create an entire world.
+
+World creation is extraordinary even for him and consumes enormous
+accumulated divine power.
+
+When Alpha creates a world, supernatural effects may become vast and
+spectacular.
+
+This contrast is important: Alpha normally displays little or no visible
+magical energy, making the scale of creation more impressive when he
+actually exercises that power.
+
+Shape Language Alpha’s visual identity is based on mass, simplicity, and
+vertical weight rather than decorative motifs.
+
+His silhouette should read as: - Very tall. - Broad shoulders. - Long
+ivory robes. - Long white hair. - Enormous white beard. - Minimal
+ornament.
+
+He should resemble a monumental white column rather than an elaborately
+decorated fantasy monarch.
+
+Visual Differentiation Alpha is visually distinct from the other
+principal divine characters through: - Male sex. - Apparent age
+approximately 80. - Height approximately 6 feet 4 inches. - Broad
+powerful build. - Pure-white shoulder-blade-length hair. - Extremely
+long, full white beard. - Steel-blue eyes. - Heavy ivory/white robes. -
+Minimal ornamentation. - No visible permanent magical aura.
+
+Forbidden Visual Traits Do not render Alpha with: - A crown, tiara,
+circlet, or royal headpiece. - Pointed or elven ears. - Short hair. -
+Dark hair. - A short or narrow wizard beard. - A braided or jeweled
+beard. - A frail, sickly, or decrepit body. - A youthful or merely
+middle-aged face. - Excessive gold filigree. - Complicated belt
+hardware. - Multiple dangling cords, chains, medallions, or tassels. - A
+large emblem on the back of his robe. - A generic multi-point
+star/compass symbol. - A permanent magical aura. - Floating runes or
+magic circles when he is merely standing or speaking. - A stereotypical
+wizard hat, staff, or wand unless explicitly required by the script. - A
+throne as an intrinsic part of his character identity.
+
+Production Reference Principle Alpha should remain immediately
+identifiable from silhouette alone.
+
+His strongest silhouette anchors are his exceptional height, broad
+shoulders, long simple robes, shoulder-blade-length white hair, and
+enormous upper-waist-length white beard.
+
+From a head-and-shoulders view, the combination of clearly elderly
+facial features, swept-back pure-white hair, massive white beard,
+steel-blue eyes, and deeply experienced expression should make him
+unmistakable.
+
+Canonical character-sheet artwork and this textual specification should
+be used together when generating or validating Alpha’s appearance.

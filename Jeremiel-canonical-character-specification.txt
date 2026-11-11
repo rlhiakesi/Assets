@@ -1,0 +1,129 @@
+JEREMIEL CANONICAL CHARACTER SPECIFICATION
+IAKESI Revised Edition
+
+PURPOSE
+This file is the binding textual reference for Jeremiel in Chapter 4 and later appearances. Use it together with Jeremiel-character-sheet.png and Jeremiel-expression-sheet.png. If an incidental rendering conflicts with this specification, this specification controls unless the script explicitly establishes a temporary change.
+
+IDENTITY
+Name: Jeremiel
+Race: Zoran
+Sex: Male
+Age during Chapter 4: 63
+Height: Approximately 5 feet 10 inches (178 cm)
+Build: Lean, slightly angular, and naturally dignified; neither frail nor muscular
+Ears: Human ears only; never pointed or elven
+Status: Retired senior councilman
+Former public role: Statesman and senior member of the Zoran Council
+Continuing roles: Scholar, natural philosopher, magical researcher, and teacher
+Residence: Near the Royal Assembly in the capital of Zora
+Contemporary nicknames: Old Six Schools; The Prophet of Tomorrow
+
+STORY FUNCTION
+Jeremiel is a respected former member of the governing institution, not an unknown outsider. His former Council service explains his access to the chamber, his familiarity with its members, and the Council's familiarity with his repeated arguments. Their mockery is institutional and personal: they know him, respect his history, and believe his six-school theory is an eccentric fixation. His eventual vindication therefore carries greater weight.
+
+PERSONALITY
+Jeremiel is quiet, patient, deeply curious, logical, humble, compassionate, honest, and principled. He is never vindictive. He prefers understanding, evidence, and instruction over confrontation. Mockery does not provoke him into anger. He can issue a grave warning without becoming theatrical or self-important. His kindness remains visible even when he is exhausted or afraid.
+
+FACE AND HEAD
+Apparent age: Early sixties
+Face: Lean and mature, with defined cheekbones, gentle eyes, deep smile lines, and restrained age lines
+Eyes: Warm gray to amber-brown; never glowing unless a script explicitly describes a temporary magical effect
+Hair: White, short-to-medium length, loosely layered and slightly tousled
+Forelock: One persistent forelock falls between or near the eyes and must remain recognizable across views
+Facial hair: Short white mustache connected to a narrow, pointed chin beard
+Cheeks: No full cheek beard
+Default expression: Thoughtful, humane, observant, and quietly determined
+
+SILHOUETTE
+Jeremiel must remain recognizable when his face is small. His binding silhouette consists of:
+- asymmetrical ivory sleeveless scholar's mantle;
+- dark high-collared robe;
+- diagonal leather harness;
+- rigid cylindrical scroll case carried across his back;
+- small six-circle brass clasp at the throat;
+- lean scholarly posture rather than the rigid bearing of an active official.
+
+CLOTHING
+Inner garment: Very dark midnight-blue high-collared scholar's robe, appearing nearly black in deep shadow
+Outer garment: Asymmetrical ivory sleeveless mantle with restrained antique-gold embroidery and tassel details
+Harness: Worn brown leather, diagonally crossing the torso and supporting the scroll case
+Waist: Layered practical belts suitable for notebooks, ink, and small research tools
+Boots: Practical, worn, dark brown scholar's travel boots
+Condition: Well maintained but visibly used; scholarly rather than wealthy or ceremonial
+Official distinction: Jeremiel does not wear a current Council uniform
+Forbidden insignia: No Council sun or star emblem, no large emblem on the back, and no obsolete wheel-shaped Six Schools emblem
+
+SIX SCHOOLS CLASP
+The small brass clasp at Jeremiel's throat is the canonical Six Schools symbol.
+Construction: Exactly six linked circular settings
+Five circles: Each contains a small abstract symbol representing an established school
+Sixth circle: Completely empty until a script explicitly requires a later altered form
+Meaning: Knowledge is incomplete; an empty place must remain for what has not yet been discovered
+Rendering rule: The clasp must not become a seven-circle device, a wheel, a Council emblem, a compass rose, or a magical halo
+
+ACCESSORIES
+Primary accessory: Rigid cylindrical scroll case worn diagonally across the back
+Common carried items: Scrolls, notebook, writing instruments, ink, and small belt pouches
+Hands: Two or more fingertips commonly carry visible ink stains
+Weapons: None by default
+Staff or wand: None
+
+COLOR PALETTE
+Hair: White, approximately #E5E4E2
+Eyes: Warm gray or amber-brown
+Skin: Natural warm complexion appropriate to the character sheet
+Main robe: Very dark midnight blue, approximately #151A2A; nearly black in shadow
+Mantle: Warm ivory, approximately #EDE6D6
+Embroidery: Antique gold, approximately #C49A3A
+Clasp: Aged brass, approximately #8B6B3C
+Harness and boots: Worn dark brown leather, approximately #3A2D21
+
+EXPRESSIONS
+Jeremiel's expressions remain controlled and mature. Canonical expressions include:
+- neutral kindness;
+- thoughtful concentration;
+- patient instruction;
+- quiet warning;
+- restrained amusement;
+- tolerant skepticism;
+- startled fear;
+- grave concern;
+- exhausted determination;
+- scholarly excitement;
+- gentle smile;
+- firm resolve.
+Avoid exaggerated slapstick distortion, wild rage, villainous smirking, or youthful anime affectations.
+
+POSTURE AND MOVEMENT
+Jeremiel stands with a slightly relaxed scholarly posture. He may lean forward when explaining an idea or examining evidence. His gestures are economical and purposeful: raising one finger, opening a notebook, presenting a chart, or patiently waiting for a room to quiet. He does not pose like a warrior, monarch, or active government official.
+
+CHAPTER 4 CONTINUITY
+Chapter 4 occurs over approximately one to three months. Jeremiel does not visibly age during the chapter. Keep his hair length, beard length, facial age, costume construction, and core accessories consistent. Temporary fatigue, dust, snow, ink, or clothing wear may vary when supported by the scene.
+
+PROHIBITED DRIFT
+- No pointed or elven ears.
+- No blond, brown, or gray-brown hair.
+- No long tied hair or ponytail.
+- No full cheek beard.
+- No muscular or heroic-warrior physique.
+- No active Council uniform.
+- No crown, armor, weapon, staff, or wand.
+- No Council sun or star insignia.
+- No large back emblem.
+- No old wheel-shaped Six Schools emblem.
+- No more or fewer than six circles in the canonical clasp.
+- No symbol in the empty sixth circle unless explicitly required by the script.
+- No automatic magical aura or glowing eyes.
+- Do not depict him as an unknown outsider to the Council.
+- Do not state that his warnings went unheard.
+- Do not claim that he personally invented mana-crystal refining methods.
+- Do not add claims about his death or the later Temple of Light without explicit script authority.
+
+RENDERING PRIORITY
+When detail must be simplified, preserve in this order:
+1. White layered hair with the persistent forelock and pointed beard
+2. Human ears and mature lean face
+3. Asymmetrical ivory mantle over the midnight-blue robe
+4. Diagonal scroll-case harness
+5. Six-circle brass clasp with one empty circle
+6. Ink-stained fingers and practical scholarly accessories

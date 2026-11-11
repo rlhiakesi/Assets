@@ -1,0 +1,259 @@
+ZORA CULTURAL DEVELOPMENT SPECIFICATION
+IAKESI Production Canon
+
+PURPOSE
+
+This document defines the canonical visual and cultural attributes of Zora for use in scripts, asset generation, page rendering, and continuity review. It incorporates the formative history established in the revised IAKESI Chapter 2 production script and the mature Zoran civilization shown in later chapters.
+
+When this file conflicts with incidental detail in generated artwork, this specification controls. Explicit script instructions and specialized production specifications may refine the general conventions. Mandatory species traits remain controlling unless the script identifies a non-Zoran character or a deliberate disguise.
+
+
+1. TERMINOLOGY
+
+Zora
+    The world and civilization.
+
+Zoran
+    A person, object, custom, language, or design originating in Zora.
+
+Zorna
+    The goddess associated with Zora. Do not confuse Zorna with the world.
+
+
+2. MANDATORY ZORAN PHYSICAL ATTRIBUTES
+
+2.1 Hair
+
+- Zoran males have white hair.
+- Zoran females have platinum-blonde hair.
+- Elderly Zorans may have gray undertones, but their hair remains recognizably white or platinum rather than brown, black, red, or strongly yellow.
+- Long, flowing hair is common among Zoran women.
+- Braids, partial braids, twists, and restrained ornamental arrangements are common.
+- Zoran men commonly wear short- to medium-length white hair.
+- Older Zoran men may have white beards.
+
+2.2 Ears
+
+- All Zorans have normal human ears.
+- Never depict Zorans with pointed, elongated, elven, or otherwise nonhuman ears.
+
+2.3 General appearance
+
+- Zorans are human in anatomy and proportion.
+- Children, adults, and elderly people must be visually distinguishable.
+- The population includes normal variation in facial structure, build, complexion, and eye color.
+- Blue and blue-gray eyes are common but not mandatory.
+- Grooming is generally clean, refined, and orderly in mature Zora. Early settlements must remain materially appropriate to their period.
+
+
+3. CLOTHING
+
+3.1 Historical progression
+
+- Years 1-100: simple handmade clothing from locally available hides, fibers, and woven material; repaired and reused garments; no mature Zoran finery.
+- Years 100-450: improving woven clothing, practical layers, and regional craft variation.
+- Years 450-1,000: increasing specialization, more consistent tailoring, dyes, decorative borders, and garments suited to specific crafts.
+- Mature Zora: flowing tunics, robes, layered dresses, long coats, fitted bodices, and draped outer garments.
+- Do not place mature academy uniforms, elaborate court clothing, or later blue-crystal ornament in early village scenes.
+
+3.2 Mature clothing language
+
+- Clothing is graceful and carefully made but remains appropriate to the wearer's work.
+- Common colors include ivory, cream, white, pale gray, soft gold, and muted blue.
+- Gold embroidery, blue crystal ornaments, fine borders, botanical patterns, and celestial motifs are common.
+- Modern Earth garments and fasteners must not appear unless explicitly required.
+
+3.3 Imperial Magic Academy cadets
+
+- All Zoran Imperial Magic Academy cadets wear the standard Academy uniform unless the script explicitly specifies otherwise.
+- The uniform remains consistent across panels, pages, crowds, and recurring scenes.
+- Permitted variation normally consists of hairstyle, face, body type, minor authorized accessories, and established rank or specialization insignia.
+- Instructors, administrators, healers, guests, and other non-cadets may wear role-specific clothing.
+
+
+4. ZORAN LANGUAGE AND ENVIRONMENTAL WRITING
+
+4.1 Development
+
+- Before Years 650-850, do not show a mature Zoran writing system.
+- During Years 650-850, practical tallies and repeated marks may appear, but they are not yet complete writing.
+- During Years 850-1,000, those marks become standardized and capable of preserving instructions and knowledge.
+- Mature environmental writing follows the canonical Zoran language and script specification.
+
+4.2 Visual construction
+
+- Zoran script uses geometric glyphs constructed from circles, rectangles, squares, triangles, hollow pentagons, diamonds, dots, short lines, and compound combinations.
+- Glyphs must appear organized, repeatable, and deliberately written, not like random decoration.
+- Formal inscriptions may use large, balanced, or symmetrical arrangements.
+- Books, scrolls, records, classroom boards, and working notes may use denser horizontal rows.
+
+4.3 Use
+
+Use canonical Zoran script for signs, books, scrolls, maps, charts, documents, official records, classroom boards, inscriptions, plaques, monuments, instruments, control surfaces, and labels physically present in the world.
+
+The geometric-script rule does not apply to narration boxes, dialogue balloons, thought balloons, chapter titles, credits, or other reader-facing editorial text. Reader-facing text remains in the normal publication language and lettering style.
+
+
+5. DOORS AND ENTRANCES
+
+- In mature Zora, standard doors have no handles, knobs, latches, hinges, push bars, buttons, keypads, or visible mechanical controls.
+- A Zoran opens a door by applying mana.
+- The door slides horizontally into a concealed pocket in the adjacent wall.
+- Door activation may use a restrained glow around the hand, an illuminated geometric glyph, a thin line of light around the doorway, or a subtle architectural response.
+- Do not give early settlements mature mana-operated doors unless the script explicitly introduces them.
+
+
+6. ARCHITECTURE AND CITY DESIGN
+
+6.1 Early eras
+
+- The first settlements use timber, thatch, earth, rough stone, and other local materials.
+- Architecture improves gradually as knowledge, population, specialization, trade, and mana practice develop.
+- Early villages must not resemble the mature magical cities of later chapters.
+
+6.2 Mature Zora
+
+- Mature architecture uses pale stone, ivory surfaces, gold trim, and blue crystalline accents.
+- Buildings favor domes, slender towers, spires, arches, colonnades, large windows, and graceful vertical lines.
+- Cities are spacious, orderly, prosperous, and integrated with water and cultivated greenery.
+- Common elements include canals, bridges, fountains, gardens, flowering plants, plazas, ceremonial halls, domed civic buildings, crystalline windows, and mountain vistas.
+- Workshops, classrooms, hospitals, and homes retain an elegant handcrafted quality.
+
+
+7. MANA AND EVERYDAY MAGIC
+
+7.1 Early mortal mana
+
+- Mana first appears in Years 250-450 as a weak, difficult, poorly understood effect: a flame bends toward a young woman's hand without touching it.
+- Other Zorans cautiously repeat the effect.
+- During Years 450-650, controlled mana can assist heat, limited lifting, and water sensing, but ordinary people still perform the physical work.
+- During Years 650-850, specialized practices spread through direct teaching and repeated demonstration.
+- During Years 850-1,000, written mana instructions allow practices to survive beyond a single teacher; controlled light is among the practices that can be recorded.
+- During the formative drought, rain-calling fails. Mortal mana cannot simply command weather.
+- Mana remains weak, practical, effortful, and specialized. It does not eliminate scarcity, injury, fatigue, labor, tools, or communal knowledge.
+
+7.2 Mature mana
+
+- In mature Zora, controlled magic is integrated into household work, healing, construction, agriculture, education, lighting, civic functions, and art.
+- Routine magic is controlled, precise, and graceful rather than explosive.
+- Magical competence is learned and practiced rather than an effortless miracle.
+- Follow Zora-mana-effects-sheet.png for the appearance and limitations of mortal effects.
+- Never render early mortal mana as large beams, explosive spellcasting, effortless telekinesis, or divine-scale weather control.
+
+
+8. MANA-BASED TECHNOLOGY
+
+- Zoran mana technology develops gradually from learned practices; it does not exist in mature form at creation.
+- Mature devices rely on crystals, geometric structures, engraved patterns, mana fields, or direct interaction with the user.
+- Magical displays may resemble luminous diagrams, suspended images, or structured fields while retaining Zora's geometric and crystalline language.
+- Devices often integrate into furniture, walls, floors, or architecture rather than appearing as separate Earth-style machinery.
+- Avoid unapproved keyboards, electrical switches, handheld electronic screens, visible wiring, combustion engines, industrial control panels, or contemporary interfaces.
+
+
+9. HEALING TRADITION
+
+- Healing begins as accumulated practical knowledge and weak, localized mana assistance.
+- It becomes a major formal Zoran discipline only through generations of teaching, recording, and refinement.
+- Mature healers use books, diagrams, crystals, prepared workspaces, demonstrations, and supervised practice.
+- Healing magic is controlled and localized, not violent, limitless, or automatically instantaneous.
+
+
+10. FAMILY, EDUCATION, AND SOCIAL CONTINUITY
+
+- Zoran society is strongly intergenerational.
+- In the first centuries, parents and other adults teach children gathering, food preservation, fire-making, safe plants, crafts, and emerging mana practices.
+- Knowledge later passes through writing and formal instruction as well as family teaching.
+- Zoran society values continuity, patience, craftsmanship, education, healing, beauty, gratitude, and social harmony.
+
+
+11. CIVIC AND SOCIAL CHARACTER
+
+- Early settlements grow into towns with communal storage, designated work areas, craft specialization, and informal leadership.
+- Roads, travelers, merchants, markets, civic leadership, worship, and preserved stories emerge gradually rather than existing from Year 0.
+- Mature Zora is peaceful, cooperative, prosperous, and community-oriented.
+- Institutions favor continuity, proven customs, and social stability rather than rapid transformation.
+- New techniques are adopted gradually and preserved once established.
+
+
+12. RELIGION AND DIVINE NONINTERFERENCE
+
+- Zoran religion is associated with light, beauty, flowers, gratitude, music, and communal celebration.
+- Zorna is associated with warm golden radiance and refined blue-and-gold ornamentation.
+- During the formative drought, Zorans pray and attempt rain-calling, but their mortal mana cannot produce rain.
+- Zorna prepares to intervene, but Terra and Nyssara stop her. The gathered power dissipates without changing the weather.
+- Zorna does not supply water and receives no credit for ending the drought.
+- Zorans investigate, reinforce wells, dig communal shafts, reach groundwater, and construct storage cisterns through their own effort. Weak water-sensing mana may help choose or refine a location, but it does not create water or complete the labor.
+- This event teaches Zorna why divine mercy can also determine what a civilization becomes. Zorna remains emotionally unconvinced that noninterference is always merciful.
+- Do not portray the drought as establishing habitual divine rescue or learned cultural dependence on miracles.
+
+
+13. CULTURAL DEVELOPMENT ACROSS TIME
+
+13.1 Years 1-100
+
+- Small settlements grow through several generations.
+- Adults teach survival knowledge directly to children.
+- Culture remains oral and materially simple.
+
+13.2 Years 100-250
+
+- Agriculture, seed selection, irrigation ditches, animal domestication, food storage, pottery, and improving crafts develop.
+
+13.3 Years 250-450
+
+- Zorans discover weak mortal mana through a faint effect on flame.
+- Repetition begins turning an accident into a teachable practice.
+
+13.4 Years 450-650
+
+- Mana assists heat, limited lifting, and water sensing while physical labor remains essential.
+- Settlements expand into towns with communal storage, designated work areas, and informal leadership.
+
+13.5 Years 650-850
+
+- Paths, roads, and sledges improve travel.
+- Specialized mana practices spread through teachers and apprentices.
+- Tallies and repeated marks begin supporting exchange and memory but are not yet mature writing.
+
+13.6 Years 850-1,000
+
+- Repeated marks become standardized writing.
+- Written mana instruction and controlled light demonstrate that knowledge can survive beyond the original teacher.
+- The first millennium closes with both civilizations possessing durable writing.
+
+13.7 After the first millennium
+
+- Nyas demonstrates an early public dispute process based on argument, voting, negotiated rules, and compliance.
+- A river rescue becomes an exceptional, ambiguous divine intervention: Terra subtly moves a log to save one child. It is not a public miracle and does not establish a general policy of rescue.
+- A severe drought follows. Both civilizations investigate and dig communal wells. Both reach groundwater without divine intervention.
+- The wheel is discovered after the drought, first through a child's rolling clay disk and then a craftswoman's axle and platform.
+- Organized caravans and wheeled carts follow. Zoran travelers carry crafted goods and written mana teachings between communities.
+- Neither people has yet crossed the great mountain valley into the other's territory at the end of the chapter.
+
+13.8 Long-term development
+
+- Zora develops from small settlements into an extensive urban magical civilization.
+- Development is cumulative and conservative: later generations refine inherited practices rather than discarding them wholesale.
+- Long peace and widespread mana make mature Zoran institutions and visual culture change gradually, but stability must not be confused with an absence of development.
+
+
+14. PRODUCTION CONTINUITY CHECKLIST
+
+[ ] Every Zoran male has white hair.
+[ ] Every Zoran female has platinum-blonde hair.
+[ ] Every Zoran has human ears.
+[ ] Clothing, architecture, and technology match the historical era.
+[ ] Academy cadets wear the standard uniform unless specifically exempted.
+[ ] Environmental writing uses canonical geometric glyphs only after writing develops.
+[ ] Narration and dialogue remain normally readable by the audience.
+[ ] Mature doors have no handles and slide horizontally into the wall through mana.
+[ ] Early mortal mana is weak, practical, effortful, and limited.
+[ ] Rain-calling fails during the drought.
+[ ] Zorna does not end the drought or supply water.
+[ ] Zorans find groundwater and construct wells through mortal effort.
+[ ] Unapproved modern Earth technology and writing are absent.
+
+
+15. CORE VISUAL SUMMARY
+
+Zora begins as a materially simple human civilization distinguished by white-haired men, platinum-blonde women, human ears, and weak emerging mana. Across centuries it develops agriculture, crafts, roads, writing, wells, wheeled transport, trade, institutions, and increasingly reliable magical practices. Mature Zora is recognized by elegant pale-and-gold clothing, geometric environmental writing, handleless mana-operated sliding doors, pale-stone architecture, blue crystalline systems, gardens, waterways, intergenerational teaching, and controlled magic integrated into ordinary life. The formative drought ends through mortal investigation and labor, not divine rescue.
